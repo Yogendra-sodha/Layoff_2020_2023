@@ -1,0 +1,1692 @@
+Company,Location_HQ,Industry,Laid_Off_Count,Percentage,Date,Source,Funds_Raised,Stage,Date_Added,Country,List_of_Employees_Laid_Off
+Dunzo,Bengaluru,Food,300.0,0.3,4/5/2023,economictimes,382.0,Unknown,4/6/2023 3:11,India,Unknown
+Amplitude,SF Bay Area,Data,99.0,0.13,4/5/2023,amplitude,311.0,Post-IPO,4/5/2023 18:14,United States,Unknown
+1K Kirana,Gurugram,Retail,600.0,0.4,4/4/2023,moneycontrol,,Series B,4/4/2023 9:45,India,Unknown
+Boost,New York City,Finance,15.0,0.2,4/4/2023,boostinsurance,37.0,Series B,4/5/2023 0:23,United States,Unknown
+Hyland Software,Cleveland,Other,1000.0,0.2,4/3/2023,cleveland,,Acquired,4/4/2023 4:27,United States,Unknown
+View,SF Bay Area,Other,170.0,0.23,4/3/2023,therealdeal,2300.0,Post-IPO,4/5/2023 0:24,United States,Unknown
+Textio,Seattle,Recruiting,15.0,0.12,4/3/2023,geekwire,42.0,Unknown,4/4/2023 9:39,United States,Unknown
+Domestika,Madrid,Education,89.0,0.45,3/31/2023,lavanguardia,130.0,Series D,4/1/2023 2:01,Spain,Unknown
+Hulu,Beijing,Media,200.0,,3/30/2023,en,683.0,Acquired,3/31/2023 4:00,China,Unknown
+Roku,SF Bay Area,Media,200.0,0.06,3/30/2023,reuters,208.0,Post-IPO,3/30/2023 22:58,United States,Unknown
+LendingTree,Charlotte,Finance,150.0,0.13,3/30/2023,wsoctv,,Post-IPO,4/1/2023 1:58,United States,Unknown
+FanClash,Gurugram,Consumer,100.0,0.75,3/30/2023,inc42,50.0,Series B,3/31/2023 3:54,India,Unknown
+Loop,Austin,Finance,19.0,0.25,3/30/2023,coverager,24.0,Series A,4/3/2023 3:41,United States,Unknown
+Spotify,Stockholm,Media,15.0,,3/30/2023,bloomberg,2100.0,Post-IPO,4/1/2023 2:00,Sweden,Unknown
+CoverMyMeds,Columbus,Healthcare,800.0,,3/29/2023,dispatch,5.0,Acquired,3/29/2023 23:07,United States,Unknown
+Electronic Arts,SF Bay Area,Consumer,780.0,0.06,3/29/2023,wsj,2.0,Post-IPO,3/29/2023 21:00,United States,Unknown
+Seagate,SF Bay Area,Hardware,480.0,,3/29/2023,in,,Post-IPO,4/1/2023 2:09,United States,Unknown
+Drizly,Boston,Retail,100.0,,3/29/2023,brewbound,119.0,Acquired,3/31/2023 3:56,United States,Unknown
+Lucid Motors,SF Bay Area,Transportation,1300.0,0.18,3/28/2023,techcrunch,8300.0,Post-IPO,3/29/2023 0:54,United States,Unknown
+Blue Nile,Seattle,Retail,119.0,,3/28/2023,retaildive,62.0,Acquired,3/29/2023 0:56,United States,Unknown
+AEye,SF Bay Area,Transportation,46.0,0.33,3/28/2023,investors,314.0,Post-IPO,3/29/2023 23:07,United States,Unknown
+Rackspace,San Antonio,Data,275.0,,3/27/2023,bizjournals,17.0,Acquired,3/28/2023 0:14,United States,Unknown
+Aspiration,Los Angeles,Finance,170.0,,3/24/2023,ccwd,250.0,Unknown,3/29/2023 0:44,United States,Unknown
+Veeam,Columbus,Data,200.0,,3/23/2023,blocksandfiles,500.0,Acquired,3/24/2023 18:36,United States,Unknown
+TakeOff,Kyiv,Retail,50.0,,3/23/2023,dou,146.0,Unknown,3/26/2023 21:25,Ukraine,Unknown
+Slite,Paris,Other,10.0,0.25,3/23/2023,linkedin,15.0,Series A,3/24/2023 18:39,France,Unknown
+Indeed,Austin,HR,2200.0,0.15,3/22/2023,indeed,5.0,Acquired,3/22/2023 16:24,United States,Unknown
+Logitech,Geneva,Hardware,300.0,,3/22/2023,bloomberg,,Post-IPO,3/23/2023 16:47,Switzerland,Unknown
+Glassdoor,SF Bay Area,HR,140.0,0.15,3/22/2023,glassdoor,204.0,Acquired,3/22/2023 21:04,United States,https://docs.google.com/spreadsheets/d/1WL5GRUK7FYW83bIy8cuwdx7R5UGbhYj1AuAqi8Kcj84/edit
+Wejo,Chester,Transportation,40.0,0.16,3/22/2023,wejo,376.0,Post-IPO,3/24/2023 18:27,United Kingdom,Unknown
+Just Eat,London,Food,1700.0,,3/21/2023,yahoo,,Acquired,3/21/2023 23:55,United Kingdom,Unknown
+Marvell,SF Bay Area,Hardware,320.0,0.04,3/21/2023,bloomberg,,Post-IPO,3/21/2023 23:29,United States,Unknown
+Workhuman,Dublin,HR,130.0,0.1,3/21/2023,independent,131.0,Unknown,3/21/2023 23:35,Ireland,Unknown
+FreshBooks,Toronto,Finance,80.0,0.1,3/21/2023,betakit,331.0,Unknown,3/21/2023 23:32,Canada,Unknown
+Xing,Hamburg,HR,68.0,,3/21/2023,mopo,,Series A,3/21/2023 23:35,Germany,Unknown
+Mr Yum,Melbourne,Food,40.0,,3/21/2023,linkedin,101.0,Series A,3/21/2023 23:57,Australia,Unknown
+Smallcase,Bengaluru,Finance,15.0,0.04,3/21/2023,businesstoday,62.0,Series C,3/21/2023 3:43,India,Unknown
+Amazon,Seattle,Retail,9000.0,,3/20/2023,cnbc,108.0,Post-IPO,3/20/2023 15:07,United States,Unknown
+Livspace,Bengaluru,Retail,100.0,0.02,3/17/2023,inc42,431.0,Series F,3/20/2023 3:46,India,Unknown
+Symend,Calgary,Other,50.0,0.25,3/17/2023,betakit,148.0,Series C,3/23/2023 16:41,Canada,Unknown
+Coherent,SF Bay Area,Manufacturing,108.0,,3/16/2023,siliconvalley,,Post-IPO,3/17/2023 4:11,United States,Unknown
+Runtastic,Linz,Fitness,70.0,0.28,3/16/2023,nachrichten,,Acquired,3/16/2023 15:14,Austria,Unknown
+Course Hero,SF Bay Area,Education,42.0,0.15,3/16/2023,techcrunch,477.0,Series C,3/16/2023 21:24,United States,Unknown
+Leafly,Seattle,Retail,40.0,0.21,3/16/2023,geekwire,71.0,Post-IPO,3/17/2023 0:24,United States,Unknown
+Klaviyo,Boston,Marketing,140.0,,3/15/2023,techcrunch,778.0,Unknown,3/16/2023 1:12,United States,Unknown
+Dukaan,Bengaluru,Retail,56.0,0.3,3/15/2023,inc42,17.0,Series A,3/16/2023 15:16,India,Unknown
+Boxed,New York City,Retail,32.0,0.25,3/15/2023,crainsnewyork,365.0,Post-IPO,3/17/2023 15:54,United States,Unknown
+TradeWindow,Auckland,Finance,25.0,0.3,3/15/2023,nbr,24.0,Series B,3/15/2023 15:26,New Zealand,Unknown
+Meta,SF Bay Area,Consumer,10000.0,,3/14/2023,about,26000.0,Post-IPO,3/14/2023 15:19,United States,Unknown
+Fetch,Madison,Retail,100.0,0.1,3/14/2023,theinformation,581.0,Series E,3/14/2023 20:25,United States,Unknown
+Anchorage Digital,SF Bay Area,Crypto,75.0,0.2,3/14/2023,theinformation,487.0,Series D,3/15/2023 15:36,United States,Unknown
+Avidbots,Kitchener,Hardware,50.0,0.14,3/14/2023,therecord,106.0,Series C,3/17/2023 0:25,Canada,Unknown
+Samsung,SF Bay Area,Hardware,30.0,,3/14/2023,zeebiz,,Post-IPO,3/15/2023 15:42,United States,Unknown
+Kaleidoscope,Minneapolis,Finance,15.0,0.3,3/14/2023,bizjournals,16.0,Series A,3/17/2023 0:22,United States,Unknown
+GoTo Group,Jakarta,Transportation,600.0,,3/10/2023,reuters,1300.0,Post-IPO,3/10/2023 15:57,Indonesia,Unknown
+Cookpad,Tokyo,Consumer,80.0,,3/10/2023,nikkei,,Unknown,3/15/2023 15:37,Japan,Unknown
+Xero,Wellington,Finance,800.0,0.15,3/9/2023,stuff,681.0,Post-IPO,3/9/2023 6:03,New Zealand,https://docs.google.com/spreadsheets/d/1mmQOBZmL0K9lsEgRp-EeRKwgEftuhehj6wEak-JdgWA/edit#gid=0
+Shopee,Jakarta,Food,200.0,,3/9/2023,techinasia,,Unknown,3/10/2023 15:58,Indonesia,Unknown
+Gopuff,Philadelphia,Food,100.0,0.02,3/9/2023,bloomberg,3400.0,Series H,3/10/2023 5:21,United States,Unknown
+Wave Financial,Toronto,Finance,50.0,,3/9/2023,thelogic,79.0,Acquired,3/10/2023 5:17,Canada,Unknown
+Morning Brew,New York City,Media,40.0,,3/9/2023,axios,,Acquired,3/9/2023 19:38,United States,Unknown
+Wattpad,Toronto,Unknown,42.0,0.15,3/8/2023,betakit,117.0,Acquired,3/9/2023 6:05,Canada,Unknown
+Pristyn Care,Gurugram,Healthcare,300.0,0.15,3/7/2023,yourstory,177.0,Series E,3/7/2023 15:44,India,Unknown
+Zwift,Los Angeles,Fitness,80.0,0.15,3/7/2023,dcrainmaker,619.0,Series C,3/8/2023 5:06,United States,Unknown
+Atlassian,Sydney,Other,500.0,0.05,3/6/2023,cnbc,210.0,Post-IPO,3/7/2023 0:12,Australia,https://docs.google.com/spreadsheets/d/1-QzKH6l-a6rrW9rBAZuVWgMgVi_-8TgbQhNVe-s8IEQ/edit#gid=0
+SiriusXM,New York City,Media,475.0,0.08,3/6/2023,variety,525.0,Post-IPO,3/7/2023 0:15,United States,Unknown
+Alerzo,Ibadan,Retail,400.0,,3/6/2023,techcabal,16.0,Series B,3/7/2023 1:30,Nigeria,Unknown
+UKG,Miami,HR,265.0,,3/6/2023,bizjournals,,Unknown,3/8/2023 15:39,United States,Unknown
+UpGrad,Mumbai,Education,120.0,,3/6/2023,financialexpress,631.0,Unknown,3/7/2023 1:26,India,Unknown
+No Fluff Jobs,Gydnia,HR,13.0,,3/4/2023,wirtualnemedia,,Acquired,4/3/2023 3:43,Poland,Unknown
+Loft,Sao Paulo,Real Estate,340.0,0.15,3/3/2023,startups,788.0,Unknown,3/3/2023 23:01,Brazil,Unknown
+Embark Trucks,SF Bay Area,Transportation,230.0,0.7,3/3/2023,techcrunch,317.0,Post-IPO,3/3/2023 22:57,United States,Unknown
+Lendi,Sydney,Real Estate,100.0,,3/3/2023,theaustralian,59.0,Unknown,3/3/2023 23:09,Australia,Unknown
+UserTesting,SF Bay Area,Marketing,63.0,,3/3/2023,bizjournals,152.0,Acquired,3/4/2023 0:59,United States,Unknown
+Airbnb,SF Bay Area,Travel,30.0,,3/3/2023,bloomberg,6400.0,Post-IPO,3/4/2023 3:56,United States,Unknown
+Zscaler,SF Bay Area,Security,177.0,0.03,3/2/2023,crn,148.0,Post-IPO,3/3/2023 22:59,United States,Unknown
+MasterClass,SF Bay Area,Education,79.0,,3/2/2023,bizjournals,461.0,Series E,3/4/2023 0:59,United States,Unknown
+Ambev Tech,Blumenau,Food,50.0,,3/2/2023,omunicipioblumenau,,Acquired,3/4/2023 0:50,Brazil,Unknown
+Fittr,Pune,Fitness,30.0,0.11,3/2/2023,inc42,13.0,Series A,3/3/2023 23:07,India,Unknown
+CNET,SF Bay Area,Media,12.0,0.1,3/2/2023,theverge,20.0,Acquired,3/4/2023 3:57,United States,Unknown
+Thoughtworks,Chicago,Other,500.0,0.04,3/1/2023,techcrunch,748.0,Post-IPO,3/2/2023 4:06,United States,Unknown
+iFood,Sao Paulo,Food,355.0,0.06,3/1/2023,economia,2100.0,Subsidiary,3/2/2023 4:13,Brazil,Unknown
+Color Health,SF Bay Area,Healthcare,300.0,,3/1/2023,beckershospitalreview,482.0,Series E,3/3/2023 22:55,United States,https://airtable.com/shrztJEMNaqMAUOyr/tbliqmZamSABWdDoP
+Waymo,SF Bay Area,Transportation,209.0,0.08,3/1/2023,theinformation,5500.0,Subsidiary,3/2/2023 4:08,United States,Unknown
+PayFit,Paris,HR,200.0,0.2,3/1/2023,lesechos,495.0,Series E,3/2/2023 4:17,France,Unknown
+Yellow.ai,SF Bay Area,Support,200.0,,3/1/2023,inc42,102.0,Series C,3/2/2023 4:12,United States,Unknown
+Sonder,SF Bay Area,Travel,100.0,0.14,3/1/2023,sec,839.0,Post-IPO,3/2/2023 4:16,United States,Unknown
+Electronic Arts,Baton Rouge,Consumer,200.0,,2/28/2023,kotaku,2.0,Post-IPO,3/2/2023 4:10,United States,Unknown
+Eventbrite,SF Bay Area,Consumer,80.0,0.08,2/28/2023,reuters,557.0,Post-IPO,3/1/2023 0:59,United States,https://docs.google.com/spreadsheets/d/1HWHQissWfO_u0hDYgOv9OYCUDbpWImXTT0od04G2fJg/htmlview
+Sono Motors,Munich,Transportation,300.0,,2/27/2023,twitter,126.0,Post-IPO,2/28/2023 5:02,Germany,https://docs.google.com/spreadsheets/d/1l_rGoc_GegLiJ3mgkqM54VIkRvJV3KQA7SYtAWfb-jw/edit#gid=1208363482
+Cerebral,SF Bay Area,Healthcare,285.0,0.15,2/27/2023,businessinsider,462.0,Series C,2/27/2023 23:41,United States,Unknown
+Amount,Chicago,Finance,130.0,0.25,2/27/2023,chicagobusiness,283.0,Unknown,3/3/2023 23:03,United States,Unknown
+Palantir,Denver,Data,75.0,0.02,2/27/2023,cnbc,3000.0,Post-IPO,2/27/2023 23:40,United States,Unknown
+Outreach,Seattle,Sales,70.0,0.07,2/27/2023,geekwire,489.0,Series G,2/28/2023 18:44,United States,Unknown
+Stytch,SF Bay Area,Security,19.0,0.25,2/27/2023,bizjournals,126.0,Series B,3/1/2023 0:51,United States,Unknown
+BitSight,Tel Aviv,Security,40.0,,2/26/2023,calcalistech,401.0,Unknown,2/27/2023 17:26,Israel,Unknown
+Twitter,SF Bay Area,Consumer,200.0,0.1,2/25/2023,nytimes,12900.0,Post-IPO,2/26/2023 20:58,United States,Unknown
+Ericsson,Stockholm,Other,8500.0,0.08,2/24/2023,reuters,663.0,Post-IPO,2/24/2023 5:00,Sweden,Unknown
+SAP Labs,Bengaluru,Other,300.0,,2/24/2023,economictimes,1300.0,Subsidiary,2/24/2023 23:40,India,Unknown
+Velodyne Lidar,SF Bay Area,Transportation,220.0,,2/24/2023,mercurynews,575.0,Acquired,2/24/2023 18:32,United States,Unknown
+Medallia,SF Bay Area,Support,59.0,,2/24/2023,mercurynews,325.0,Acquired,2/24/2023 18:30,United States,Unknown
+Eat Just,SF Bay Area,Food,40.0,,2/24/2023,bloomberg,465.0,Unknown,2/27/2023 17:24,United States,Unknown
+Lucira Health,SF Bay Area,Healthcare,26.0,,2/24/2023,mercurynews,132.0,Post-IPO,2/24/2023 18:31,United States,Unknown
+Stax,Orlando,Finance,24.0,,2/24/2023,bizjournals,263.0,Series D,2/26/2023 2:05,United States,Unknown
+Merative,Ann Arbor,Healthcare,200.0,0.1,2/23/2023,theregister,,Acquired,2/26/2023 21:23,United States,Unknown
+OneFootball,Berlin,Marketing,150.0,0.32,2/23/2023,businessinsider,442.0,Series D,2/24/2023 16:02,Germany,Unknown
+The Iconic,Sydney,Retail,69.0,0.06,2/23/2023,insideretail,,Unknown,2/24/2023 5:09,Australia,Unknown
+EVgo,Los Angeles,Transportation,40.0,,2/23/2023,businesswire,400.0,Post-IPO,2/24/2023 5:10,United States,Unknown
+StrongDM,SF Bay Area,Infrastructure,40.0,,2/23/2023,strongdm,76.0,Series B,2/23/2023 22:34,United States,Unknown
+Synamedia,London,Media,200.0,0.12,2/22/2023,calcalistech,,Unknown,2/27/2023 17:29,United Kingdom,Unknown
+TaskUs,San Antonio,Support,186.0,,2/22/2023,expressnews,279.0,Post-IPO,2/23/2023 22:35,United States,Unknown
+Green Labs,Seoul,Food,350.0,0.7,2/21/2023,techcrunch,214.0,Series C,2/21/2023 19:27,South Korea,Unknown
+Polygon,Bengaluru,Crypto,100.0,0.2,2/21/2023,inc42,451.0,Unknown,2/21/2023 19:54,India,Unknown
+Crunchyroll,Tokyo,Media,85.0,,2/21/2023,animenewsnetwork,26.0,Unknown,2/22/2023 15:16,Japan,Unknown
+Ethos Life,SF Bay Area,Finance,50.0,,2/21/2023,coverager,406.0,Series D,2/24/2023 16:01,United States,Unknown
+Bolt,Lagos,Transportation,17.0,,2/21/2023,techpoint,,Series F,2/22/2023 2:48,Nigeria,Unknown
+MyGate,Bengaluru,Other,200.0,0.3,2/20/2023,inc42,79.0,Series B,2/20/2023 18:16,India,Unknown
+Fireblocks,New York City,Crypto,30.0,0.05,2/20/2023,calcalistech,1000.0,Series E,2/22/2023 2:47,United States,Unknown
+Kinde,Sydney,Other,8.0,0.28,2/20/2023,news,10.0,Seed,2/20/2023 4:15,Australia,Unknown
+HP,Tel Aviv,Hardware,100.0,,2/19/2023,themarker,4200.0,Post-IPO,2/20/2023 4:15,Israel,Unknown
+Micron,Boise,Hardware,2400.0,0.05,2/17/2023,ktvb,50.0,Post-IPO,4/1/2023 2:06,United States,Unknown
+Tencent,Shenzen,Consumer,300.0,,2/17/2023,brandequity,12600.0,Post-IPO,2/17/2023 17:26,China,Unknown
+Evernote,SF Bay Area,Consumer,129.0,,2/17/2023,techcrunch,290.0,Acquired,2/27/2023 17:20,United States,Unknown
+Chipper Cash,SF Bay Area,Finance,100.0,0.33,2/17/2023,techweez,302.0,Series C,2/20/2023 18:18,United States,Unknown
+DocuSign,SF Bay Area,Sales,680.0,0.1,2/16/2023,cnbc,536.0,Post-IPO,2/16/2023 15:33,United States,Unknown
+Pico Interactive,SF Bay Area,Other,400.0,0.2,2/16/2023,pandaily,62.0,Acquired,2/16/2023 15:56,United States,Unknown
+The RealReal,SF Bay Area,Retail,230.0,0.07,2/16/2023,theinformation,356.0,Post-IPO,2/16/2023 17:45,United States,Unknown
+Smartsheet,Seattle,Other,85.0,0.03,2/16/2023,bizjournals,152.0,Post-IPO,2/17/2023 21:30,United States,Unknown
+Wix,Tel Aviv,Marketing,370.0,0.06,2/15/2023,calcalistech,58.0,Post-IPO,2/15/2023 21:00,Israel,Unknown
+ServiceTitan,Los Angeles,Sales,221.0,0.08,2/15/2023,theinformation,1100.0,Series G,2/16/2023 17:44,United States,Unknown
+Neon,Sao Paulo,Finance,210.0,0.09,2/15/2023,seudinheiro,720.0,Series D,2/15/2023 21:58,Brazil,https://docs.google.com/spreadsheets/d/1HPjbndRJEq8OppLnQ17gjLKWGTLDCihH88KJ3ERr_10/htmlview#gid=0
+Jellysmack,Paris,Media,208.0,,2/15/2023,theinformation,22.0,Series C,2/16/2023 17:46,France,Unknown
+DigitalOcean,New York City,Infrastructure,200.0,0.11,2/15/2023,theregister,491.0,Post-IPO,2/15/2023 22:55,United States,https://docs.google.com/spreadsheets/d/1NFER_9iyOPHorGdML96zEbgfzcgN_5DqGJoRaCFipx0/edit?resourcekey#gid=1469096412
+Sprinklr,New York City,Support,100.0,0.04,2/15/2023,techcrunch,429.0,Post-IPO,2/15/2023 19:05,United States,Unknown
+Betterment,New York City,Finance,28.0,,2/15/2023,businessinsider,435.0,Series F,2/16/2023 16:07,United States,Unknown
+CommerceHub,Albany,Retail,371.0,0.31,2/14/2023,bizjournals,,Acquired,2/15/2023 0:49,United States,Unknown
+Twilio,SF Bay Area,Other,1500.0,0.17,2/13/2023,cnbc,614.0,Post-IPO,2/13/2023 16:24,United States,Unknown
+Electric,New York City,Other,141.0,0.25,2/13/2023,electric,212.0,Series D,2/14/2023 15:14,United States,Unknown
+EMX Digital,New York City,Marketing,100.0,1.0,2/13/2023,businessinsider,,Unknown,2/24/2023 18:35,United States,Unknown
+PetLove,Sao Paulo,Retail,94.0,,2/13/2023,oglobo,225.0,Series C,2/15/2023 21:57,Brazil,Unknown
+iRobot,Boston,Consumer,85.0,0.07,2/13/2023,cnbc,30.0,Acquired,2/14/2023 15:06,United States,Unknown
+Collective Health,SF Bay Area,Healthcare,54.0,,2/13/2023,linkedin,719.0,Series F,2/15/2023 2:06,United States,Unknown
+Magic Eden,SF Bay Area,Crypto,22.0,,2/13/2023,decrypt,170.0,Series B,2/14/2023 15:12,United States,Unknown
+Moladin,Jakarta,Transportation,360.0,0.11,2/12/2023,aimgroup,138.0,Series B,2/13/2023 17:52,Indonesia,Unknown
+TripleLift,New York City,Marketing,100.0,0.2,2/10/2023,adexchanger,16.0,Acquired,2/13/2023 17:51,United States,Unknown
+Titan Medical,Toronto,Healthcare,48.0,0.72,2/10/2023,fiercebiotech,278.0,Post-IPO,3/10/2023 15:59,Canada,Unknown
+TikTok India,Mumbai,Consumer,40.0,,2/10/2023,livemint,9400.0,Acquired,2/10/2023 16:57,India,Unknown
+Yahoo,SF Bay Area,Consumer,1600.0,0.2,2/9/2023,axios,6.0,Acquired,2/9/2023 19:04,United States,Unknown
+Misfits Market,Philadelphia,Food,649.0,0.33,2/9/2023,bizjournals,526.0,Series C,2/16/2023 15:45,United States,Unknown
+Deliveroo,London,Food,350.0,0.09,2/9/2023,news,1700.0,Post-IPO,2/9/2023 16:21,United Kingdom,Unknown
+Olive AI,Columbus,Healthcare,215.0,0.35,2/9/2023,axios,856.0,Series H,2/10/2023 0:47,United States,https://docs.google.com/spreadsheets/d/1dGu7jbSjzgP0JqaYEMunouIS5S2tYK5McY2DBmehyRg/edit
+Oportun,SF Bay Area,Finance,155.0,0.1,2/9/2023,seekingalpha,566.0,Post-IPO,3/2/2023 4:19,United States,Unknown
+GitLab,SF Bay Area,Product,130.0,0.07,2/9/2023,cnbc,413.0,Post-IPO,2/9/2023 15:53,United States,Unknown
+Bark,New York City,Retail,126.0,0.12,2/9/2023,investors,,Post-IPO,2/10/2023 2:01,United States,https://docs.google.com/spreadsheets/d/19az7feguB2oPaVZmg91c4iYvOuwSbEEH-t1gSOUiMHM/edit#gid=304684298
+Nomad Health,New York City,Healthcare,119.0,0.17,2/9/2023,forbes,218.0,Unknown,2/10/2023 21:21,United States,https://docs.google.com/spreadsheets/d/1r5lHfTtqbVf5OYtrlqZNacxqvII-tM6N1luYYEL7wa0/edit#gid=0
+Veriff,Tallinn,Security,66.0,0.12,2/9/2023,digipro,192.0,Series C,2/9/2023 16:24,Estonia,Unknown
+REE Automotive,Tel Aviv,Transportation,31.0,0.11,2/9/2023,calcalistech,317.0,Post-IPO,2/11/2023 0:26,Israel,Unknown
+GoDaddy,Phoenix,Marketing,530.0,0.08,2/8/2023,techstartups,800.0,Post-IPO,2/8/2023 22:43,United States,Unknown
+Affirm,SF Bay Area,Finance,500.0,0.19,2/8/2023,wsj,1500.0,Post-IPO,2/8/2023 21:27,United States,https://docs.google.com/spreadsheets/d/1thtK4ppRXt_tnd_6cOqoEBAClOnOm5AgUgXnERzlQJM/edit#gid=0
+Gusto,SF Bay Area,HR,126.0,0.05,2/8/2023,gusto,746.0,Series E,2/8/2023 17:20,United States,https://docs.google.com/spreadsheets/d/17D1FSnCSoA3C2ocJgAFuDdpMsWlcpmWWL1aZ4PT3K20/htmlview
+Gong,SF Bay Area,Sales,80.0,0.07,2/8/2023,calcalistech,583.0,Series E,2/8/2023 19:31,United States,Unknown
+Beam Benefits,Columbus,Healthcare,31.0,0.08,2/8/2023,bizjournals,168.0,Series E,2/17/2023 17:23,United States,Unknown
+Equitybee,SF Bay Area,Finance,24.0,0.25,2/8/2023,calcalistech,85.0,Series B,2/9/2023 0:44,United States,Unknown
+Zoom,SF Bay Area,Other,1300.0,0.15,2/7/2023,cnbc,276.0,Post-IPO,2/7/2023 18:47,United States,https://coda.io/@alumni/zoom-alumni-list
+eBay,SF Bay Area,Retail,500.0,0.04,2/7/2023,reuters,1200.0,Post-IPO,2/7/2023 22:26,United States,https://docs.google.com/spreadsheets/d/19dj85tMJDVQ4v-85elXfMNn7R9UwOcqOFSzoQnGa2T4/edit?resourcekey#gid=766625628
+SecureWorks,Atlanta,Security,212.0,0.09,2/7/2023,marketwatch,83.0,Post-IPO,2/7/2023 15:30,United States,Unknown
+Salesloft,Atlanta,Sales,100.0,0.1,2/7/2023,bizjournals,245.0,Acquired,2/8/2023 17:24,United States,Unknown
+Openpay,Melbourne,Finance,83.0,1.0,2/7/2023,9news,299.0,Post-IPO,2/7/2023 3:58,Australia,Unknown
+LearnUpon,Dublin,Education,27.0,0.09,2/7/2023,independent,56.0,Private Equity,2/8/2023 17:37,Ireland,Unknown
+Dell,Austin,Hardware,6650.0,0.05,2/6/2023,bloomberg,,Post-IPO,2/6/2023 15:48,United States,Unknown
+Loggi,Sao Paulo,Logistics,300.0,0.07,2/6/2023,infomoney,507.0,Series F,2/7/2023 3:45,Brazil,Unknown
+Catch.com.au,Melbourne,Retail,100.0,,2/6/2023,channelnews,80.0,Acquired,2/14/2023 15:11,Australia,Unknown
+VinFast US,Los Angeles,Transportation,80.0,,2/6/2023,bloomberg,,Subsidiary,2/8/2023 17:53,United States,Unknown
+Drift,Boston,Marketing,59.0,,2/6/2023,bizjournals,107.0,Acquired,2/7/2023 3:56,United States,Unknown
+Pocket Aces,Mumbai,Media,50.0,0.25,2/6/2023,economictimes,19.0,Unknown,2/6/2023 19:12,India,Unknown
+Clari,SF Bay Area,Sales,20.0,,2/6/2023,businessinsider,496.0,Series F,2/7/2023 4:01,United States,Unknown
+Kyruus,Boston,Healthcare,70.0,,2/5/2023,fiercehealthcare,183.0,Unknown,2/7/2023 3:49,United States,Unknown
+Lightico,Tel Aviv,Finance,20.0,0.25,2/5/2023,calcalistech,42.0,Series B,2/7/2023 4:08,Israel,Unknown
+Eightfold AI,SF Bay Area,HR,90.0,0.15,2/3/2023,nytimes,396.0,Series E,3/24/2023 18:37,United States,Unknown
+FarEye,New Delhi,Logistics,90.0,,2/3/2023,inc42,150.0,Series E,2/3/2023 15:58,India,
+Protocol Labs,SF Bay Area,Crypto,89.0,0.2,2/3/2023,forbes,10.0,Unknown,2/4/2023 4:41,United States,Unknown
+Byju's,Bengaluru,Education,1500.0,,2/2/2023,livemint,5500.0,Private Equity,2/2/2023 15:50,India,Unknown
+Okta,SF Bay Area,Security,300.0,0.05,2/2/2023,bloomberg,1200.0,Post-IPO,2/2/2023 15:48,United States,https://airtable.com/shrezINg2JegLsl3L/tblvWgpSHQtMNdYBO
+Autodesk,SF Bay Area,Other,250.0,0.02,2/2/2023,bloomberg,,Post-IPO,2/3/2023 15:59,United States,Unknown
+Mindstrong,SF Bay Area,Healthcare,127.0,,2/2/2023,bizjournals,160.0,Series C,2/3/2023 3:40,United States,Unknown
+NCC Group,Manchester,Security,125.0,0.07,2/2/2023,businesstimes,,Post-IPO,2/3/2023 20:21,United Kingdom,Unknown
+Miro,SF Bay Area,Other,119.0,0.07,2/2/2023,miro,476.0,Series C,2/2/2023 15:49,United States,Unknown
+Getir,New York City,Food,100.0,,2/2/2023,businessinsider,1800.0,Series E,2/5/2023 1:03,United States,Unknown
+Highspot,Seattle,Sales,100.0,0.1,2/2/2023,geekwire,644.0,Series F,2/3/2023 3:19,United States,Unknown
+Bittrex,Seattle,Crypto,80.0,,2/2/2023,coindesk,,Unknown,2/3/2023 3:14,United States,Unknown
+Snowplow,London,Data,40.0,,2/2/2023,linkedin,55.0,Series B,2/3/2023 15:58,United States,Unknown
+Articulate,New York City,Education,38.0,,2/2/2023,linkedin,1500.0,Series A,2/3/2023 3:16,United States,Unknown
+Splunk,SF Bay Area,Data,325.0,0.04,2/1/2023,marketwatch,2400.0,Post-IPO,2/1/2023 17:01,United States,https://docs.google.com/spreadsheets/d/1uyTQmiT0CBSJBum-GVc-TDcPyL825RkAnBu9nNIA5wc/edit?resourcekey#gid=1886320755
+Pinterest,SF Bay Area,Consumer,150.0,,2/1/2023,bloomberg,1500.0,Post-IPO,2/2/2023 1:29,United States,Unknown
+DraftKings,Boston,Consumer,140.0,0.04,2/1/2023,cnbc,719.0,Post-IPO,2/1/2023 19:08,United States,Unknown
+Cyren,Washington D.C.,Security,121.0,,2/1/2023,ir,161.0,Post-IPO,2/2/2023 15:52,United States,Unknown
+Workato,SF Bay Area,Other,90.0,0.1,2/1/2023,businessinsider,415.0,Series E,2/7/2023 3:59,United States,Unknown
+VerticalScope,Toronto,Media,60.0,0.22,2/1/2023,theglobeandmail,,Post-IPO,2/1/2023 23:26,Canada,Unknown
+Wheel,Austin,Healthcare,56.0,0.28,2/1/2023,beckershospitalreview,215.0,Series C,2/2/2023 0:04,United States,Unknown
+Chainalysis,New York City,Crypto,44.0,0.05,2/1/2023,forbes,536.0,Series F,2/2/2023 3:13,United States,Unknown
+Appgate,Miami,Security,34.0,0.08,2/1/2023,seekingalpha,,Post-IPO,2/26/2023 21:22,United States,Unknown
+Exterro,Portland,Legal,24.0,0.03,2/1/2023,oregonlive,100.0,Private Equity,2/2/2023 0:05,United States,Unknown
+TheSkimm,New York City,Media,17.0,0.1,2/1/2023,businessinsider,28.0,Series C,2/3/2023 3:49,United States,Unknown
+PayPal,SF Bay Area,Finance,2000.0,0.07,1/31/2023,cnbc,216.0,Post-IPO,1/31/2023 21:48,United States,Unknown
+NetApp,SF Bay Area,Data,960.0,0.08,1/31/2023,theregister,,Post-IPO,1/31/2023 16:33,United States,Unknown
+Workday,SF Bay Area,HR,525.0,0.03,1/31/2023,cnbc,230.0,Post-IPO,1/31/2023 16:34,United States,Unknown
+HubSpot,Boston,Marketing,500.0,0.07,1/31/2023,marketwatch,100.0,Post-IPO,1/31/2023 16:33,United States,https://hire.hubspotalumni.com/jobboard
+Upstart,SF Bay Area,Finance,365.0,0.2,1/31/2023,marketwatch,144.0,Post-IPO,1/31/2023 18:54,United States,https://docs.google.com/spreadsheets/d/1O2jqAPa7lhPAlgbzHrrUn9vpbDF2s0uu3E2f3ATlCWQ/edit#gid=1310022080
+Software AG,Frankfurt,Data,200.0,0.04,1/31/2023,investors,344.0,Post-IPO,2/4/2023 23:06,Germany,Unknown
+Wish,SF Bay Area,Retail,150.0,0.17,1/31/2023,ir,1600.0,Post-IPO,2/1/2023 5:25,United States,Unknown
+Wefox,Berlin,Finance,100.0,,1/31/2023,versicherungsmonitor,1300.0,Series D,2/1/2023 5:17,Germany,Unknown
+Tilting Point,New York City,Consumer,60.0,0.14,1/31/2023,mobilegamer,235.0,Unknown,2/1/2023 17:02,United States,Unknown
+Gokada,Lagos,Transportation,54.0,,1/31/2023,techcabal,12.0,Unknown,2/2/2023 16:34,Nigeria,Unknown
+AU10TIX,Tel Aviv,Security,19.0,0.09,1/31/2023,calcalistech,80.0,Unknown,2/7/2023 4:06,Israel,Unknown
+Philips,Amsterdam,Healthcare,6000.0,0.13,1/30/2023,reuters,,Post-IPO,1/30/2023 15:45,Netherlands,Unknown
+OLX Group,Amsterdam,Marketing,1500.0,0.15,1/30/2023,financialexpress,,Acquired,1/30/2023 15:52,Netherlands,Unknown
+Arrival,London,Transportation,800.0,0.5,1/30/2023,techcrunch,629.0,Post-IPO,1/31/2023 5:21,United Kingdom,Unknown
+Groupon,Chicago,Retail,500.0,,1/30/2023,chicagobusiness,1400.0,Post-IPO,1/31/2023 4:39,United States,https://docs.google.com/spreadsheets/d/1ffu4J_b0g2B4YLo7xvls3U2turNuS-QB2Khv5Qcrlrk/edit#gid=779115768
+Intel,SF Bay Area,Hardware,343.0,,1/30/2023,sfgate,12.0,Post-IPO,1/31/2023 4:42,United States,Unknown
+Glovo,Barcelona,Food,250.0,0.06,1/30/2023,sifted,1200.0,Acquired,1/30/2023 15:47,Spain,Unknown
+Delivery Hero,Berlin,Food,156.0,0.04,1/30/2023,newsingermany,9900.0,Post-IPO,1/31/2023 1:27,Germany,https://docs.google.com/spreadsheets/d/1MQMMYWR1e41pw1fc4qOPgfvCCe0zkCRTysIW9rHlioI/edit#gid=1649408084
+Impossible Foods copy,SF Bay Area,Food,140.0,0.2,1/30/2023,bloomberg,1900.0,Series H,1/31/2023 1:32,United States,Unknown
+Chrono24,Karlsruhe,Retail,65.0,0.13,1/30/2023,bloomberg,205.0,Series C,1/31/2023 1:33,Germany,Unknown
+Me Poupe,Sao Paulo,Finance,60.0,0.5,1/28/2023,portaldobitcoin,,Unknown,1/29/2023 20:06,Brazil,Unknown
+CoinTracker,SF Bay Area,Crypto,19.0,,1/28/2023,cointracker,101.0,Series A,1/28/2023 15:10,United States,Unknown
+SSense,Montreal,Retail,138.0,0.07,1/27/2023,betakit,,Series A,1/28/2023 15:11,Canada,https://docs.google.com/spreadsheets/d/16BgEZBKl4qqgwK0MlHy9mtI2v5p8R_o0YtDGDi2KbXY/edit#gid=606007881
+DealShare,Bengaluru,Retail,100.0,0.06,1/27/2023,moneycontrol,390.0,Series E,1/27/2023 14:27,India,Unknown
+Ruggable,Los Angeles,Retail,100.0,,1/27/2023,modernretail,,Seed,2/1/2023 5:31,United States,Unknown
+Synopsys,SF Bay Area,Other,100.0,,1/27/2023,eastbaytimes,,Post-IPO,1/28/2023 15:08,United States,Unknown
+Heycar,Berlin,Transportation,73.0,,1/27/2023,autohaus,,Unknown,1/31/2023 23:29,Germany,Unknown
+Matrixport,Singapore,Crypto,29.0,0.1,1/27/2023,coindesk,100.0,Series C,1/27/2023 14:26,Singapore,Unknown
+Shakepay,Montreal,Crypto,21.0,0.25,1/27/2023,betakit,45.0,Series A,1/28/2023 21:16,Canada,Unknown
+#Paid,Toronto,Marketing,19.0,0.17,1/27/2023,betakit,21.0,Series B,1/28/2023 21:12,Canada,Unknown
+SAP,Walldorf,Other,3000.0,0.03,1/26/2023,cnbc,1300.0,Post-IPO,1/26/2023 15:58,Germany,Unknown
+Confluent,SF Bay Area,Data,221.0,0.08,1/26/2023,investors,455.0,Post-IPO,1/26/2023 16:16,United States,Unknown
+IBM,New York City,Hardware,3900.0,0.02,1/25/2023,bloomberg,,Post-IPO,1/25/2023 23:13,United States,Unknown
+Lam Research,SF Bay Area,Hardware,1300.0,0.07,1/25/2023,bloomberg,,Post-IPO,2/1/2023 17:05,United States,Unknown
+Shutterfly,SF Bay Area,Retail,360.0,,1/25/2023,thedeadpixelssociety,50.0,Acquired,1/26/2023 21:06,United States,Unknown
+Luno,London,Crypto,330.0,0.35,1/25/2023,cnbc,13.0,Acquired,1/25/2023 19:22,United Kingdom,Unknown
+Clear Capital,Reno,Real Estate,250.0,0.25,1/25/2023,rgj,,Unknown,1/26/2023 1:58,United States,Unknown
+Guardant Health,SF Bay Area,Healthcare,130.0,0.07,1/25/2023,genomeweb,550.0,Post-IPO,1/26/2023 1:51,United States,Unknown
+SirionLabs,Seattle,Legal,130.0,0.15,1/25/2023,inc42,171.0,Series D,1/26/2023 1:48,United States,Unknown
+Tier Mobility,Berlin,Transportation,80.0,0.07,1/25/2023,techcrunch,646.0,Series D,1/26/2023 1:56,Germany,Unknown
+Vacasa,Portland,Travel,1300.0,0.17,1/24/2023,oregonlive,834.0,Post-IPO,1/25/2023 0:20,United States,Unknown
+Innovaccer,SF Bay Area,Healthcare,245.0,0.15,1/24/2023,digitalhealth,379.0,Series E,1/24/2023 16:21,United States,Unknown
+Bolt,SF Bay Area,Finance,50.0,0.1,1/24/2023,theinformation,1300.0,Series E,1/25/2023 2:12,United States,Unknown
+PartnerStack,Toronto,Sales,40.0,0.2,1/24/2023,betakit,36.0,Series B,1/24/2023 23:03,Canada,Unknown
+Gitpod,Kiel,Product,21.0,0.28,1/24/2023,gitpod,41.0,Series A,1/25/2023 15:00,Germany,Unknown
+OFFOR Health,Columbus,Healthcare,16.0,,1/24/2023,linkedin,14.0,Series A,1/28/2023 21:04,United States,https://docs.google.com/spreadsheets/d/16m14XwR5PaPVxXD-I8ITfgy5_kHzI0SA7e_VVndAPpA/edit#gid=0
+Venngage,Toronto,Marketing,11.0,0.2,1/24/2023,betakit,,Unknown,1/25/2023 5:21,Canada,https://docs.google.com/spreadsheets/d/1ZHCjaA7r0fEJLSR1tCTFxzUQIbzBvrssKQjJMUZC_1Y/edit#gid=0
+Spotify,Stockholm,Media,600.0,0.06,1/23/2023,reuters,2100.0,Post-IPO,1/23/2023 15:43,Sweden,https://docs.google.com/spreadsheets/d/1Qd3VP_92HlU39iGbf303WlZ_is_QN7J0bb2vzr9J624/edit?resourcekey#gid=2039146764
+Uber Freight,SF Bay Area,Logistics,150.0,0.03,1/23/2023,freightwaves,2700.0,Subsidiary,1/24/2023 16:24,United States,Unknown
+Inmobi,Bengaluru,Marketing,50.0,,1/23/2023,business-standard,320.0,Unknown,1/23/2023 15:59,India,Unknown
+Innovid,New York City,Marketing,40.0,0.1,1/23/2023,marketwatch,295.0,Post-IPO,1/24/2023 16:28,United States,Unknown
+Booktopia,Sydney,Retail,30.0,,1/23/2023,cdn-api,23.0,Series A,1/23/2023 16:46,Australia,Unknown
+Ermetic,SF Bay Area,Security,30.0,0.17,1/23/2023,calcalistech,97.0,Series B,1/25/2023 0:11,United States,Unknown
+Namogoo,Tel Aviv,Marketing,20.0,0.15,1/23/2023,calcalistech,69.0,Series C,1/24/2023 5:24,United States,Unknown
+Google,SF Bay Area,Consumer,12000.0,0.06,1/20/2023,nytimes,26.0,Post-IPO,1/20/2023 14:23,United States,Unknown
+Wayfair,Boston,Retail,1750.0,0.1,1/20/2023,wsj,1700.0,Post-IPO,1/20/2023 14:25,United States,Unknown
+Swiggy,Bengaluru,Food,380.0,0.06,1/20/2023,economictimes,3600.0,Unknown,1/20/2023 1:19,India,Unknown
+MediBuddy,Bengaluru,Healthcare,200.0,0.08,1/20/2023,inc42,192.0,Acquired,1/21/2023 0:48,India,Unknown
+Vox Media,Washington D.C.,Media,130.0,0.07,1/20/2023,variety,307.0,Series F,1/21/2023 0:56,United States,Unknown
+BitTorrent,SF Bay Area,Infrastructure,92.0,,1/20/2023,bizjournals,,Acquired,2/7/2023 3:53,United States,Unknown
+Karat,Seattle,HR,47.0,,1/20/2023,geekwire,169.0,Unknown,1/21/2023 22:39,United States,Unknown
+Enjoei,Sao Paulo,Retail,31.0,0.1,1/20/2023,terra,14.0,Unknown,1/23/2023 23:16,Brazil,Unknown
+Edifecs,Seattle,Healthcare,30.0,,1/20/2023,geekwire,1.0,Unknown,1/21/2023 22:40,United States,Unknown
+Citrine Informatics,SF Bay Area,Data,22.0,0.27,1/20/2023,linkedin,64.0,Series C,1/21/2023 1:03,United States,Unknown
+Capital One,Washington D.C.,Finance,1100.0,,1/19/2023,reuters,,Post-IPO,1/20/2023 15:56,United States,Unknown
+Proterra,SF Bay Area,Transportation,300.0,,1/19/2023,news,1200.0,Post-IPO,3/7/2023 1:21,United States,Unknown
+WeWork ,New York City,Real Estate,300.0,,1/19/2023,investors,22200.0,Post-IPO,1/19/2023 17:03,United States,Unknown
+Hubilo,SF Bay Area,Other,115.0,0.35,1/19/2023,inc42,153.0,Series B,1/20/2023 1:03,United States,Unknown
+Saks.com,New York City,Retail,100.0,0.05,1/19/2023,wwd,965.0,Unknown,1/21/2023 0:37,United States,Unknown
+CS Disco,Austin,Legal,62.0,0.09,1/19/2023,d18rn0p25nwr6d,233.0,Post-IPO,1/21/2023 0:54,United States,Unknown
+Riot Games,Los Angeles,Consumer,46.0,,1/19/2023,eurogamer,21.0,Acquired,1/20/2023 1:06,United States,Unknown
+Hydrow,Boston,Fitness,30.0,,1/19/2023,bostonglobe,269.0,Series D,1/21/2023 22:41,United States,Unknown
+Microsoft,Seattle,Other,10000.0,0.05,1/18/2023,usatoday,1.0,Post-IPO,1/18/2023 2:05,United States,Unknown
+Sophos,Oxford,Security,450.0,0.1,1/18/2023,techcrunch,125.0,Acquired,1/18/2023 16:00,United States,Unknown
+Teladoc Health,New York City,Healthcare,300.0,0.06,1/18/2023,digitalhealth,172.0,Post-IPO,1/18/2023 19:49,United States,Unknown
+Vroom,New York City,Transportation,275.0,0.2,1/18/2023,seekingalpha,1300.0,Post-IPO,1/20/2023 1:00,United States,Unknown
+8x8,SF Bay Area,Support,155.0,0.07,1/18/2023,channelfutures,253.0,Post-IPO,1/18/2023 23:18,United States,Unknown
+Pagaya,New York City,Finance,140.0,0.2,1/18/2023,calcalistech,571.0,Post-IPO,1/18/2023 19:48,United States,Unknown
+Benevity,Calgary,Other,137.0,0.14,1/18/2023,benevity,69.0,Unknown,1/18/2023 19:52,Canada,https://benevity.com/benevity-talent
+Inspirato,Denver,Travel,109.0,0.12,1/18/2023,sports,179.0,Post-IPO,1/20/2023 1:07,United States,Unknown
+Jumpcloud,Boulder,Security,100.0,0.12,1/18/2023,jumpcloud,416.0,Series F,1/18/2023 22:01,United States,Unknown
+nCino,Wilmington,Finance,100.0,0.07,1/18/2023,portcitydaily,1100.0,Post-IPO,1/19/2023 4:09,United States,Unknown
+Starry,Boston,Other,100.0,0.24,1/18/2023,seekingalpha,260.0,Post-IPO,1/18/2023 23:22,United States,https://docs.google.com/spreadsheets/d/1rmKxXAUxQpZN95iqtZaFj8P03sLUXDPfQmj_jqXHRuw/edit#gid=897722994
+Hootsuite,Vancouver,Marketing,70.0,0.07,1/18/2023,theglobeandmail,300.0,Series C,1/18/2023 19:54,Canada,Unknown
+Clue,Berlin,Healthcare,31.0,0.31,1/18/2023,businessinsider,47.0,Unknown,1/18/2023 19:56,Germany,Unknown
+Addepar,SF Bay Area,Finance,20.0,0.03,1/18/2023,fortune,491.0,Series F,1/18/2023 15:58,United States,Unknown
+Lightspeed Commerce,Montreal,Retail,300.0,0.1,1/17/2023,prnewswire,1200.0,Post-IPO,1/17/2023 16:45,Canada,Unknown
+Unity,SF Bay Area,Other,284.0,0.03,1/17/2023,wsj,1300.0,Post-IPO,1/17/2023 19:58,United States,Unknown
+Britishvolt,London,Transportation,206.0,1.0,1/17/2023,nytimes,2400.0,Unknown,1/18/2023 2:07,United Kingdom,Unknown
+Clutch,Toronto,Transportation,150.0,,1/17/2023,theglobeandmail,253.0,Unknown,1/18/2023 2:16,Canada,Unknown
+Exotel,Bengaluru,Support,142.0,0.15,1/17/2023,inc42,87.0,Series D,1/18/2023 2:10,India,Unknown
+Unico,Sao Paulo,Other,110.0,0.1,1/17/2023,startups,336.0,Series D,1/18/2023 2:12,Brazil,Unknown
+Tul,Bogota,Construction,100.0,,1/17/2023,valoraanalitik,218.0,Series B,1/19/2023 4:10,Colombia,Unknown
+American Robotics,Boston,Other,50.0,0.65,1/17/2023,bostonglobe,92.0,Acquired,1/20/2023 4:44,United States,https://docs.google.com/spreadsheets/d/1REpbP_AUx5LRUDexyTbfAJJp6-pYkjssTdcDvX6FioM/edit#gid=1563244864
+Luxury Presence,Los Angeles,Real Estate,44.0,,1/17/2023,inman,31.0,Series B,1/18/2023 23:17,United States,Unknown
+RingCentral,SF Bay Area,Other,30.0,,1/17/2023,channelfutures,44.0,Post-IPO,1/18/2023 2:14,United States,Unknown
+PagBank,Sao Paulo,Finance,500.0,0.07,1/16/2023,terra,,Post-IPO,1/17/2023 4:25,Brazil,https://docs.google.com/spreadsheets/u/1/d/16EYANYICC6CF6gbBG5NOe50GDv69_sU6J6DB4sxeAGU/htmlview?usp=sharing
+ShareChat,Bengaluru,Consumer,500.0,0.2,1/16/2023,inc42,1700.0,Series H,1/16/2023 16:31,India,Unknown
+Gramophone,Indore,Food,75.0,,1/16/2023,economictimes,17.0,Series B,1/16/2023 16:47,India,Unknown
+ClearCo,Toronto,Finance,50.0,0.3,1/16/2023,betakit,698.0,Series C,1/16/2023 16:50,Canada,Unknown
+Captain Fresh ,Bengaluru,Food,120.0,,1/15/2023,economictimes,126.0,Series C,1/16/2023 16:48,India,Unknown
+Snappy,New York City,Marketing,100.0,0.3,1/15/2023,calcalistech,104.0,Series C,1/19/2023 4:15,United States,Unknown
+BharatAgri,Mumbai,Food,40.0,0.43,1/15/2023,economictimes,21.0,Series A,1/16/2023 16:49,India,Unknown
+Black Shark,Shenzen,Hardware,900.0,,1/13/2023,scmp,,Unknown,1/23/2023 16:49,China,Unknown
+Ola,Bengaluru,Transportation,200.0,,1/13/2023,businesstoday,5000.0,Series J,1/13/2023 14:50,India,Unknown
+Bonterra ,Austin,Other,140.0,0.1,1/13/2023,thenonprofittimes,,Unknown,1/17/2023 16:48,United States,Unknown
+Vial,SF Bay Area,Healthcare,40.0,,1/13/2023,businessinsider,101.0,Series B,1/14/2023 17:23,United States,Unknown
+Lending Club,SF Bay Area,Finance,225.0,0.14,1/12/2023,bloomberg,392.0,Post-IPO,1/12/2023 22:55,United States,Unknown
+SmartNews,Tokyo,Media,120.0,0.4,1/12/2023,techcrunch,410.0,Series F,1/13/2023 3:34,United States,Unknown
+Skit.ai,Bengaluru,Support,115.0,,1/12/2023,inc42,28.0,Series B,1/14/2023 17:24,India,Unknown
+Pier,Sao Paulo,Finance,111.0,0.39,1/12/2023,startups,42.0,Series B,1/12/2023 17:14,Brazil,Unknown
+Blockchain.com,London,Crypto,110.0,0.28,1/12/2023,coindesk,490.0,Series D,1/12/2023 16:22,United Kingdom,Unknown
+Greenlight,Atlanta,Finance,104.0,0.21,1/12/2023,techcrunch,556.0,Series D,1/12/2023 22:53,United States,Unknown
+Cashfree Payments,Bengaluru,Finance,100.0,,1/12/2023,economictimes,41.0,Series B,1/12/2023 16:21,India,Unknown
+Mapbox,Washington D.C.,Data,64.0,,1/12/2023,twitter,334.0,Unknown,1/20/2023 1:12,United States,Unknown
+Definitive Healthcare,Boston,Healthcare,55.0,0.06,1/12/2023,cmlviz,,Post-IPO,1/13/2023 1:55,United States,Unknown
+Akili Labs,Baltimore,Healthcare,46.0,0.3,1/12/2023,bhbusiness,,Seed,1/14/2023 17:24,United States,Unknown
+Career Karma,SF Bay Area,Education,22.0,,1/12/2023,techcrunch,51.0,Series B,1/12/2023 18:35,United States,Unknown
+Flexport,SF Bay Area,Logistics,640.0,0.2,1/11/2023,cnbc,2400.0,Series E,1/11/2023 17:30,United States,"https://alumni.flexport.com/
+"
+Qualtrics,Salt Lake City,Other,270.0,0.05,1/11/2023,marketwatch,400.0,Post-IPO,1/12/2023 15:18,United States,Unknown
+Verily,SF Bay Area,Healthcare,250.0,0.15,1/11/2023,theinformation,3500.0,Unknown,1/11/2023 21:24,United States,Unknown
+Tipalti,SF Bay Area,Finance,123.0,0.11,1/11/2023,calcalistech,565.0,Series F,1/12/2023 0:53,United States,Unknown
+Jumio,SF Bay Area,Security,100.0,0.06,1/11/2023,biometricupdate,205.0,Private Equity,1/12/2023 16:19,United States,Unknown
+CoinDCX,Mumbai,Crypto,80.0,,1/11/2023,moneycontrol,244.0,Series D,1/12/2023 15:36,India,Unknown
+HashiCorp,SF Bay Area,Security,69.0,,1/11/2023,linkedin,349.0,Post-IPO,1/12/2023 15:41,United States,Unknown
+Embark,Boston,Healthcare,41.0,,1/11/2023,linkedin,94.0,Series B,1/12/2023 15:42,United States,https://docs.google.com/spreadsheets/d/1kCaM7nTvTP152vQxUskvnXGTtOIFhw9zK1k8K_-YdiU/edit#gid=489773232
+Intrinsic,SF Bay Area,Other,40.0,0.2,1/11/2023,theinformation,,Acquired,1/12/2023 15:03,United States,Unknown
+Citizen,New York City,Consumer,33.0,,1/11/2023,techcrunch,133.0,Series C,1/12/2023 22:54,United States,Unknown
+Coinbase,SF Bay Area,Crypto,950.0,0.2,1/10/2023,cnbc,549.0,Post-IPO,1/10/2023 14:52,United States,Unknown
+Informatica,SF Bay Area,Data,450.0,0.07,1/10/2023,channelfutures,,Post-IPO,1/10/2023 23:49,United States,Unknown
+Blend,SF Bay Area,Finance,340.0,0.28,1/10/2023,inman,665.0,Post-IPO,1/10/2023 23:52,United States,Unknown
+Till Payments,Sydney,Finance,120.0,,1/10/2023,afr,95.0,Series C,1/11/2023 0:56,Australia,Unknown
+ConsenSys,New York City,Crypto,100.0,0.11,1/10/2023,coindesk,726.0,Series D,1/10/2023 23:53,United States,Unknown
+ForeScout,SF Bay Area,Security,100.0,0.1,1/10/2023,calcalistech,125.0,Post-IPO,1/10/2023 16:42,United States,Unknown
+Thinkific,Vancouver,Education,76.0,0.19,1/10/2023,betakit,22.0,Post-IPO,1/10/2023 23:54,Canada,Unknown
+LEAD,Mumbai,Education,60.0,,1/10/2023,inc42,190.0,Series E,1/11/2023 4:34,India,Unknown
+Parler,Nashville,Consumer,60.0,0.75,1/10/2023,theverge,36.0,Series B,1/11/2023 0:59,United States,Unknown
+GoBolt,Toronto,Logistics,55.0,0.05,1/10/2023,betakit,178.0,Series C,1/11/2023 0:57,Canada,Unknown
+Relevel,Bengaluru,HR,40.0,0.2,1/10/2023,inc42,,Unknown,1/12/2023 15:20,India,Unknown
+StreamElements,Tel Aviv,Media,40.0,0.2,1/10/2023,calcalistech,111.0,Series B,1/11/2023 0:59,Israel,Unknown
+Fate Therapeutics,San Diego,Healthcare,315.0,0.57,1/9/2023,sandiegouniontribune,1200.0,Post-IPO,1/13/2023 1:56,United States,Unknown
+Minute Media,London,Media,50.0,0.1,1/8/2023,calcalistech,160.0,Series I,1/9/2023 5:15,United Kingdom,Unknown
+WalkMe,SF Bay Area,Other,43.0,0.03,1/8/2023,calcalistech,307.0,Post-IPO,1/9/2023 5:14,United States,Unknown
+Huobi,Beijing,Crypto,275.0,0.2,1/6/2023,reuters,2.0,Unknown,1/6/2023 23:12,China,Unknown
+Carbon Health,SF Bay Area,Healthcare,200.0,,1/6/2023,twitter,522.0,Series D,1/7/2023 1:40,United States,Unknown
+Bounce,Bengaluru,Transportation,40.0,0.05,1/6/2023,moneycontrol,214.0,Series D,1/9/2023 5:03,India,Unknown
+Cue,San Diego,Healthcare,388.0,,1/5/2023,360dx,999.0,Post-IPO,1/6/2023 23:12,United States,Unknown
+SoundHound,SF Bay Area,Other,200.0,0.5,1/5/2023,gizmodo,326.0,Post-IPO,1/5/2023 20:21,United States,Unknown
+Socure,Reno,Finance,104.0,0.19,1/5/2023,biometricupdate,646.0,Series E,1/6/2023 1:48,United States,Unknown
+Genesis,New York City,Crypto,60.0,0.3,1/5/2023,cnbc,,Series A,1/5/2023 20:18,United States,Unknown
+Moglix,Singapore,Retail,40.0,0.02,1/5/2023,inc42,472.0,Series F,1/6/2023 1:37,Singapore,Unknown
+Twitter,SF Bay Area,Consumer,40.0,,1/5/2023,theinformation,12900.0,Post-IPO,1/6/2023 23:15,United States,Unknown
+Everlane,SF Bay Area,Retail,30.0,0.17,1/5/2023,theinformation,176.0,Unknown,1/6/2023 5:31,United States,https://docs.google.com/spreadsheets/d/1YoFJH3gcatySfxtuP8J29f8PKxa_QioV/edit#gid=1630944007
+Pecan AI,Tel Aviv,Data,30.0,0.25,1/5/2023,calcalistech,116.0,Series C,1/9/2023 5:20,Israel,Unknown
+Personetics,New York City,Support,30.0,0.08,1/5/2023,calcalistech,178.0,Private Equity,1/6/2023 1:33,United States,Unknown
+Twine Solutions ,Tel Aviv,Hardware,30.0,0.33,1/5/2023,calcalistech,50.0,Unknown,1/9/2023 5:20,Israel,Unknown
+UpScalio,Gurugram,Retail,25.0,0.15,1/5/2023,techinasia,62.0,Series B,1/6/2023 1:32,India,Unknown
+Amazon,Seattle,Retail,8000.0,0.02,1/4/2023,wsj,108.0,Post-IPO,1/5/2023 4:17,United States,Unknown
+Salesforce,SF Bay Area,Sales,8000.0,0.1,1/4/2023,nytimes,65.0,Post-IPO,1/4/2023 15:39,United States,https://docs.google.com/spreadsheets/d/1FViDWnYrEvyj7HY3MQ6tt-clf7nZ25DfyTzUrSwh-RY/htmlview
+Astronomer,Cincinnati,Data,76.0,0.2,1/4/2023,astronomer,282.0,Series C,1/6/2023 23:16,United States,Unknown
+Kaltura,New York City,Media,75.0,0.11,1/4/2023,en,166.0,Post-IPO,1/6/2023 1:41,United States,Unknown
+Augury,New York City,Manufacturing,20.0,0.05,1/4/2023,calcalistech,274.0,Series E,1/9/2023 5:13,United States,Unknown
+Pegasystems,Boston,HR,245.0,0.04,1/3/2023,bizjournals,,Post-IPO,1/4/2023 16:12,United States,Unknown
+Uniphore,SF Bay Area,Support,76.0,0.1,1/3/2023,startup,620.0,Series E,1/6/2023 1:43,United States,Unknown
+Harappa,New Delhi,Education,60.0,0.3,1/3/2023,businesstoday,,Acquired,1/4/2023 16:00,India,Unknown
+Amdocs,St. Louis,Support,700.0,0.03,1/2/2023,calcalistech,,Post-IPO,1/6/2023 1:42,United States,Unknown
+Micron,Boise,Hardware,4800.0,0.1,1/1/2023,forbes,50.0,Post-IPO,4/1/2023 2:04,United States,Unknown
+PayU,Amsterdam,Finance,150.0,0.06,12/26/2022,livemint,,Acquired,12/26/2022 23:29,Netherlands,Unknown
+Willow,Sydney,Real Estate,99.0,0.22,12/23/2022,afr,,Unknown,1/9/2023 5:01,Australia,Unknown
+Back Market,Paris,Retail,93.0,0.13,12/23/2022,sifted,1000.0,Series E,12/27/2022 16:33,France,Unknown
+Zoopla,London,Real Estate,50.0,,12/23/2022,linkedin,25.0,Series C,12/30/2022 23:25,United Kingdom,Unknown
+Qualcomm,San Diego,Hardware,153.0,,12/22/2022,sandiegouniontribune,,Post-IPO,1/4/2023 16:06,United States,Unknown
+TuSimple,San Diego,Transportation,350.0,0.25,12/21/2022,techcrunch,648.0,Post-IPO,12/18/2022 4:12,United States,Unknown
+Chope,Singapore,Food,65.0,0.24,12/20/2022,techinasia,50.0,Series E,12/28/2022 15:52,Singapore,Unknown
+Briza,Toronto,Finance,26.0,0.4,12/20/2022,betakit,10.0,Series A,12/20/2022 18:43,Canada,https://docs.google.com/spreadsheets/d/18ZMnL97fbgyh6E-fy62SEYaZweFXZnEtpVQLBCklDzo/edit#gid=1207064469
+Homebot,Denver,Real Estate,18.0,0.13,12/19/2022,homebot,4.0,Acquired,1/20/2023 1:14,United States,Unknown
+Tomorrow,Hamburg,Finance,30.0,0.25,12/16/2022,businessinsider,29.0,Unknown,12/18/2022 4:15,Germany,https://docs.google.com/spreadsheets/d/187Gljr0z-E5r8Qro6apSXX2V9t5RToKnRlxY6eJuqzI/edit#gid=0
+Revelate,Montreal,Data,24.0,0.3,12/16/2022,betakit,26.0,Series A,12/19/2022 17:17,Canada,Unknown
+BigCommerce,Austin,Retail,180.0,0.13,12/15/2022,marketwatch,224.0,Post-IPO,12/15/2022 16:20,United States,https://docs.google.com/spreadsheets/d/1S_kNxDpqK9MJAZjOnlXTkHhfFDYcSrnMnmfIP9WyNnI/edit#gid=0
+Freshworks,SF Bay Area,Support,90.0,0.02,12/15/2022,inc42,484.0,Post-IPO,12/15/2022 16:21,United States,Unknown
+LeafLink,New York City,Other,80.0,0.31,12/15/2022,mjbizdaily,379.0,Series C,2/1/2023 5:19,United States,Unknown
+Workmotion,Berlin,HR,60.0,0.2,12/15/2022,startbase,76.0,Series B,1/4/2023 16:11,United States,Unknown
+JD.ID,Jakarta,Retail,200.0,0.3,12/14/2022,jakartaglobe,5100.0,Post-IPO,12/15/2022 2:19,Indonesia,Unknown
+GoStudent,Vienna,Education,100.0,,12/14/2022,businessinsider,686.0,Series D,12/15/2022 2:11,Austria,Unknown
+Quanergy Systems,SF Bay Area,Transportation,72.0,,12/14/2022,bizjournals,175.0,Post-IPO,12/15/2022 22:44,United States,Unknown
+Headspace,Los Angeles,Healthcare,50.0,0.04,12/14/2022,bloomberg,215.0,Unknown,12/15/2022 16:16,United States,Unknown
+ChowNow,Los Angeles,Food,40.0,0.1,12/14/2022,restaurantbusinessonline,64.0,Series C,12/15/2022 2:10,United States,Unknown
+Thumbtack,SF Bay Area,Consumer,160.0,0.14,12/13/2022,,698.0,Series I,12/13/2022 20:12,United States,Unknown
+Edgio,Phoenix,Infrastructure,95.0,0.1,12/13/2022,marketscreener,462.0,Post-IPO,12/15/2022 2:14,United States,Unknown
+Komodo Health,SF Bay Area,Healthcare,78.0,0.09,12/13/2022,techcrunch,514.0,Series E,12/13/2022 20:11,United States,Unknown
+Viant,Los Angeles,Marketing,46.0,0.13,12/13/2022,businessinsider,,Post-IPO,12/21/2022 19:35,United States,Unknown
+Pluralsight,Salt Lake City,Education,400.0,0.2,12/12/2022,pluralsight,192.0,Acquired,12/12/2022 22:08,United States,https://docs.google.com/spreadsheets/d/1l10lFdaYxDWpmJorxd5cml_bBQ0qMhqngZvKEJP5m2o/edit#gid=0
+Freshly,Phoenix,Food,329.0,,12/12/2022,mouthbysouthwest,107.0,Acquired,12/14/2022 17:57,United States,Unknown
+Balto,St. Louis,Sales,35.0,,12/12/2022,bizjournals,51.0,Series B,12/13/2022 20:08,United States,Unknown
+Outschool,SF Bay Area,Education,43.0,0.25,12/10/2022,techcrunch,240.0,Series D,12/13/2022 20:07,United States,Unknown
+Xentral,Munich,Product,20.0,0.1,12/10/2022,businessinsider,94.0,Series B,12/13/2022 20:02,Germany,Unknown
+Playtika,Tel Aviv,Consumer,600.0,0.15,12/9/2022,en,,Post-IPO,12/11/2022 6:01,Israel,Unknown
+Share Now,Berlin,Transportation,150.0,0.36,12/9/2022,businessinsider,,Acquired,12/13/2022 20:05,Germany,Unknown
+Alice,Sao Paulo,Healthcare,113.0,0.16,12/9/2022,startups,174.0,Series C,12/11/2022 3:31,Brazil,Unknown
+Primer,London,Finance,85.0,0.33,12/9/2022,techcrunch,73.0,Series B,12/9/2022 16:37,United Kingdom,Unknown
+OneFootball,Berlin,Marketing,62.0,0.115,12/9/2022,company,442.0,Series D,12/21/2022 0:43,Germany,Unknown
+C2FO,Kansas City,Finance,20.0,0.02,12/9/2022,bizjournals,537.0,Series H,12/11/2022 5:58,United States,Unknown
+Airtable,SF Bay Area,Product,254.0,0.2,12/8/2022,techcrunch,1400.0,Series F,12/8/2022 17:48,United States,Unknown
+Swiggy,Bengaluru,Food,250.0,0.03,12/8/2022,inc42,3600.0,Unknown,12/9/2022 5:00,India,Unknown
+Glints,Singapore,HR,198.0,0.18,12/8/2022,techinasia,82.0,Series D,12/9/2022 5:07,Singapore,Unknown
+Buser,Sao Paulo,Transportation,160.0,0.3,12/8/2022,startups,138.0,Series C,12/11/2022 6:00,Brazil,https://docs.google.com/spreadsheets/d/1KkOxvPis13EC3MSsFtsGgNIBFv-FFEZ1-p2MTL2IDgY/htmlview
+BlackLine,Los Angeles,Finance,95.0,0.05,12/8/2022,seekingalpha,220.0,Private Equity,12/11/2022 6:15,United States,Unknown
+Chrono24,Karlsruhe,Retail,80.0,,12/8/2022,tag24,205.0,Series C,1/15/2023 14:12,Germany,Unknown
+Otonomo,Tel Aviv,Transportation,80.0,0.5,12/8/2022,calcalistech,231.0,Post-IPO,12/11/2022 6:07,Israel,Unknown
+TechTarget,Boston,Marketing,60.0,0.05,12/8/2022,marketwatch,115.0,Post-IPO,12/11/2022 6:02,United States,Unknown
+Inscripta,Boulder,Healthcare,43.0,,12/8/2022,genomeweb,459.0,Series E,12/9/2022 5:02,United States,Unknown
+CyCognito,SF Bay Area,Security,30.0,0.15,12/8/2022,calcalistech,153.0,Series C,12/9/2022 5:03,United States,Unknown
+Armis,SF Bay Area,Security,25.0,0.04,12/8/2022,calcalistech,537.0,Private Equity,12/11/2022 3:35,United States,Unknown
+Vedantu,Bengaluru,Education,385.0,,12/7/2022,economictimes,292.0,Series E,12/7/2022 16:28,India,Unknown
+Loft,Sao Paulo,Real Estate,312.0,0.12,12/7/2022,bloomberglinea,788.0,Unknown,12/8/2022 6:26,Brazil,Unknown
+Plaid,SF Bay Area,Finance,260.0,0.2,12/7/2022,techcrunch,734.0,Series D,12/7/2022 16:22,United States,https://docs.google.com/spreadsheets/d/1Tqw-IuLmMZJMvKkzH9ouq4ulDp0LEC6azKXtjh9ulpU/edit
+Motive,SF Bay Area,Transportation,237.0,0.06,12/7/2022,gomotive,567.0,Series F,12/8/2022 6:21,United States,https://docs.google.com/spreadsheets/d/e/2PACX-1vT-99jxJLo_tUHWQboamwf6yvRKUh0HCLWLWbjzbkZOWQcRzituc7D7K7wyATgOazFDtcBLSMPiKNWG/pubhtml
+Recur Forever,Miami,Crypto,235.0,,12/7/2022,classaction,55.0,Series A,1/20/2023 1:01,United States,Unknown
+Relativity,Chicago,Legal,150.0,0.1,12/7/2022,chicagobusiness,125.0,Private Equity,12/8/2022 6:22,United States,Unknown
+Voi,Stockholm,Transportation,130.0,0.13,12/7/2022,breakit,515.0,Series D,12/8/2022 6:24,United States,Unknown
+Integral Ad Science,New York City,Marketing,120.0,0.13,12/7/2022,investors,116.0,Acquired,12/8/2022 6:23,United States,Unknown
+Houzz,SF Bay Area,Consumer,95.0,0.08,12/7/2022,en,613.0,Series E,12/21/2022 16:16,United States,Unknown
+Grover,Berlin,Retail,40.0,0.1,12/7/2022,businessinsider,2300.0,Unknown,12/7/2022 19:18,United States,Unknown
+Lev,New York City,Real Estate,30.0,0.3,12/7/2022,therealdeal,114.0,Series B,12/11/2022 6:19,United States,Unknown
+Lithic,New York City,Finance,27.0,0.18,12/7/2022,axios,115.0,Series C,12/9/2022 0:46,United States,Unknown
+Doma,SF Bay Area,Finance,515.0,0.4,12/6/2022,investor,679.0,Post-IPO,12/7/2022 6:21,United States,Unknown
+Intel,SF Bay Area,Hardware,201.0,,12/6/2022,crn,12.0,Post-IPO,12/30/2022 15:57,United States,Unknown
+BuzzFeed,New York City,Media,180.0,0.12,12/6/2022,variety,696.0,Post-IPO,12/6/2022 18:40,United States,Unknown
+Weedmaps,Los Angeles,Other,175.0,0.25,12/6/2022,businessinsider,,Acquired,12/7/2022 6:29,United States,Unknown
+Adobe,SF Bay Area,Marketing,100.0,,12/6/2022,bloomberg,2.0,Post-IPO,12/7/2022 6:30,United States,Unknown
+Chipper Cash,SF Bay Area,Finance,50.0,0.125,12/6/2022,techcrunch,302.0,Series C,12/7/2022 2:37,United States,Unknown
+Stash,New York City,Finance,32.0,0.08,12/6/2022,lp,480.0,Unknown,12/7/2022 2:38,United States,Unknown
+Perimeter 81,Tel Aviv,Security,20.0,0.08,12/6/2022,calcalistech,165.0,Series C,12/7/2022 2:35,Israel,Unknown
+Koinly,London,Crypto,16.0,0.14,12/6/2022,blockworks,,Unknown,12/7/2022 6:19,United Kingdom,Unknown
+Bridgit,Waterloo,Construction,13.0,0.13,12/6/2022,therecord,36.0,Series B,12/19/2022 16:48,Canada,Unknown
+Swyftx,Brisbane,Crypto,90.0,0.4,12/5/2022,smh,,Unknown,12/5/2022 13:26,Australia,Unknown
+Aqua Security,Boston,Security,65.0,0.1,12/5/2022,calcalistech,265.0,Series E,12/6/2022 18:42,United States,Unknown
+DataRails,Tel Aviv,Finance,30.0,0.18,12/5/2022,calcalistech,103.0,Series B,12/6/2022 0:41,Israel,Unknown
+OYO,Gurugram,Travel,600.0,,12/3/2022,livemint,4000.0,Series F,12/4/2022 22:53,India,Unknown
+HealthifyMe,Bengaluru,Fitness,150.0,,12/3/2022,inc42,100.0,Series C,12/4/2022 23:00,India,Unknown
+Cognyte,Tel Aviv,Security,100.0,0.05,12/2/2022,globes,,Unknown,12/4/2022 23:02,Israel,Unknown
+ShareChat,Bengaluru,Consumer,100.0,,12/2/2022,india,1700.0,Unknown,12/3/2022 5:18,India,Unknown
+Polly,Burlington,Finance,47.0,0.15,12/2/2022,vtdigger,184.0,Series C,12/4/2022 23:10,United States,Unknown
+Carousell,Singapore,Retail,110.0,0.1,12/1/2022,straitstimes,372.0,Private Equity,12/3/2022 5:02,Singapore,Unknown
+Bizzabo,New York City,Marketing,100.0,0.37,12/1/2022,calcalistech,194.0,Series E,12/3/2022 4:57,United States,Unknown
+BloomTech,SF Bay Area,Education,88.0,0.5,12/1/2022,techcrunch,,Unknown,12/1/2022 22:20,United States,Unknown
+Netlify,SF Bay Area,Product,48.0,0.16,12/1/2022,,212.0,Series D,12/8/2022 17:03,United States,Unknown
+Springbig,Miami,Sales,37.0,0.23,12/1/2022,mjbizdaily,32.0,Post-IPO,12/19/2022 16:44,United States,Unknown
+DoorDash,SF Bay Area,Food,1250.0,0.06,11/30/2022,reuters,2500.0,Post-IPO,11/30/2022 15:21,United States,https://docs.google.com/spreadsheets/d/1fsgEbzAo9Fgy-v7J_KGIaJxuzEBQfgBKC097tgvr_pY/edit#gid=383975823
+Kraken,SF Bay Area,Crypto,1100.0,0.3,11/30/2022,blog,134.0,Unknown,11/30/2022 16:37,United States,Unknown
+Happy Money,Los Angeles,Finance,158.0,0.34,11/30/2022,,191.0,Series D,12/1/2022 22:00,United States,Unknown
+Ula,Jakarta,Retail,134.0,0.23,11/30/2022,dailysocial,140.0,Series B,12/1/2022 6:27,Indonesia,Unknown
+Wonder,New York City,Food,130.0,0.07,11/30/2022,theinformation,850.0,Series B,12/1/2022 6:37,United States,Unknown
+StudySmarter,Berlin,Education,70.0,,11/30/2022,startbase,64.0,Series A,1/12/2023 15:36,Germany,Unknown
+Grin,Sacramento,Marketing,60.0,0.13,11/30/2022,theinformation,145.0,Series B,12/3/2022 4:59,United States,Unknown
+Ualá,Buenos Aires,Finance,53.0,0.03,11/30/2022,perfil,544.0,Series D,12/1/2022 6:29,Argentina,Unknown
+Teachmint,Bengaluru,Education,45.0,0.05,11/30/2022,inc42,118.0,Series B,12/1/2022 6:34,India,Unknown
+Etermax,Buenos Aires,Other,40.0,,11/30/2022,clarin,,Unknown,12/1/2022 6:33,Argentina,Unknown
+Thread,London,Retail,30.0,0.5,11/30/2022,drapersonline,40.0,Acquired,12/11/2022 6:23,United Kingdom,Unknown
+Bitso,Mexico City,Crypto,100.0,,11/29/2022,portaldobitcoin,378.0,Series C,11/30/2022 6:19,Mexico,Unknown
+Lyst,London,Retail,50.0,0.25,11/29/2022,techcrunch,144.0,Unknown,11/30/2022 6:03,United Kingdom,Unknown
+CoinJar,Melbourne,Crypto,10.0,0.2,11/29/2022,theaustralian,1.0,Unknown,11/30/2022 6:20,Australia,Unknown
+Infarm,Berlin,Other,500.0,0.5,11/28/2022,infarm,604.0,Series D,11/29/2022 4:21,Germany,Unknown
+Wildlife Studios,Sao Paulo,Consumer,300.0,0.2,11/28/2022,mobilegamer,260.0,Unknown,11/29/2022 15:59,Brazil,https://docs.google.com/spreadsheets/d/1zyAOWdW3SFJ9bUdJWRxYGdDLEw_I6gCMlOjlrFLjqrw/edit#gid=759761140
+Hirect,Bengaluru,Recruiting,200.0,0.4,11/28/2022,livemint,,Series A,11/29/2022 4:27,India,Unknown
+ApplyBoard,Waterloo,Education,90.0,0.06,11/28/2022,therecord,483.0,Series D,11/30/2022 6:14,Canada,Unknown
+Ajaib,Jakarta,Finance,67.0,0.08,11/28/2022,techinasia,245.0,Unknown,11/30/2022 6:12,Indonesia,Unknown
+Candy Digital,New York City,Crypto,33.0,0.33,11/28/2022,decrypt,100.0,Series A,11/29/2022 4:24,United States,Unknown
+ResearchGate,Berlin,Other,25.0,0.1,11/28/2022,linkedin,87.0,Series D,11/28/2022 18:00,Germany,Unknown
+VerSe Innovation,Bengaluru,Media,150.0,0.05,11/25/2022,techcrunch,1700.0,Series J,11/28/2022 18:02,India,Unknown
+Carwow,London,Transportation,70.0,0.2,11/25/2022,ft,157.0,Unknown,11/29/2022 4:11,United Kingdom,Unknown
+Vendease,Lagos,Food,27.0,0.09,11/25/2022,techcabal,43.0,Series A,11/30/2022 5:55,Nigeria,Unknown
+Lemon,Buenos Aires,Crypto,100.0,0.38,11/24/2022,forbesargentina,17.0,Series A,11/25/2022 4:10,Argentina,https://docs.google.com/spreadsheets/u/1/d/1bCJqnr1S86iwwFbMWoAk-4Gb5CM8ZeE3AKJs_fC-1S0/htmlview#gid=0
+Quidax,Lagos,Crypto,20.0,0.2,11/24/2022,techcabal,3.0,Unknown,11/26/2022 16:24,Nigeria,Unknown
+Western Digital,SF Bay Area,Hardware,251.0,,11/22/2022,bizjournals,900.0,Post-IPO,2/13/2023 17:50,United States,Unknown
+SIRCLO,Jakarta,Retail,160.0,0.08,11/22/2022,dailysocial,92.0,Series B,11/22/2022 17:53,Indonesia,Unknown
+Trax,Singapore,Retail,80.0,0.08,11/22/2022,themarker,1000.0,Series E,11/22/2022 19:04,Singapore,Unknown
+Jumia,Lagos,Retail,900.0,0.2,11/21/2022,techcrunch,1200.0,Post-IPO,12/21/2022 17:00,Nigeria,Unknown
+Kitopi,Dubai,Food,93.0,0.1,11/21/2022,arabianbusiness,804.0,Series C,11/23/2022 4:32,United States,Unknown
+Zomato,Gurugram,Food,100.0,0.04,11/19/2022,businesstoday,914.0,Series J,11/20/2022 0:05,India,Unknown
+Carvana,Phoenix,Transportation,1500.0,0.08,11/18/2022,wsj,1600.0,Post-IPO,11/18/2022 21:34,United States,Unknown
+Nuro,SF Bay Area,Transportation,300.0,0.2,11/18/2022,techcrunch,2100.0,Series D,11/18/2022 21:35,United States,https://docs.google.com/spreadsheets/d/1hZo__wA86Uti6-Cwa6jP5AIsrh8KIB7CZax49gy3zVY/edit#gid=0
+Synthego,SF Bay Area,Healthcare,105.0,0.2,11/18/2022,fiercebiotech,459.0,Series E,11/29/2022 4:18,United States,Unknown
+Splyt,London,Transportation,57.0,,11/18/2022,linkedin,34.0,Series B,1/18/2023 23:20,United Kingdom,Unknown
+Roku,SF Bay Area,Media,200.0,0.07,11/17/2022,variety,208.0,Post-IPO,11/17/2022 17:12,United States,Unknown
+Orchard,New York City,Real Estate,180.0,,11/17/2022,inman,472.0,Series D,11/18/2022 5:15,United States,Unknown
+Homepoint,Phoenix,Real Estate,113.0,,11/17/2022,bizjournals,,Post-IPO,11/19/2022 23:33,United States,Unknown
+Juni,Gothenburg,Finance,72.0,0.33,11/17/2022,finextra,281.0,Unknown,11/19/2022 23:28,Sweden,Unknown
+Chili Piper,New York City,Sales,58.0,,11/17/2022,linkedin,54.0,Series B,11/17/2022 21:34,United States,https://docs.google.com/spreadsheets/d/1h16hlI3T2ek7azpVJlNl6Z0da-pTNiIkmwyp0HzXh0Q/edit#gid=0
+Capitolis,New York City,Finance,37.0,0.25,11/17/2022,themarker,281.0,Series D,11/18/2022 5:18,United States,Unknown
+TealBook,Toronto,Other,34.0,0.19,11/17/2022,www-theglobeandmail-com,73.0,Series B,11/17/2022 17:26,Canada,Unknown
+Koho,Toronto,Finance,15.0,0.04,11/17/2022,betakit,278.0,Series D,11/20/2022 0:17,Canada,Unknown
+&Open,Dublin,Marketing,9.0,0.09,11/17/2022,irishtimes,35.0,Series A,12/1/2022 6:17,Ireland,Unknown
+Amazon,Seattle,Retail,10000.0,0.03,11/16/2022,nytimes,108.0,Post-IPO,11/16/2022 17:40,United States,https://docs.google.com/spreadsheets/d/1f0QvaM9dwPYkcE8F_iyuH_Yd1k3PhaE76YSOUlftxpw/edit#gid=0
+Cisco,SF Bay Area,Infrastructure,4100.0,0.05,11/16/2022,bizjournals,2.0,Post-IPO,11/17/2022 17:15,United States,Unknown
+Twiga,Nairobi,Food,211.0,0.21,11/16/2022,techcrunch,157.0,Series C,11/30/2022 6:02,Kenya,Unknown
+Wayflyer,Dublin,Marketing,200.0,0.4,11/16/2022,sifted,889.0,Unknown,11/17/2022 0:29,Ireland,Unknown
+SimilarWeb,New York City,Other,120.0,0.1,11/16/2022,en,235.0,Post-IPO,11/17/2022 4:16,United States,Unknown
+Salsify,Boston,Retail,90.0,0.11,11/16/2022,bizjournals,452.0,Series F,11/17/2022 0:32,United States,Unknown
+Lokalise,Dover,Other,76.0,0.23,11/16/2022,lokalise,56.0,Series B,11/17/2022 4:19,United States,Unknown
+Yotpo,New York City,Marketing,70.0,0.09,11/16/2022,calcalistech,436.0,Unknown,11/17/2022 17:19,United States,Unknown
+Pear Therapeutics,Boston,Healthcare,59.0,0.22,11/16/2022,fiercebiotech,409.0,Post-IPO,12/11/2022 6:17,United States,Unknown
+UiPath,New York City,Data,241.0,0.06,11/15/2022,marketwatch,2000.0,Post-IPO,11/17/2022 0:00,United States,Unknown
+Asana,SF Bay Area,Other,180.0,0.09,11/15/2022,linkedin,453.0,Post-IPO,11/15/2022 16:36,United States,Unknown
+OwnBackup,New York City,Security,170.0,0.17,11/15/2022,calcalistech,507.0,Series E,11/17/2022 0:15,United States,Unknown
+Deliveroo Australia,Melbourne,Food,120.0,1.0,11/15/2022,abc,1700.0,Post-IPO,11/17/2022 17:09,Australia,Unknown
+Productboard,SF Bay Area,Product,100.0,0.2,11/15/2022,cc,,Series D,11/17/2022 0:25,United States,Unknown
+Properly,Toronto,Real Estate,71.0,,11/15/2022,inside,154.0,Series B,11/17/2022 0:21,Canada,Unknown
+Protocol,SF Bay Area,Media,60.0,1.0,11/15/2022,cnn,,Acquired,11/15/2022 18:19,United States,Unknown
+Jimdo,Hamburg,Other,50.0,0.16,11/15/2022,businessinsider,28.0,Unknown,11/17/2022 0:05,Germany,Unknown
+The Zebra,Austin,Finance,50.0,,11/15/2022,coverager,256.0,Series D,11/17/2022 0:19,United States,Unknown
+Viber,Luxembourg,Consumer,45.0,0.08,11/15/2022,calcalistech,,Acquired,11/17/2022 0:16,Luxembourg,Unknown
+CaptivateIQ,SF Bay Area,Sales,31.0,0.1,11/15/2022,,164.0,Series C,11/17/2022 0:40,United States,Unknown
+Illumina,San Diego,Healthcare,500.0,0.05,11/14/2022,genomeweb,28.0,Post-IPO,11/17/2022 0:51,United States,Unknown
+Sema4,Stamford,Healthcare,500.0,,11/14/2022,marketwatch,791.0,Post-IPO,11/14/2022 17:34,United States,Unknown
+iFit,Logan,Fitness,300.0,0.2,11/14/2022,sltrib,200.0,Private Equity,11/17/2022 0:04,United States,Unknown
+Ribbon,New York City,Real Estate,170.0,0.85,11/14/2022,businessinsider,405.0,Series C,11/22/2022 4:26,United States,Unknown
+Pipedrive,Tallinn,Sales,143.0,0.15,11/14/2022,digipro,90.0,Private Equity,11/15/2022 4:26,Estonia,https://docs.google.com/spreadsheets/d/1v6E7i9v-Qq6dWNAaIc7GNgVpvI1EJb4xUEz1EJAeh84/edit#gid=1697051533
+Intercom,SF Bay Area,Support,124.0,0.13,11/14/2022,siliconrepublic,240.0,Series D,11/14/2022 19:32,United States,Unknown
+Science 37 ,Los Angeles,Healthcare,90.0,,11/14/2022,bizjournals,347.0,Post-IPO,11/14/2022 19:31,United States,Unknown
+Pear Therapeutics,Boston,Healthcare,59.0,0.22,11/14/2022,peartherapeutics,409.0,Post-IPO,11/17/2022 4:34,United States,Unknown
+Cardlytics,Atlanta,Marketing,51.0,,11/14/2022,marketscreener,212.0,Post-IPO,11/15/2022 4:36,United States,Unknown
+Cloudinary,SF Bay Area,Media,40.0,0.08,11/14/2022,calcalistech,100.0,Unknown,11/17/2022 4:25,United States,Unknown
+Nestcoin,Lagos,Crypto,30.0,,11/14/2022,techcrunch,6.0,Seed,11/20/2022 0:07,Nigeria,Unknown
+Gokada,Lagos,Transportation,20.0,,11/14/2022,techcabal,12.0,Unknown,2/2/2023 16:36,Nigeria,Unknown
+Veev,SF Bay Area,Real Estate,100.0,0.3,11/11/2022,calcalistech,597.0,Series D,11/12/2022 2:57,United States,Unknown
+Forto,Berlin,Logistics,60.0,0.08,11/11/2022,deutsche-startups,593.0,Series D,1/4/2023 15:56,United States,Unknown
+GoTo Group,Jakarta,Transportation,1300.0,0.12,11/10/2022,reuters,1300.0,Post-IPO,11/11/2022 5:06,Indonesia,https://coda.io/@daanyal-kamaal/goto-alumni-list
+Juul,SF Bay Area,Consumer,400.0,0.3,11/10/2022,cnbc,1500.0,Unknown,11/10/2022 22:01,United States,Unknown
+Blend,SF Bay Area,Finance,100.0,0.06,11/10/2022,housingwire,665.0,Post-IPO,12/9/2022 5:11,United States,Unknown
+InfluxData,SF Bay Area,Data,65.0,0.27,11/10/2022,,119.0,Series D,11/12/2022 4:19,United States,Unknown
+Coinbase,SF Bay Area,Crypto,60.0,,11/10/2022,theinformation,549.0,Post-IPO,11/10/2022 19:40,United States,Unknown
+SoundHound,SF Bay Area,Other,45.0,0.1,11/10/2022,techcrunch,326.0,Post-IPO,11/10/2022 16:28,United States,Unknown
+Wistia,Boston,Marketing,40.0,,11/10/2022,linkedin,18.0,Unknown,11/11/2022 0:46,United States,Unknown
+Ocavu,Lehi,Crypto,20.0,0.48,11/10/2022,sltrib,11.0,Series A,11/12/2022 4:10,United States,Unknown
+Meta,SF Bay Area,Consumer,11000.0,0.13,11/9/2022,cnbc,26000.0,Post-IPO,11/9/2022 15:04,United States,https://docs.google.com/spreadsheets/d/1edAZoFG25lJpfSpTuJzD9hGijSzRfZ8v84H_Zak4gug/edit
+Redfin,Seattle,Real Estate,862.0,0.13,11/9/2022,businessinsider,320.0,Post-IPO,11/9/2022 15:29,United States,Unknown
+Flyhomes,Seattle,Real Estate,300.0,0.4,11/9/2022,geekwire,310.0,Series C,11/10/2022 0:52,United States,Unknown
+AvantStay,Los Angeles,Travel,144.0,0.22,11/9/2022,shorttermrentalz,686.0,Private Equity,11/11/2022 0:09,United States,Unknown
+Root Insurance,Columbus,Finance,137.0,0.2,11/9/2022,dispatch,527.0,Post-IPO,11/10/2022 0:53,United States,Unknown
+Liftoff,SF Bay Area,Marketing,130.0,0.15,11/9/2022,,6.0,Acquired,11/17/2022 0:34,United States,Unknown
+Cameo,Chicago,Consumer,80.0,,11/9/2022,theinformation,165.0,Unknown,11/9/2022 20:15,United States,Unknown
+Plum,Bengaluru,Healthcare,36.0,0.1,11/9/2022,moneycontrol,20.0,Series A,11/11/2022 0:04,India,Unknown
+Kabam,SF Bay Area,Consumer,35.0,0.07,11/9/2022,techcrunch,244.0,Acquired,11/9/2022 21:14,United States,Unknown
+HighRadius,Bengaluru,Finance,25.0,,11/9/2022,newindianexpress,475.0,Series C,12/7/2022 6:24,India,Unknown
+Namogoo,Tel Aviv,Marketing,25.0,0.15,11/9/2022,calcalistech,69.0,Series C,1/24/2023 5:25,United States,Unknown
+EverBridge,Boston,Other,200.0,,11/8/2022,bizjournals,476.0,Post-IPO,1/19/2023 4:46,United States,Unknown
+Repertoire Immune Medicines,Boston,Healthcare,65.0,0.5,11/8/2022,bizjournals,257.0,Series B,11/9/2022 0:42,United States,Unknown
+Salesforce,SF Bay Area,Sales,1000.0,0.01,11/7/2022,cnbc,65.0,Post-IPO,11/9/2022 3:37,United States,Unknown
+Unacademy,Bengaluru,Education,350.0,0.1,11/7/2022,economictimes,838.0,Series H,11/7/2022 15:09,India,Unknown
+Zendesk,SF Bay Area,Support,350.0,0.05,11/7/2022,twitter,85.0,Acquired,11/7/2022 20:13,United States,Unknown
+Dock,Sao Paulo,Finance,190.0,0.12,11/7/2022,infomoney,280.0,Private Equity,11/8/2022 21:59,Brazil,Unknown
+Varonis,New York City,Security,110.0,0.05,11/6/2022,calcalistech,30.0,Post-IPO,11/6/2022 18:20,United States,Unknown
+Brainly,Krakow,Education,25.0,,11/6/2022,newindianexpress,148.0,Series D,11/7/2022 15:10,Poland,Unknown
+Twitter,SF Bay Area,Consumer,3700.0,0.5,11/4/2022,nytimes,12900.0,Post-IPO,11/4/2022 14:48,United States,https://docs.google.com/spreadsheets/d/1OoD3pVxFl718fnxs_cEaOIbcj-45-qNKZFnE1jQW86M/edit#gid=0
+Udaan,Bengaluru,Retail,350.0,,11/4/2022,inc42,1500.0,Unknown,11/5/2022 3:35,India,Unknown
+Planetly,Berlin,Other,200.0,1.0,11/4/2022,axios,5.0,Acquired,11/5/2022 4:16,Germany,Unknown
+KoinWorks,Jakarta,Finance,70.0,0.08,11/4/2022,techinasia,180.0,Unknown,11/27/2022 23:31,Indonesia,Unknown
+Exodus,Nebraska City,Crypto,59.0,0.22,11/4/2022,exodus,60.0,Unknown,11/12/2022 3:13,United States,Unknown
+Stripe,SF Bay Area,Finance,1000.0,0.14,11/3/2022,bloomberg,2300.0,Series H,11/3/2022 14:49,United States,https://docs.google.com/spreadsheets/u/1/d/1aJHTUlDqOomDd8dU45fg0ekQlPCm97dVWasvpj5bWmg/htmlview
+Lyft,SF Bay Area,Transportation,700.0,0.13,11/3/2022,wsj,4900.0,Post-IPO,11/3/2022 15:55,United States,https://docs.google.com/spreadsheets/d/1TAEhC3gGu_ooKIDSTiX9OYUIjAHf7doS-lYyzTR_miY/edit
+LendingTree,Charlotte,Finance,200.0,,11/3/2022,investors,,Post-IPO,1/23/2023 23:20,United States,Unknown
+Pleo,Copenhagen,Finance,150.0,0.15,11/3/2022,finextra,428.0,Series C,11/3/2022 18:50,United States,Unknown
+Delivery Hero,Berlin,Food,100.0,,11/3/2022,mobile,8300.0,Post-IPO,11/5/2022 3:40,Germany,Unknown
+Shippo,SF Bay Area,Logistics,60.0,0.2,11/3/2022,linkedin,154.0,Series E,11/4/2022 0:29,United States,Unknown
+Opendoor,SF Bay Area,Real Estate,550.0,0.18,11/2/2022,bloomberg,1900.0,Post-IPO,11/2/2022 17:07,United States,https://coda.io/@opendoorosn/opendoor-os-national-talent-board
+Chime,SF Bay Area,Finance,156.0,0.12,11/2/2022,theinformation,2300.0,Series G,11/2/2022 17:29,United States,Unknown
+Chargebee,SF Bay Area,Finance,142.0,0.1,11/2/2022,techcrunch,468.0,Series H,11/3/2022 4:24,United States,Unknown
+Dapper Labs,Vancouver,Crypto,134.0,0.22,11/2/2022,betakit,607.0,Series D,11/3/2022 4:18,United States,Unknown
+Checkmarx,Tel Aviv,Security,100.0,0.1,11/2/2022,calcalistech,92.0,Series C,11/2/2022 17:11,Israel,Unknown
+Smava,Berlin,Finance,100.0,0.15,11/2/2022,businessinsider,188.0,Unknown,11/3/2022 4:29,Germany,Unknown
+Iron Ox,SF Bay Area,Food,50.0,0.5,11/2/2022,techcrunch,103.0,Series C,11/3/2022 4:27,United States,Unknown
+Digital Currency Gruop,Stamford,Crypto,10.0,0.13,11/2/2022,coindesk,,Unknown,11/3/2022 5:00,United States,Unknown
+Argo AI,SF Bay Area,Transportation,259.0,,11/1/2022,bizjournals,3600.0,Unknown,1/5/2023 6:44,United States,Unknown
+Booking.com,Grand Rapids,Travel,226.0,,11/1/2022,crainsdetroit,,Acquired,11/3/2022 4:16,United States,Unknown
+Oracle,SF Bay Area,Other,200.0,,11/1/2022,businessinsider,,Post-IPO,11/17/2022 0:45,United States,Unknown
+Upstart,SF Bay Area,Finance,140.0,0.07,11/1/2022,techcrunch,144.0,Post-IPO,11/1/2022 19:40,United States,Unknown
+Gem,SF Bay Area,Recruiting,100.0,0.33,11/1/2022,theinformation,148.0,Series C,11/1/2022 19:35,United States,https://docs.google.com/spreadsheets/d/1bSFzwARd-KjyX677pudvqPijebPZGzPTQKuv_wNOxTg/edit
+Oda,Oslo,Food,70.0,0.18,11/1/2022,dn,377.0,Unknown,11/1/2022 19:44,Sweden,Unknown
+Oda,Oslo,Food,70.0,0.18,11/1/2022,shifter,477.0,Unknown,11/11/2022 0:08,Norway,Unknown
+Oda,Oslo,Food,70.0,0.06,11/1/2022,norway,479.0,Unknown,11/30/2022 6:08,Norway,Unknown
+Hootsuite,Vancouver,Marketing,50.0,0.05,11/1/2022,,300.0,Series C,11/1/2022 19:42,Canada,Unknown
+Drop,Toronto,Marketing,24.0,,11/1/2022,,56.0,Series B,11/3/2022 4:31,Canada,Unknown
+Tapps Games,Sao Paulo,Consumer,10.0,,11/1/2022,dropsdejogos,,Unknown,1/21/2023 0:44,Brazil,Unknown
+Kry,Stockholm,Healthcare,300.0,0.1,10/31/2022,dn,568.0,Series D,11/1/2022 19:38,Sweden,Unknown
+Notarize,Boston,Legal,60.0,,10/31/2022,bizjournals,213.0,Series D,11/1/2022 4:02,United States,Unknown
+EquityZen,New York City,Finance,30.0,0.27,10/31/2022,axios,11.0,Series B,11/1/2022 3:59,United States,Unknown
+Equitybee,SF Bay Area,Finance,25.0,0.2,10/31/2022,calcalistech,85.0,Series B,10/31/2022 15:30,United States,Unknown
+Dukaan,Bengaluru,Retail,23.0,,10/31/2022,vccircle,17.0,Series A,10/31/2022 15:31,India,Unknown
+Amazon,Seattle,Retail,150.0,,10/28/2022,geekwire,108.0,Post-IPO,1/11/2023 1:02,United States,Unknown
+Fifth Season,Pittsburgh,Food,100.0,1.0,10/28/2022,bizjournals,35.0,Series B,10/30/2022 16:10,United States,Unknown
+Advata,Seattle,Healthcare,32.0,0.21,10/28/2022,geekwire,,Unknown,10/31/2022 15:28,United States,Unknown
+RenoRun,Montreal,Construction,210.0,0.43,10/27/2022,theglobeandmail,163.0,Series B,10/28/2022 15:47,Canada,Unknown
+Recharge,Los Angeles,Finance,84.0,0.17,10/27/2022,rechargepayments,277.0,Series B,10/28/2022 16:04,United States,https://docs.google.com/spreadsheets/d/1wEaAOfEJGbW8xwHhgxmRQEnb_GKE05KmI9ZgiaDSkiY/edit#gid=1480424750
+Lattice,SF Bay Area,HR,13.0,,10/27/2022,,328.0,Series F,11/3/2022 4:21,United States,Unknown
+Seagate,SF Bay Area,Hardware,3000.0,0.08,10/26/2022,cnbc,,Post-IPO,4/1/2023 2:08,United States,Unknown
+MindBody,San Luis Obispo,Fitness,400.0,0.15,10/26/2022,sanluisobispo,114.0,Post-IPO,10/26/2022 23:22,United States,Unknown
+Zillow,Seattle,Real Estate,300.0,0.05,10/26/2022,techcrunch,97.0,Post-IPO,10/26/2022 17:36,United States,Unknown
+Cybereason,Boston,Security,200.0,0.17,10/26/2022,calcalistech,750.0,Series F,10/26/2022 15:10,United States,Unknown
+Argo AI,Pittsburgh,Transportation,173.0,,10/26/2022,autonews,3600.0,Unknown,10/26/2022 23:23,United States,Unknown
+GoFundMe,SF Bay Area,Finance,94.0,0.12,10/26/2022,gofundme,,Series A,10/26/2022 23:13,United States,Unknown
+Fundbox,SF Bay Area,Finance,150.0,0.42,10/25/2022,calcalistech,553.0,Series D,10/25/2022 15:14,United States,Unknown
+Embroker,SF Bay Area,Finance,30.0,0.12,10/25/2022,theinsurer,142.0,Series C,10/26/2022 23:20,United States,Unknown
+Vee,Tel Aviv,HR,17.0,0.5,10/25/2022,calcalistech,15.0,Seed,10/25/2022 15:16,Israel,Unknown
+Philips,Amsterdam,Healthcare,4000.0,0.05,10/24/2022,reuters,,Post-IPO,1/21/2023 0:40,Netherlands,Unknown
+Cerebral,SF Bay Area,Healthcare,400.0,0.2,10/24/2022,techcrunch,462.0,Series C,10/24/2022 22:30,United States,Unknown
+Snyk,Boston,Security,198.0,0.14,10/24/2022,en,849.0,Series F,10/24/2022 15:31,United States,Unknown
+McMakler,Berlin,Real Estate,100.0,,10/24/2022,businessinsider,214.0,Unknown,10/25/2022 15:19,Germany,Unknown
+Unico,Sao Paulo,Other,50.0,0.04,10/24/2022,startups,336.0,Series D,1/18/2023 2:13,Brazil,Unknown
+OrCam,Jerusalem,Healthcare,62.0,0.16,10/23/2022,calcalistech,86.0,Unknown,10/24/2022 2:19,Israel,Unknown
+Antidote Health,Tel Aviv,Healthcare,23.0,0.38,10/23/2022,calcalistech,36.0,Unknown,10/24/2022 2:20,Israel,Unknown
+Khoros,Austin,Sales,120.0,0.1,10/21/2022,bizjournals,138.0,Private Equity,10/22/2022 15:59,United States,Unknown
+F5,Seattle,Security,100.0,0.01,10/21/2022,geekwire,,Post-IPO,11/17/2022 4:21,United States,Unknown
+Elinvar,Berlin,Finance,43.0,0.33,10/21/2022,financefwd,30.0,Unknown,10/24/2022 2:23,Germany,Unknown
+Synapsica,New Delhi,Healthcare,30.0,0.3,10/21/2022,yourstory,4.0,Series A,10/22/2022 3:29,India,Unknown
+Hotmart,Belo Horizonte,Marketing,227.0,0.12,10/20/2022,bloomberglinea,127.0,Series C,10/22/2022 3:31,Brazil,Unknown
+Zeus Living,SF Bay Area,Real Estate,64.0,0.46,10/20/2022,bizjournals,151.0,Series C,10/21/2022 2:23,United States,Unknown
+Loom,SF Bay Area,Product,23.0,0.11,10/20/2022,sfgate,203.0,Series C,10/20/2022 21:56,United States,Unknown
+Sales Boomerang,Baltimore,Sales,20.0,,10/20/2022,housingwire,5.0,Private Equity,11/1/2022 4:03,United States,Unknown
+Gopuff,Philadelphia,Food,250.0,,10/19/2022,bloomberg,3400.0,Series H,10/20/2022 23:17,United States,Unknown
+AtoB,SF Bay Area,Finance,32.0,0.3,10/19/2022,sfgate,177.0,Series B,10/19/2022 16:00,United States,Unknown
+InfoSum,London,Security,20.0,0.12,10/19/2022,businessinsider,88.0,Series B,11/10/2022 23:11,United Kingdom,Unknown
+Faire,SF Bay Area,Retail,84.0,0.07,10/18/2022,theinformation,1700.0,Series G,11/4/2022 3:40,United States,Unknown
+Leafly,Seattle,Retail,56.0,0.21,10/18/2022,investor,71.0,Post-IPO,10/19/2022 16:03,United States,Unknown
+Ada Health,Berlin,Healthcare,50.0,,10/17/2022,,189.0,Series B,10/26/2022 15:08,Germany,https://docs.google.com/spreadsheets/d/17eflEBvwWIpHXrPE0S2S3rshzGKnBfJ5ikH4QAz3pfA/edit
+Tiendanube,Buenos Aires,Marketing,50.0,0.05,10/17/2022,tekiosmag,,Unknown,11/6/2022 18:23,Argentina,Unknown
+Flipboard,SF Bay Area,Media,24.0,0.21,10/16/2022,axios,235.0,Unknown,10/20/2022 21:10,United States,Unknown
+Clear Capital,Reno,Real Estate,378.0,0.27,10/14/2022,techcrunch,,Unknown,10/15/2022 19:27,United States,Unknown
+Beyond Meat,Los Angeles,Food,200.0,0.19,10/14/2022,cnbc,122.0,Post-IPO,10/14/2022 15:20,United States,https://docs.google.com/spreadsheets/d/1cfVN7I0kN-ba1l54DU20aigdL0MTewrv28rLnZFAQ6o/edit
+Salesforce,SF Bay Area,Sales,90.0,,10/13/2022,protocol,65.0,Post-IPO,10/14/2022 0:15,United States,Unknown
+Playdots,New York City,Consumer,65.0,1.0,10/13/2022,theverge,10.0,Acquired,11/5/2022 3:52,United States,Unknown
+Byju's,Bengaluru,Education,2500.0,0.05,10/12/2022,techcrunch,5500.0,Private Equity,10/12/2022 19:59,India,Unknown
+6sense,SF Bay Area,Sales,150.0,0.1,10/12/2022,moneycontrol,426.0,Series E,10/14/2022 15:21,United States,Unknown
+Sinch,Stockholm,Other,150.0,,10/12/2022,uk,1500.0,Post-IPO,2/1/2023 5:29,Sweden,Unknown
+FrontRow,Bengaluru,Education,130.0,0.75,10/12/2022,entrackr,17.0,Series A,10/13/2022 4:25,India,https://docs.google.com/spreadsheets/d/1bbwtwcD6ftk9ZBZtF-4W4LJ5OU6UH_W1vdkCdPz78hQ/edit#gid=0
+Noom,New York City,Healthcare,500.0,0.1,10/11/2022,techcrunch,657.0,Series F,10/12/2022 3:36,United States,Unknown
+MX,Lehi,Finance,200.0,,10/11/2022,sltrib,450.0,Series C,10/12/2022 20:01,United States,https://docs.google.com/spreadsheets/d/1_v1SdSE16SLkY4qFm0JOP2-ff-jOYt0-blxPrdAqEPo/edit
+Brex,SF Bay Area,Finance,136.0,0.11,10/11/2022,techcrunch,1500.0,Series D,10/11/2022 18:40,United States,Unknown
+Pacaso,SF Bay Area,Real Estate,100.0,0.3,10/11/2022,therealdeal,217.0,Series C,10/13/2022 4:22,United States,Unknown
+Sketch,The Hague,Other,80.0,,10/11/2022,linkedin,20.0,Series A,10/11/2022 15:12,Netherlands,https://docs.google.com/spreadsheets/d/1qO1fXpOpStTMpr9m1I6k7-7XegeZZUqHzNPQ0W6TMx8/edit#gid=457261764
+Udacity,SF Bay Area,Education,55.0,0.13,10/11/2022,udacity,235.0,Unknown,10/11/2022 15:14,United States,Unknown
+Linkfire,Copenhagen,Marketing,35.0,0.35,10/11/2022,view,2.0,Seed,10/26/2022 15:14,Denmark,Unknown
+HelloFresh,SF Bay Area,Food,611.0,,10/10/2022,businessinsider,367.0,Post-IPO,10/16/2022 1:26,United States,Unknown
+Momentive,SF Bay Area,Marketing,180.0,0.11,10/10/2022,sec,1100.0,Post-IPO,10/13/2022 15:47,United States,https://docs.google.com/spreadsheets/d/1bb8_Y159F9XJVwB7iUOSaMO4tyvVPx7b/edit#gid=978594496
+Pavilion Data,SF Bay Area,Infrastructure,96.0,0.96,10/10/2022,blocksandfiles,103.0,Series D,10/25/2022 15:17,United States,Unknown
+Redesign Health,New York City,Healthcare,67.0,0.2,10/10/2022,fastcompany,315.0,Series C,10/10/2022 22:51,United States,Unknown
+BioMarin,SF Bay Area,Healthcare,120.0,0.04,10/7/2022,fiercebiotech,585.0,Post-IPO,11/19/2022 23:58,United States,Unknown
+Rev.com,Austin,Data,85.0,,10/7/2022,statesman,30.0,Series D,10/12/2022 3:38,United States,Unknown
+Crypto.com,Singapore,Crypto,2000.0,0.3,10/6/2022,techinasia,156.0,Unknown,10/7/2022 23:31,Singapore,Unknown
+Peloton,New York City,Fitness,500.0,0.12,10/6/2022,wsj,1900.0,Post-IPO,10/6/2022 15:44,United States,Unknown
+Landing,Birmingham,Real Estate,110.0,,10/6/2022,al,347.0,Series C,10/7/2022 2:12,United States,Unknown
+Turnitin,SF Bay Area,Education,51.0,0.05,10/6/2022,,,Acquired,10/8/2022 3:37,United States,Unknown
+Impossible Foods,SF Bay Area,Food,50.0,0.06,10/6/2022,sfgate,1900.0,Series H,10/7/2022 23:27,United States,Unknown
+Built In,Chicago,Recruiting,50.0,0.25,10/5/2022,chicagobusiness,29.0,Series C,10/5/2022 15:53,United States,https://docs.google.com/spreadsheets/d/1P2a3aI5xG_qTIrqF5Ci9o_PQsF2r-Sp80tPzE_lt1Wg/edit
+8x8,SF Bay Area,Support,200.0,0.09,10/4/2022,channelfutures,253.0,Post-IPO,1/18/2023 23:20,United States,Unknown
+Homie,Salt Lake City,Real Estate,40.0,0.13,10/4/2022,therealdeal,35.0,Series B,10/6/2022 4:46,United States,Unknown
+WazirX,Mumbai,Crypto,60.0,0.4,10/2/2022,economictimes,,Acquired,10/2/2022 21:04,India,https://drive.google.com/drive/folders/1QtEHVScWtTQgMAn_jTRmcESzxZLhu5zp
+Spin,SF Bay Area,Transportation,78.0,0.1,9/30/2022,techcrunch,8.0,Acquired,10/3/2022 20:21,United States,Unknown
+Westwing,Munich,Retail,125.0,,9/29/2022,,237.0,Post-IPO,10/4/2022 2:54,Germany,Unknown
+Mux,SF Bay Area,Infrastructure,40.0,0.2,9/29/2022,,173.0,Series D,10/2/2022 21:02,United States,https://docs.google.com/spreadsheets/d/1OmRfl4C7Xc09v8YiCDg4by5CDHSzdIyfCljpikYAbpY/edit#gid=0
+DocuSign,SF Bay Area,Sales,671.0,0.09,9/28/2022,sfgate,536.0,Post-IPO,9/28/2022 14:59,United States,Unknown
+Divvy Homes,SF Bay Area,Real Estate,40.0,0.12,9/27/2022,theinformation,180.0,Series B,9/28/2022 3:00,United States,Unknown
+Konfio,Mexico City,Finance,180.0,,9/23/2022,expansion,706.0,Series E,11/10/2022 1:05,United States,Unknown
+Moss,Berlin,Finance,70.0,0.15,9/23/2022,financefwd,150.0,Series B,9/24/2022 21:38,Germany,Unknown
+Foxtrot,Chicago,Food,26.0,0.035,9/23/2022,chicagobusiness,166.0,Series C,9/24/2022 21:37,United States,Unknown
+Truiloo,Vancouver,Security,24.0,0.05,9/23/2022,betakit,474.0,Series D,9/19/2022 16:04,Canada,Unknown
+NYDIG,New York City,Crypto,110.0,0.33,9/22/2022,wsj,1400.0,Private Equity,10/14/2022 15:15,United States,Unknown
+Klarna,Stockholm,Finance,100.0,,9/22/2022,sifted,3700.0,Unknown,9/22/2022 15:14,Sweden,Unknown
+Kitty Hawk,SF Bay Area,Aerospace,100.0,1.0,9/21/2022,sfgate,1.0,Unknown,9/22/2022 15:06,United States,Unknown
+Compass,New York City,Real Estate,271.0,,9/20/2022,geekwire,1600.0,Post-IPO,9/21/2022 4:05,United States,Unknown
+Curative,Los Angeles,Healthcare,109.0,,9/20/2022,digitalhealth,8.0,Seed,9/21/2022 4:12,United States,Unknown
+Ada,Toronto,Support,78.0,0.16,9/20/2022,linkedin,190.0,Series C,9/21/2022 4:08,Canada,Unknown
+99,Sao Paulo,Transportation,75.0,0.02,9/20/2022,terra,244.0,Acquired,9/21/2022 16:29,Brazil,Unknown
+Ola,Bengaluru,Transportation,200.0,,9/19/2022,inc42,5000.0,Series J,9/19/2022 23:24,India,Unknown
+Vesalius Therapeutics,Boston,Healthcare,29.0,0.43,9/19/2022,bizjournals,75.0,Series B,9/21/2022 4:14,United States,Unknown
+Clear,Bengaluru,Finance,190.0,0.2,9/16/2022,inc42,140.0,Series C,9/17/2022 14:32,India,Unknown
+TrueLayer,London,Finance,40.0,0.1,9/16/2022,altfi,271.0,Series E,9/16/2022 14:52,United States,Unknown
+LivePerson,New York City,Support,193.0,0.11,9/15/2022,,42.0,Post-IPO,9/16/2022 3:13,United States,Unknown
+Acast,Stockholm,Media,70.0,0.15,9/15/2022,bloomberg,126.0,Post-IPO,9/15/2022 20:12,Sweden,Unknown
+WorkRamp,SF Bay Area,HR,35.0,0.2,9/15/2022,,67.0,Series C,9/21/2022 4:15,United States,Unknown
+Twilio,SF Bay Area,Other,800.0,0.11,9/14/2022,techcrunch,614.0,Post-IPO,9/14/2022 14:47,United States,Unknown
+Pitch,Berlin,Marketing,59.0,0.3,9/14/2022,linkedin,137.0,Series B,9/14/2022 14:50,Germany,Unknown
+Infarm,Berlin,Other,50.0,0.05,9/14/2022,businessinsider,604.0,Series D,9/15/2022 3:39,Germany,Unknown
+Netflix,SF Bay Area,Media,30.0,,9/14/2022,deadline,121900.0,Post-IPO,9/16/2022 14:49,United States,Unknown
+Rubius,Boston,Healthcare,160.0,0.75,9/13/2022,fiercebiotech,445.0,Post-IPO,11/17/2022 4:36,United States,Unknown
+Checkout.com,London,Finance,100.0,0.05,9/13/2022,bloomberg,1800.0,Series D,9/14/2022 3:25,United Kingdom,Unknown
+Taboola,New York City,Marketing,100.0,0.06,9/13/2022,calcalistech,445.0,Post-IPO,9/13/2022 23:33,United States,Unknown
+Patreon,SF Bay Area,Media,80.0,0.17,9/13/2022,theinformation,413.0,Series F,9/13/2022 16:04,United States,Unknown
+Quicko,Sao Paulo,Transportation,60.0,,9/12/2022,startups,28.0,Acquired,9/13/2022 23:35,Brazil,Unknown
+Mode Analytics,SF Bay Area,Data,25.0,,9/12/2022,coda,81.0,Series D,9/22/2022 15:07,United States,Unknown
+Compete,Tel Aviv,HR,11.0,0.28,9/12/2022,calcalistech,17.0,Series A,9/13/2022 23:26,Israel,Unknown
+SkipTheDishes,Winnipeg,Food,350.0,,9/9/2022,winnipeg,6.0,Acquired,9/11/2022 16:08,Canada,Unknown
+Brighte,Sydney,Energy,58.0,,9/9/2022,brighte,145.0,Series C,10/7/2022 2:07,Australia,Unknown
+Patreon,SF Bay Area,Media,5.0,,9/9/2022,techcrunch,413.0,Series F,9/9/2022 17:57,United States,Unknown
+GoStudent,Vienna,Education,200.0,,9/8/2022,brutkasten,686.0,Series D,9/9/2022 23:46,Austria,Unknown
+Pomelo Fashion,Bangkok,Retail,55.0,0.08,9/8/2022,bloomberg,120.0,Unknown,9/10/2022 3:53,Thailand,Unknown
+Genome Medical,SF Bay Area,Healthcare,23.0,,9/8/2022,bizjournals,120.0,Series C,9/9/2022 1:40,United States,Unknown
+Simple Feast,Copenhagen,Food,150.0,1.0,9/7/2022,nyheder,173.0,Unknown,9/13/2022 23:36,Denmark,Unknown
+Foodpanda,Singapore,Food,60.0,,9/7/2022,straitstimes,749.0,Acquired,9/5/2022 20:52,Singapore,Unknown
+Uber,Vilnius,Transportation,60.0,,9/7/2022,linkedin,24700.0,Post-IPO,9/9/2022 1:41,Lithuania,Unknown
+Rupeek,Bengaluru,Finance,50.0,,9/7/2022,inc42,172.0,Unknown,9/8/2022 3:28,India,Unknown
+Intercom,SF Bay Area,Support,49.0,0.05,9/7/2022,businesspost,240.0,Series D,9/8/2022 3:48,United States,Unknown
+Pendo,Raleigh,Product,45.0,0.05,9/7/2022,axios,469.0,Series F,9/10/2022 3:50,United States,Unknown
+Demandbase,SF Bay Area,Sales,27.0,0.03,9/7/2022,,143.0,Series H,9/9/2022 1:47,United States,Unknown
+Brave Care,Portland,Healthcare,40.0,0.33,9/6/2022,oregonlive,42.0,Series B,9/8/2022 4:00,United States,Unknown
+Lawgeex,Tel Aviv,Legal,30.0,0.33,9/6/2022,tech12,41.0,Series C,9/6/2022 21:22,Israel,Unknown
+Kuda,Lagos,Finance,23.0,0.05,9/2/2022,techcrunch,91.0,Series B,9/5/2022 20:50,Nigeria,Unknown
+2TM,Sao Paulo,Crypto,100.0,0.15,9/1/2022,finance,250.0,Unknown,9/2/2022 23:24,Brazil,Unknown
+Innovaccer,SF Bay Area,Healthcare,90.0,0.08,9/1/2022,inc42,379.0,Series E,9/1/2022 23:07,United States,Unknown
+Shopify,Ottawa,Retail,70.0,,9/1/2022,theinformation,122.0,Post-IPO,9/1/2022 20:19,Canada,Unknown
+Urban Sports Club,Berlin,Fitness,55.0,0.15,9/1/2022,businessinsider,95.0,Unknown,9/1/2022 17:10,Germany,Unknown
+Hedvig,Stockholm,Finance,12.0,,9/1/2022,mynewsdesk,67.0,Series B,9/1/2022 17:09,Sweden,Unknown
+Snap,Los Angeles,Consumer,1280.0,0.2,8/31/2022,theverge,4900.0,Post-IPO,8/30/2022 20:55,United States,Unknown
+GoodRx,Los Angeles,Healthcare,140.0,0.16,8/31/2022,seekingalpha,910.0,Post-IPO,9/1/2022 1:24,United States,Unknown
+Smava,Berlin,Finance,100.0,0.1,8/31/2022,finanz-szene,188.0,Unknown,9/1/2022 1:25,Germany,Unknown
+Hippo Insurance,SF Bay Area,Finance,70.0,0.1,8/31/2022,globes,1300.0,Post-IPO,8/31/2022 16:30,United States,Unknown
+Clari,SF Bay Area,Sales,45.0,,8/31/2022,,496.0,Series F,9/2/2022 23:31,United States,Unknown
+Koo,Bengaluru,Consumer,40.0,,8/31/2022,inc42,44.0,Series B,9/1/2022 2:39,India,Unknown
+TCR2,Boston,Healthcare,30.0,0.2,8/31/2022,fiercebiotech,173.0,Post-IPO,1/20/2023 1:25,United States,Unknown
+Apartment List,SF Bay Area,Real Estate,29.0,0.1,8/31/2022,linkedin,169.0,Series D,9/1/2022 2:41,United States,Unknown
+Artnight,Berlin,Retail,26.0,0.36,8/31/2022,businessinsider,,Unknown,9/1/2022 17:11,Germany,Unknown
+Electric,New York City,Other,81.0,,8/30/2022,electric,212.0,Series D,9/30/2022 22:53,United States,Unknown
+Immersive Labs,Bristol,Security,38.0,0.1,8/30/2022,uktech,123.0,Series C,9/1/2022 2:37,United Kingdom,Unknown
+Nate,New York City,Retail,30.0,,8/30/2022,theinformation,47.0,Series A,8/30/2022 23:16,United States,Unknown
+Meesho,Bengaluru,Retail,300.0,,8/29/2022,indiatimes,1100.0,Series F,8/29/2022 17:26,India,Unknown
+54gene,Washington D.C.,Healthcare,95.0,0.3,8/29/2022,techcrunch,44.0,Series B,8/30/2022 23:18,United States,Unknown
+Zymergen,SF Bay Area,Other,80.0,,8/26/2022,biospace,974.0,Acquired,8/26/2022 20:49,United States,Unknown
+Okta,SF Bay Area,Security,24.0,,8/26/2022,unleash,1200.0,Post-IPO,8/26/2022 20:43,United States,Unknown
+Argyle,New York City,Finance,20.0,0.07,8/26/2022,techcrunch,78.0,Series B,8/26/2022 21:39,United States,Unknown
+FreshDirect,Philadelphia,Food,40.0,,8/25/2022,bizjournals,280.0,Acquired,8/26/2022 3:58,United States,Unknown
+Loja Integrada,Sao Paulo,Retail,25.0,0.1,8/25/2022,startups,,Acquired,8/26/2022 20:53,Brazil,Unknown
+Reali,SF Bay Area,Real Estate,140.0,1.0,8/24/2022,calcalistech,117.0,Series B,8/24/2022 23:29,United States,Unknown
+Loop,Washington D.C.,Finance,15.0,0.2,8/24/2022,coverager,24.0,Series A,8/25/2022 3:50,United States,Unknown
+Tier Mobility,Berlin,Transportation,180.0,0.16,8/23/2022,techcrunch,646.0,Series D,8/23/2022 20:15,Germany,Unknown
+Packable,New York City,Retail,138.0,0.2,8/23/2022,cnbc,472.0,Unknown,8/24/2022 23:37,United States,Unknown
+Q4,Toronto,Other,50.0,0.08,8/23/2022,theglobeandmail,91.0,Series C,8/24/2022 3:26,Canada,Unknown
+Skedulo,SF Bay Area,HR,31.0,0.08,8/23/2022,,114.0,Series C,8/29/2022 17:27,United States,Unknown
+Plato,SF Bay Area,HR,29.0,0.5,8/23/2022,,3.0,Seed,8/26/2022 20:46,United States,Unknown
+NSO,Tel Aviv,Security,100.0,0.14,8/21/2022,calcalistech,1.0,Seed,8/22/2022 15:24,Israel,Unknown
+Tufin,Boston,Security,55.0,0.1,8/21/2022,en,21.0,Acquired,8/22/2022 15:24,United States,Unknown
+Amperity,Seattle,Marketing,13.0,0.03,8/20/2022,geekwire,187.0,Series D,8/22/2022 15:19,United States,Unknown
+Wayfair,Boston,Retail,870.0,0.05,8/19/2022,bostonglobe,1700.0,Post-IPO,8/19/2022 15:05,United States,Unknown
+Stripe,SF Bay Area,Finance,50.0,,8/19/2022,techcrunch,2300.0,Series H,8/19/2022 0:52,United States,Unknown
+Hodlnaut,Singapore,Crypto,40.0,0.8,8/19/2022,coindesk,,Unknown,8/20/2022 3:37,Singapore,Unknown
+New Relic,SF Bay Area,Infrastructure,110.0,0.05,8/18/2022,marketwatch,214.0,Post-IPO,8/18/2022 15:35,United States,Unknown
+Wheel,Austin,Healthcare,35.0,0.17,8/18/2022,businessinsider,215.0,Series C,9/1/2022 2:36,United States,Unknown
+Malwarebytes,SF Bay Area,Security,125.0,0.14,8/17/2022,techcrunch,80.0,Series B,8/17/2022 16:53,United States,Unknown
+Fluke,Sao Paulo,Other,83.0,0.82,8/17/2022,startups,,Seed,8/26/2022 20:47,Brazil,Unknown
+Swyftx,Brisbane,Crypto,74.0,0.21,8/17/2022,swyftx,,Unknown,8/18/2022 1:12,Australia,Unknown
+Tempo Automation,SF Bay Area,Other,54.0,,8/17/2022,bizjournals,74.0,Series C,8/17/2022 20:56,United States,Unknown
+Genesis,New York City,Crypto,52.0,0.2,8/17/2022,reuters,,Series A,8/17/2022 18:24,United States,Unknown
+Warren,Porto Alegre,Finance,50.0,,8/17/2022,terra,104.0,Series C,8/18/2022 1:14,Brazil,Unknown
+AlayaCare,Montreal,Healthcare,80.0,0.14,8/16/2022,betakit,293.0,Series D,8/17/2022 18:25,Canada,Unknown
+Pliops,Tel Aviv,Data,12.0,0.09,8/16/2022,calcalistech,205.0,Series D,8/18/2022 21:47,Israel,Unknown
+Woven,Indianapolis,HR,5.0,0.15,8/16/2022,,11.0,Series A,8/17/2022 20:14,United States,Unknown
+Sema4,Stamford,Healthcare,250.0,0.13,8/15/2022,ir,791.0,Post-IPO,8/16/2022 3:50,United States,Unknown
+Blend,SF Bay Area,Finance,220.0,0.12,8/15/2022,housingwire,665.0,Post-IPO,8/16/2022 15:55,United States,Unknown
+ContraFect,New York City,Healthcare,16.0,0.37,8/15/2022,benzinga,380.0,Post-IPO,8/16/2022 3:52,United States,Unknown
+Anywell,Tel Aviv,Real Estate,11.0,,8/14/2022,calcalistech,15.0,Series A,8/14/2022 23:46,Israel,Unknown
+Peloton,New York City,Fitness,784.0,0.13,8/12/2022,cnbc,1900.0,Post-IPO,8/12/2022 17:27,United States,Unknown
+Truepill,SF Bay Area,Healthcare,175.0,0.33,8/11/2022,techcrunch,255.0,Series D,8/12/2022 5:14,United States,Unknown
+Calm,SF Bay Area,Healthcare,90.0,0.2,8/11/2022,wsj,218.0,Series C,8/12/2022 5:08,United States,Unknown
+FourKites,Chicago,Logistics,60.0,0.08,8/11/2022,techcrunch,201.0,Series D,8/26/2022 21:42,United States,Unknown
+Marketforce,Nairobi,Retail,54.0,0.09,8/11/2022,techcrunch,42.0,Series A,8/11/2022 13:36,Kenya,Unknown
+Betterfly,Santiago,Healthcare,30.0,,8/11/2022,startups,204.0,Series C,8/12/2022 17:57,Chile,Unknown
+Expert360,Sydney,Recruiting,7.0,,8/11/2022,watoday,26.0,Series C,8/15/2022 1:17,Australia,Unknown
+Trybe,Sao Paulo,Education,47.0,0.1,8/10/2022,startups,40.0,Series B,8/24/2022 23:33,Brazil,Unknown
+Permutive,London,Marketing,30.0,0.12,8/10/2022,businessinsider,105.0,Series C,8/10/2022 21:55,United Kingdom,Unknown
+GoHealth,Chicago,Healthcare,800.0,0.2,8/9/2022,chicagobusiness,75.0,Post-IPO,8/11/2022 21:31,United States,Unknown
+Hootsuite,Vancouver,Marketing,400.0,0.3,8/9/2022,betakit,300.0,Series C,8/9/2022 17:35,Canada,Unknown
+Nutanix,SF Bay Area,Infrastructure,270.0,0.04,8/9/2022,marketscreener,1100.0,Post-IPO,8/9/2022 21:51,United States,Unknown
+Quanterix,Boston,Healthcare,130.0,0.25,8/9/2022,genomeweb,533.0,Post-IPO,11/17/2022 4:38,United States,Unknown
+Wix,Tel Aviv,Marketing,100.0,,8/9/2022,calcalistech,58.0,Post-IPO,8/9/2022 14:34,Israel,Unknown
+MadeiraMadeira,Curitiba,Retail,60.0,0.03,8/9/2022,estadao,338.0,Series E,8/9/2022 21:54,Brazil,Unknown
+Melio,New York City,Finance,60.0,,8/9/2022,calcalistech,504.0,Series D,8/9/2022 18:30,United States,Unknown
+Linktree,Melbourne,Consumer,50.0,0.17,8/9/2022,smartcompany,165.0,Unknown,8/9/2022 14:33,Australia,Unknown
+Shogun,SF Bay Area,Retail,48.0,0.3,8/9/2022,,114.0,Series C,8/10/2022 15:22,United States,Unknown
+Absci,Vancouver,Healthcare,40.0,,8/9/2022,absci,237.0,Post-IPO,8/10/2022 4:07,United States,Unknown
+Dooly,Vancouver,Sales,12.0,,8/9/2022,linkedin,102.0,Series B,8/10/2022 15:24,Canada,Unknown
+Groupon,Chicago,Retail,500.0,0.15,8/8/2022,techcrunch,1400.0,Post-IPO,8/8/2022 21:36,United States,Unknown
+Loggi,Sao Paulo,Logistics,500.0,0.15,8/8/2022,startups,507.0,Series F,8/9/2022 14:40,Brazil,Unknown
+Vroom,New York City,Transportation,337.0,,8/8/2022,autonews,1300.0,Post-IPO,8/9/2022 14:44,United States,Unknown
+Warby Parker,New York City,Consumer,63.0,,8/8/2022,businessinsider,535.0,Post-IPO,8/9/2022 14:37,United States,Unknown
+Labelbox,SF Bay Area,Data,36.0,,8/8/2022,,188.0,Series D,8/11/2022 13:31,United States,Unknown
+Perion,Tel Aviv,Marketing,20.0,0.05,8/8/2022,en,76.0,Post-IPO,8/8/2022 14:15,Israel,Unknown
+iRobot,Boston,Consumer,140.0,0.1,8/5/2022,geekwire,30.0,Acquired,8/5/2022 19:28,United States,Unknown
+Mejuri,Toronto,Retail,50.0,0.1,8/5/2022,betakit,28.0,Series B,8/8/2022 21:33,Canada,Unknown
+Uberflip,Toronto,Marketing,31.0,0.17,8/5/2022,betakit,42.0,Series A,8/5/2022 19:18,Canada,Unknown
+Doma,SF Bay Area,Finance,250.0,0.13,8/4/2022,inman,679.0,Post-IPO,8/5/2022 19:22,United States,Unknown
+Article,Vancouver,Retail,216.0,0.17,8/4/2022,dailyhive,,Series B,8/4/2022 23:33,Canada,Unknown
+Jam City,Los Angeles,Consumer,200.0,0.17,8/4/2022,venturebeat,652.0,Unknown,8/4/2022 23:35,United States,Unknown
+10X Genomics,SF Bay Area,Healthcare,100.0,0.08,8/4/2022,genomeweb,242.0,Post-IPO,8/4/2022 23:30,United States,Unknown
+LEAD,Mumbai,Education,80.0,0.04,8/4/2022,moneycontrol,166.0,Series E,8/4/2022 19:02,India,Unknown
+Zendesk,SF Bay Area,Support,80.0,,8/4/2022,,85.0,Acquired,8/5/2022 3:18,United States,Unknown
+On Deck,SF Bay Area,Education,73.0,0.33,8/4/2022,techcrunch,20.0,Series A,8/4/2022 19:07,United States,Unknown
+RenoRun,Montreal,Construction,70.0,0.12,8/4/2022,betakit,163.0,Series B,8/17/2022 18:27,Canada,Unknown
+RingCentral,SF Bay Area,Support,50.0,,8/4/2022,bizjournals,44.0,Post-IPO,8/4/2022 23:31,United States,Unknown
+Healthcare.com,Miami,Healthcare,149.0,,8/3/2022,bizjournals,244.0,Series C,8/4/2022 23:16,United States,Unknown
+Unbounce,Vancouver,Marketing,47.0,0.2,8/3/2022,betakit,39.0,Series A,8/3/2022 22:50,Canada,Unknown
+Beyond Meat,Los Angeles,Food,40.0,,8/3/2022,bloomberg,122.0,Post-IPO,8/4/2022 19:01,United States,Unknown
+The Org,New Delhi,HR,13.0,,8/3/2022,linkedin,39.0,Series B,8/4/2022 3:38,United States,Unknown
+Robinhood,SF Bay Area,Finance,713.0,0.23,8/2/2022,techcrunch,5600.0,Post-IPO,8/2/2022 20:29,United States,Unknown
+Latch,New York City,Security,115.0,0.37,8/2/2022,globenewswire,342.0,Post-IPO,8/4/2022 18:53,United States,Unknown
+Vedantu,Bengaluru,Education,100.0,,8/2/2022,inc42,292.0,Series E,8/3/2022 2:37,India,Unknown
+Seegrid,Pittsburgh,Logistics,90.0,,8/2/2022,therobotreport,107.0,Unknown,8/4/2022 3:45,United States,Unknown
+Nylas,SF Bay Area,Product,80.0,0.25,8/2/2022,nylas,175.0,Series C,8/2/2022 21:48,United States,Unknown
+Outreach,Seattle,Sales,60.0,0.05,8/2/2022,linkedin,489.0,Series G,8/2/2022 20:34,United States,Unknown
+Sendy,Nairobi,Logistics,54.0,0.2,8/2/2022,techcrunch,26.0,Series B,10/5/2022 18:19,Kenya,Unknown
+The Predictive Index,Boston,HR,40.0,,8/2/2022,linkedin,71.0,Acquired,8/8/2022 14:21,United States,Unknown
+Sendy,Nairobi,Logistics,30.0,0.1,8/2/2022,techcabal,26.0,Series B,8/2/2022 15:28,Kenya,Unknown
+Stedi,Boulder,Product,23.0,0.3,8/2/2022,twitter,75.0,Series B,8/4/2022 3:39,United States,Unknown
+Glossier,New York City,Retail,19.0,0.08,8/2/2022,modernretail,266.0,Series E,8/3/2022 2:42,United States,Unknown
+Hash,Sao Paulo,Finance,58.0,0.5,8/1/2022,oglobo,58.0,Series C,8/3/2022 2:35,Brazil,Unknown
+Metigy,Sydney,Marketing,75.0,1.0,7/31/2022,linkedin,18.0,Series B,8/2/2022 1:09,Australia,Unknown
+Vee,Tel Aviv,HR,16.0,0.32,7/31/2022,calcalistech,15.0,Seed,8/2/2022 1:08,Israel,Unknown
+Ola,Bengaluru,Transportation,1000.0,,7/29/2022,economictimes,5000.0,Series J,7/29/2022 16:10,India,Unknown
+Clearco,Toronto,Finance,125.0,0.25,7/29/2022,betakit,681.0,Series C,7/29/2022 16:04,Canada,Unknown
+Imperfect Foods,SF Bay Area,Food,50.0,,7/29/2022,bizjournals,229.0,Series D,7/30/2022 23:20,United States,Unknown
+Shelf Engine,Seattle,Food,43.0,,7/29/2022,geekwire,58.0,Series B,7/30/2022 23:27,United States,Unknown
+Quantcast,SF Bay Area,Marketing,40.0,0.06,7/29/2022,digiday,65.0,Series C,8/2/2022 3:46,United States,Unknown
+Sherpa,Toronto,Travel,22.0,,7/29/2022,linkedin,11.0,Unknown,7/30/2022 23:23,Canada,Unknown
+Ribbon,New York City,Real Estate,136.0,,7/28/2022,inman,405.0,Series C,7/29/2022 6:14,United States,Unknown
+Career Karma,SF Bay Area,Education,60.0,0.33,7/28/2022,techcrunch,51.0,Series B,7/29/2022 6:20,United States,Unknown
+Metromile,SF Bay Area,Finance,60.0,0.2,7/28/2022,techcrunch,510.0,Acquired,7/29/2022 6:22,United States,Unknown
+Laybuy,Auckland,Finance,45.0,,7/28/2022,stuff,130.0,Post-IPO,7/29/2022 6:25,New Zealand,Unknown
+Allbirds,SF Bay Area,Retail,23.0,,7/28/2022,,202.0,Post-IPO,7/30/2022 23:17,United States,Unknown
+TextNow,Waterloo,Consumer,22.0,,7/28/2022,,1.0,Seed,8/4/2022 3:57,Canada,Unknown
+Rivian,Detroit,Transportation,840.0,0.06,7/27/2022,cnn,10700.0,Post-IPO,7/28/2022 3:24,United States,Unknown
+Vox Media,Washington D.C.,Media,39.0,0.02,7/27/2022,axios,307.0,Series F,7/29/2022 6:11,United States,Unknown
+Coinsquare,Toronto,Crypto,30.0,0.24,7/27/2022,betakit,98.0,Unknown,7/30/2022 14:35,Canada,Unknown
+Skai,Tel Aviv,Marketing,30.0,0.04,7/27/2022,calcalistech,60.0,Series E,7/28/2022 3:23,Israel,Unknown
+Shopify,Ottawa,Retail,1000.0,0.1,7/26/2022,wsj,122.0,Post-IPO,7/26/2022 15:20,Canada,Unknown
+McMakler,Berlin,Real Estate,90.0,,7/26/2022,businessinsider,214.0,Unknown,7/26/2022 15:42,Germany,Unknown
+Fiverr,Tel Aviv,Other,60.0,0.08,7/26/2022,en,111.0,Post-IPO,7/26/2022 15:45,Israel,Unknown
+InDebted,Sydney,Finance,40.0,0.17,7/26/2022,news,41.0,Series B,7/26/2022 15:27,Australia,Unknown
+Outbrain,New York City,Marketing,38.0,0.03,7/26/2022,en,394.0,Post-IPO,7/26/2022 15:46,United States,Unknown
+Dover,SF Bay Area,Recruiting,23.0,0.3,7/26/2022,blog,22.0,Series A,7/26/2022 21:51,United States,Unknown
+Immutable,Sydney,Crypto,20.0,0.06,7/26/2022,cnet,279.0,Series C,7/28/2022 3:35,Australia,Unknown
+Zymergen,SF Bay Area,Other,80.0,,7/25/2022,bizjournals,974.0,Acquired,8/26/2022 20:52,United States,Unknown
+Pear Therapeutics ,Boston,Healthcare,25.0,0.09,7/25/2022,massdevice,409.0,Post-IPO,7/26/2022 15:30,United States,Unknown
+Soluto,Tel Aviv,Support,120.0,1.0,7/24/2022,calcalistech,18.0,Acquired,7/25/2022 4:32,Israel,Unknown
+Eucalyptus,Sydney,Healthcare,50.0,0.2,7/22/2022,news,69.0,Series C,7/28/2022 3:21,United States,Unknown
+Workstream,SF Bay Area,HR,45.0,,7/22/2022,,58.0,Series B,8/3/2022 14:13,United States,Unknown
+Quanto,Sao Paulo,Finance,28.0,0.22,7/22/2022,seudinheiro,15.0,Series A,7/25/2022 15:30,Brazil,Unknown
+Clarify Health,SF Bay Area,Healthcare,15.0,0.05,7/22/2022,twitter,328.0,Series D,7/22/2022 19:22,United States,Unknown
+Blockchain.com,London,Crypto,150.0,0.25,7/21/2022,coindesk,490.0,Series D,7/21/2022 14:26,United Kingdom,Unknown
+Callisto Media,SF Bay Area,Media,140.0,0.35,7/21/2022,publishersweekly,,Series D,7/21/2022 23:37,United States,Unknown
+AppGate,Miami,Security,130.0,0.22,7/21/2022,m,,Post-IPO,7/28/2022 3:37,United States,Unknown
+WHOOP,Boston,Fitness,95.0,0.15,7/21/2022,frontofficesports,404.0,Series F,7/22/2022 1:02,United States,Unknown
+Rad Power Bikes,Seattle,Transportation,63.0,0.1,7/21/2022,geekwire,329.0,Series D,7/21/2022 19:56,United States,Unknown
+Lunchbox,New York City,Food,60.0,0.33,7/21/2022,businessinsider,72.0,Series B,7/22/2022 1:03,United States,Unknown
+RealSelf,Seattle,Healthcare,11.0,0.05,7/21/2022,geekwire,42.0,Series B,7/21/2022 19:57,United States,Unknown
+Just Eat Takeaway,Amsterdam,Food,390.0,,7/20/2022,reuters,2800.0,Post-IPO,7/20/2022 15:08,Netherlands,Unknown
+Flyhomes,Seattle,Real Estate,200.0,0.2,7/20/2022,geekwire,310.0,Series C,7/20/2022 20:08,United States,Unknown
+Varo,SF Bay Area,Finance,75.0,,7/20/2022,axios,992.0,Series E,7/20/2022 18:25,United States,Unknown
+BlueStacks,SF Bay Area,Other,60.0,,7/20/2022,inc42,48.0,Series C,7/20/2022 15:10,United States,Unknown
+Lyft,SF Bay Area,Transportation,60.0,0.02,7/20/2022,wsj,4900.0,Post-IPO,7/20/2022 18:27,United States,Unknown
+Introhive,Ferdericton,Sales,57.0,0.16,7/20/2022,entrevestor,125.0,Series C,7/22/2022 19:23,Canada,Unknown
+Zencity,Tel Aviv,Other,30.0,0.2,7/20/2022,calcalistech,51.0,Unknown,7/20/2022 15:06,Israel,Unknown
+Splice,New York City,Media,23.0,,7/20/2022,washingtonpost,159.0,Series D,8/5/2022 19:44,United States,Unknown
+Forma.ai,Toronto,Sales,15.0,0.09,7/20/2022,,58.0,Series B,7/26/2022 15:35,Canada,Unknown
+Arc,SF Bay Area,HR,13.0,,7/20/2022,linkedin,1.0,Seed,7/21/2022 14:27,United States,Unknown
+Invitae,SF Bay Area,Healthcare,1000.0,,7/19/2022,genomeweb,2000.0,Post-IPO,7/19/2022 16:23,United States,Unknown
+Olive,Columbus,Healthcare,450.0,0.31,7/19/2022,oliveai,856.0,Series H,7/19/2022 16:22,United States,Unknown
+M1,Chicago,Finance,38.0,,7/19/2022,,323.0,Series E,7/30/2022 23:20,United States,Unknown
+SellerX,Berlin,Retail,28.0,,7/19/2022,sifted,766.0,Unknown,7/21/2022 3:41,Germany,Unknown
+Stint,London,HR,28.0,0.2,7/19/2022,sifted,,Unknown,7/25/2022 4:23,United Kingdom,Unknown
+PACT Pharma,SF Bay Area,Healthcare,94.0,,7/18/2022,fiercebiotech,200.0,Series C,7/20/2022 3:38,United States,Unknown
+Gemini,New York City,Crypto,68.0,0.07,7/18/2022,techcrunch,423.0,Unknown,7/18/2022 18:53,United States,Unknown
+Lusha,New York City,Marketing,30.0,0.1,7/18/2022,calcalistech,245.0,Series B,7/18/2022 17:58,United States,Unknown
+Bright Money,Bengaluru,Finance,100.0,0.5,7/15/2022,outlookindia,31.0,Series A,7/22/2022 23:50,India,Unknown
+Project44,Chicago,Logistics,63.0,0.05,7/15/2022,freightwaves,817.0,Unknown,7/15/2022 21:24,United States,Unknown
+Heroes,London,Retail,24.0,0.2,7/15/2022,businessinsider,265.0,Unknown,7/15/2022 21:22,United States,Unknown
+Aspire,SF Bay Area,Marketing,23.0,,7/15/2022,businessinsider,27.0,Series A,7/15/2022 21:21,United States,Unknown
+Zego,London,Finance,85.0,0.17,7/14/2022,coverager,202.0,Series C,7/14/2022 19:33,United Kingdom,Unknown
+The Mom Project,Chicago,HR,54.0,0.15,7/14/2022,linkedin,115.0,Series C,7/15/2022 20:54,United States,Unknown
+Unstoppable Domains,SF Bay Area,Crypto,42.0,0.25,7/14/2022,twitter,7.0,Series B,7/26/2022 21:55,United States,Unknown
+Kiavi,SF Bay Area,Real Estate,39.0,0.07,7/14/2022,housingwire,240.0,Series E,7/22/2022 23:52,United States,Unknown
+Wave,Dakar,Finance,300.0,0.15,7/13/2022,techcrunch,292.0,Series A,7/13/2022 14:48,Senegal,Unknown
+Tonal,SF Bay Area,Fitness,262.0,0.35,7/13/2022,cnbc,450.0,Series E,7/13/2022 15:55,United States,Unknown
+Fabric,New York City,Logistics,120.0,0.4,7/13/2022,techcrunch,336.0,Series C,7/13/2022 14:52,United States,Unknown
+Bryter,Berlin,Product,100.0,0.3,7/13/2022,twitter,89.0,Series B,7/14/2022 19:31,Germany,Unknown
+ChowNow,Los Angeles,Food,100.0,0.2,7/13/2022,techcrunch,64.0,Series C,7/13/2022 20:18,United States,Unknown
+Involves,Florianópolis,Retail,70.0,0.18,7/13/2022,baguete,23.0,Unknown,7/20/2022 3:40,Brazil,Unknown
+100 Thieves,Los Angeles,Consumer,12.0,,7/13/2022,dexerto,120.0,Series C,7/18/2022 18:56,United States,Unknown
+Nuro,SF Bay Area,Transportation,7.0,,7/13/2022,therobotreport,2100.0,Series D,7/16/2022 13:57,United States,Unknown
+Gopuff,Philadelphia,Food,1500.0,0.1,7/12/2022,bloomberg,3400.0,Series H,7/12/2022 15:39,United States,Unknown
+Fraazo,Mumbai,Food,150.0,,7/12/2022,inc42,63.0,Series B,7/13/2022 4:45,India,Unknown
+Babylon,London,Healthcare,100.0,,7/12/2022,bloomberg,1100.0,Post-IPO,7/25/2022 4:31,United Kingdom,Unknown
+Hubilo,SF Bay Area,Marketing,45.0,0.12,7/12/2022,inc42,153.0,Series B,7/13/2022 21:45,United States,Unknown
+Hopin,London,Other,242.0,0.29,7/11/2022,businessinsider,1000.0,Series D,7/11/2022 17:12,United Kingdom,Unknown
+Alice,Sao Paulo,Healthcare,63.0,,7/11/2022,forbes,174.0,Series C,7/13/2022 4:56,Brazil,Unknown
+SundaySky,New York City,Marketing,24.0,0.13,7/11/2022,en,74.0,Series D,7/11/2022 23:30,United States,Unknown
+PuduTech,Shenzen,Other,1500.0,,7/8/2022,therobotreport,184.0,Series C,8/4/2022 3:46,China,Unknown
+Butler Hospitality,New York City,Food,1000.0,1.0,7/8/2022,techcrunch,50.0,Series B,7/8/2022 19:50,United States,Unknown
+Calibrate,New York City,Healthcare,156.0,0.24,7/8/2022,news,127.0,Series B,7/18/2022 18:58,United States,Unknown
+Argo AI,Pittsburgh,Transportation,150.0,0.05,7/7/2022,techcrunch,3600.0,Unknown,7/8/2022 15:40,United States,Unknown
+Next Insurance,SF Bay Area,Finance,150.0,0.17,7/7/2022,calcalistech,881.0,Series E,7/7/2022 15:41,United States,Unknown
+Adwerx,Durham,Marketing,40.0,,7/7/2022,inman,20.0,Unknown,7/8/2022 19:49,United States,Unknown
+Emotive,Los Angeles,Marketing,30.0,0.18,7/7/2022,dot,78.0,Series B,7/8/2022 15:47,United States,Unknown
+Remote,SF Bay Area,HR,100.0,0.09,7/6/2022,publico,496.0,Series C,7/6/2022 15:38,United States,Unknown
+Shopify,Ottawa,Retail,50.0,,7/6/2022,theglobeandmail,122.0,Post-IPO,7/6/2022 16:53,Canada,Unknown
+Anodot,Tel Aviv,Data,35.0,0.27,7/6/2022,calcalistech,64.0,Series C,7/6/2022 16:48,United States,Unknown
+SQream,New York City,Data,30.0,0.18,7/6/2022,calcalistech,77.0,Series B,7/6/2022 16:45,United States,Unknown
+Loft,Sao Paulo,Real Estate,384.0,0.12,7/5/2022,startups,788.0,Unknown,7/5/2022 17:11,Brazil,Unknown
+Bizzabo,New York City,Marketing,120.0,0.3,7/5/2022,calcalistech,194.0,Series E,7/6/2022 4:30,United States,Unknown
+eToro,Tel Aviv,Finance,100.0,0.06,7/5/2022,calcalistech,322.0,Unknown,7/5/2022 17:06,Israel,Unknown
+Verbit,New York City,Data,80.0,0.1,7/5/2022,calcalistech,569.0,Series E,7/5/2022 17:08,United States,Unknown
+Outschool,SF Bay Area,Education,31.0,0.18,7/5/2022,techcrunch,240.0,Series D,7/5/2022 19:15,United States,Unknown
+Bullish,Hong Kong,Crypto,30.0,0.08,7/5/2022,theblock,300.0,Unknown,7/15/2022 20:52,Hong Kong,Unknown
+Transmit Security,Boston,Security,27.0,0.07,7/5/2022,themarker,583.0,Series A,7/6/2022 4:33,United States,Unknown
+Thimble,New York City,Finance,20.0,0.33,7/5/2022,coverager,28.0,Series A,7/6/2022 4:35,United States,Unknown
+Syte,Tel Aviv,Retail,13.0,0.08,7/5/2022,themarker,71.0,Series C,7/5/2022 17:12,Israel,Unknown
+Lightricks,Jerusalem,Consumer,80.0,0.12,7/4/2022,en,335.0,Series D,7/4/2022 15:36,Israel,Unknown
+Chessable,London,Consumer,29.0,,7/4/2022,dotesports,0.0,Acquired,7/13/2022 21:48,United Kingdom,Unknown
+Sendle,Sydney,Logistics,27.0,0.12,7/4/2022,afr,69.0,Series C,7/4/2022 15:29,Australia,Unknown
+Lendis,Berlin,Other,18.0,0.15,7/4/2022,businessinsider,90.0,Series A,7/7/2022 15:36,Germany,Unknown
+Gorillas,Berlin,Food,540.0,,7/3/2022,retailfood,1300.0,Series C,7/6/2022 4:23,Germany,Unknown
+Celsius,New York City,Crypto,150.0,0.25,7/3/2022,calcalistech,864.0,Series B,7/4/2022 15:15,United States,Unknown
+WanderJaunt,SF Bay Area,Travel,85.0,1.0,7/1/2022,shorttermrentalz,26.0,Series B,7/2/2022 18:10,United States,Unknown
+Canoo,Los Angeles,Transportation,58.0,0.06,7/1/2022,businessinsider,300.0,Post-IPO,7/1/2022 22:22,United States,Unknown
+Bamboo Health,Louisville,Healthcare,52.0,,7/1/2022,,,Unknown,7/21/2022 19:29,United States,Unknown
+Teleport,SF Bay Area,Infrastructure,15.0,0.06,7/1/2022,goteleport,169.0,Series C,7/2/2022 18:09,United States,Unknown
+Enjoy,SF Bay Area,Retail,400.0,0.18,6/30/2022,news,310.0,Post-IPO,6/30/2022 21:43,United States,Unknown
+Crejo.Fun,Bengaluru,Education,170.0,1.0,6/30/2022,inc42,3.0,Seed,7/1/2022 4:10,India,Unknown
+Stash Financial,New York City,Finance,40.0,0.08,6/30/2022,forbes,480.0,Unknown,10/26/2022 4:31,United States,Unknown
+Nate,New York City,Retail,30.0,0.2,6/30/2022,theinformation,47.0,Series A,6/30/2022 21:34,United States,Unknown
+Snyk,Boston,Security,30.0,,6/30/2022,snyk,849.0,Series F,7/1/2022 4:20,United States,Unknown
+Stream,Boulder,Product,20.0,0.12,6/30/2022,twitter,58.0,Series B,7/1/2022 4:24,United States,Unknown
+Finleap Connect,Hamburg,Finance,14.0,0.1,6/30/2022,paymentandbanking,22.0,Series A,7/1/2022 4:27,Germany,Unknown
+Abra,SF Bay Area,Crypto,12.0,0.05,6/30/2022,theblock,106.0,Series C,7/1/2022 4:15,United States,Unknown
+Toppr,Mumbai,Education,350.0,,6/29/2022,inc42,112.0,Acquired,6/30/2022 2:46,India,Unknown
+Unity,SF Bay Area,Other,200.0,0.04,6/29/2022,kotaku,1300.0,Post-IPO,6/30/2022 3:13,United States,Unknown
+Niantic,SF Bay Area,Consumer,85.0,0.08,6/29/2022,bloomberg,770.0,Series D,6/29/2022 21:56,United States,Unknown
+AvantStay,Los Angeles,Travel,80.0,,6/29/2022,skift,811.0,Unknown,6/30/2022 19:20,United States,Unknown
+Qumulo,Seattle,Data,80.0,0.19,6/29/2022,geekwire,347.0,Series E,6/30/2022 2:47,United States,Unknown
+Clutch,Toronto,Transportation,76.0,0.22,6/29/2022,betakit,153.0,Series B,6/30/2022 2:52,Canada,Unknown
+Parallel Wireless,Nashua,Infrastructure,60.0,,6/29/2022,calcalist,8.0,Unknown,6/30/2022 2:54,United States,Unknown
+Oye Rickshaw,New Delhi,Transportation,40.0,0.2,6/29/2022,inc42,13.0,Unknown,7/1/2022 4:25,India,Unknown
+Rows,Berlin,Other,18.0,0.3,6/29/2022,eco,25.0,Series B,8/5/2022 19:42,Germany,Unknown
+Baton,SF Bay Area,Transportation,16.0,0.25,6/29/2022,freightwaves,13.0,Series A,6/30/2022 2:51,United States,Unknown
+Substack,SF Bay Area,Media,13.0,0.14,6/29/2022,nytimes,82.0,Series B,6/29/2022 20:26,United States,Unknown
+Huobi,Beijing,Crypto,300.0,0.3,6/28/2022,coindesk,2.0,Unknown,6/29/2022 3:50,China,Unknown
+WhiteHat Jr,Mumbai,Education,300.0,,6/28/2022,techcrunch,11.0,Acquired,6/29/2022 3:42,India,Unknown
+StockX,Detroit,Retail,120.0,0.08,6/28/2022,theinformation,690.0,Series E,6/29/2022 3:47,United States,Unknown
+Sidecar Health,Los Angeles,Healthcare,110.0,0.4,6/28/2022,,163.0,Series C,7/18/2022 18:00,United States,Unknown
+StockX,Detroit,Retail,80.0,,6/28/2022,complex,690.0,Series E,11/3/2022 4:22,United States,Unknown
+Vezeeta,Dubai,Healthcare,50.0,0.1,6/28/2022,techcrunch,71.0,Series D,6/29/2022 3:26,United Arab Emirates,Unknown
+Bright Machines,SF Bay Area,Data,30.0,0.08,6/28/2022,calcalist,250.0,Unknown,6/29/2022 3:36,Israel,Unknown
+HealthMatch,Sydney,Healthcare,18.0,0.5,6/28/2022,smh,20.0,Series B,6/29/2022 3:55,Australia,Unknown
+AppLovin,SF Bay Area,Marketing,300.0,0.12,6/27/2022,bizjournals,1600.0,Post-IPO,6/28/2022 4:27,United States,Unknown
+UiPath,New York City,Data,210.0,0.05,6/27/2022,cnbc,2000.0,Post-IPO,6/27/2022 23:50,United States,Unknown
+Udaan,Bengaluru,Retail,180.0,0.04,6/27/2022,inc42,1500.0,Unknown,6/28/2022 4:19,India,Unknown
+Cue,San Diego,Healthcare,170.0,,6/27/2022,genomeweb,999.0,Post-IPO,6/27/2022 23:55,United States,Unknown
+Banxa,Melbourne,Crypto,70.0,0.3,6/27/2022,decrypt,13.0,Post-IPO,6/28/2022 4:16,Australia,Unknown
+SafeGraph,SF Bay Area,Data,27.0,0.25,6/27/2022,safegraph,61.0,Series B,6/28/2022 4:28,United States,Unknown
+Postscript,SF Bay Area,Marketing,43.0,,6/26/2022,twitter,106.0,Series C,6/25/2022 16:34,United States,Unknown
+Bitpanda,Vienna,Crypto,270.0,0.27,6/24/2022,brutkasten,546.0,Series C,6/24/2022 16:27,Austria,Unknown
+Sunday,Atlanta,Finance,90.0,0.23,6/24/2022,lesechos,124.0,Series A,6/28/2022 4:23,United States,Unknown
+Bestow,Dallas,Finance,41.0,0.14,6/24/2022,coverager,137.0,Series C,6/27/2022 23:53,United States,Unknown
+Ethos Life,SF Bay Area,Finance,40.0,0.12,6/24/2022,coverager,406.0,Series D,6/26/2022 2:39,United States,Unknown
+Netflix,SF Bay Area,Media,300.0,0.03,6/23/2022,cnbc,121900.0,Post-IPO,6/23/2022 19:35,United States,Unknown
+Aura,Boston,Security,70.0,0.09,6/23/2022,bankinfosecurity,500.0,Series F,6/25/2022 23:05,United States,Unknown
+Pipl,Spokane,Security,22.0,0.13,6/23/2022,en,19.0,Unknown,6/23/2022 14:59,United States,Unknown
+Vouch,SF Bay Area,Finance,15.0,0.07,6/23/2022,,159.0,Series C,6/23/2022 23:48,United States,Unknown
+Voyage SMS,Los Angeles,Marketing,8.0,0.13,6/23/2022,dot,10.0,Unknown,6/30/2022 2:58,United States,Unknown
+MasterClass,SF Bay Area,Education,120.0,0.2,6/22/2022,techcrunch,461.0,Series E,6/23/2022 3:57,United States,Unknown
+IronNet,Washington D.C.,Security,90.0,0.35,6/22/2022,crn,410.0,Post-IPO,9/17/2022 14:34,United States,Unknown
+Bungalow,SF Bay Area,Real Estate,70.0,,6/22/2022,,171.0,Series C,6/23/2022 4:10,United States,Unknown
+IronNet,Washington D.C.,Security,55.0,0.17,6/22/2022,ir,410.0,Post-IPO,6/25/2022 0:16,United States,Unknown
+Sprinklr,New York City,Support,50.0,,6/22/2022,businessinsider,429.0,Post-IPO,6/26/2022 2:41,United States,Unknown
+Superpedestrian,Boston,Transportation,35.0,0.07,6/22/2022,techcrunch,261.0,Series C,6/23/2022 4:01,United States,Unknown
+Voi,Stockholm,Transportation,35.0,0.1,6/22/2022,voiscooters,515.0,Series D,6/23/2022 3:58,United States,Unknown
+Balto,St. Louis,Sales,30.0,,6/22/2022,bizjournals,51.0,Series B,6/23/2022 4:13,United States,Unknown
+Ritual,Toronto,Food,23.0,0.16,6/22/2022,linkedin,134.0,Series C,6/23/2022 4:03,Canada,Unknown
+Ebanx,Curitiba,Finance,340.0,0.2,6/21/2022,reuters,460.0,Series B,6/22/2022 3:39,Brazil,Unknown
+TaskUs,Los Angeles,Support,52.0,0.0,6/21/2022,,279.0,Post-IPO,6/22/2022 3:58,United States,Unknown
+Community,Los Angeles,Marketing,40.0,0.3,6/21/2022,businessinsider,40.0,Unknown,6/22/2022 3:44,United States,Unknown
+Sourcegraph,SF Bay Area,Product,24.0,0.08,6/21/2022,newsletter,248.0,Series D,6/23/2022 20:59,United States,Unknown
+Bybit,Singapore,Crypto,600.0,0.3,6/20/2022,techcrunch,,Unknown,6/22/2022 3:41,Singapore,Unknown
+SummerBio,SF Bay Area,Healthcare,101.0,1.0,6/20/2022,bizjournals,7.0,Unknown,6/22/2022 3:34,United States,Unknown
+Trax,Singapore,Retail,100.0,0.12,6/20/2022,en,1000.0,Series E,6/21/2022 3:18,Singapore,Unknown
+Aqgromalin,Chennai,Food,80.0,0.3,6/20/2022,inc42,12.0,Unknown,6/21/2022 3:31,India,Unknown
+Bonsai,Toronto,Retail,30.0,0.55,6/20/2022,betakit,27.0,Series A,6/21/2022 3:21,Canada,Unknown
+Brighte,Sydney,Energy,30.0,0.15,6/20/2022,startupdaily,145.0,Series C,6/21/2022 3:34,Australia,Unknown
+CityMall,Gurugram,Retail,191.0,0.3,6/19/2022,techcrunch,112.0,Series C,6/19/2022 18:38,India,Unknown
+BitOasis,Dubai,Crypto,9.0,0.05,6/19/2022,reuters,30.0,Series B,6/21/2022 3:32,United Arab Emirates,Unknown
+Unacademy,Bengaluru,Education,150.0,0.03,6/18/2022,moneycontrol,838.0,Series H,6/19/2022 17:09,India,Unknown
+Bytedance,Shanghai,Consumer,150.0,,6/17/2022,bloomberg,9400.0,Unknown,6/17/2022 16:28,China,Unknown
+Socure,Reno,Finance,69.0,0.13,6/17/2022,forbes,646.0,Series E,6/18/2022 20:20,United States,Unknown
+Finite State,Columbus,Security,16.0,0.2,6/17/2022,bizjournals,49.0,Series B,6/18/2022 16:20,United States,Unknown
+JOKR,New York City,Food,50.0,0.05,6/16/2022,techcrunch,430.0,Series B,6/19/2022 18:40,United States,Unknown
+Zumper,SF Bay Area,Real Estate,45.0,0.15,6/16/2022,therealdeal,178.0,Series D,6/16/2022 15:31,United States,Unknown
+PharmEasy,Mumbai,Healthcare,40.0,,6/16/2022,inc42,1600.0,Unknown,6/17/2022 3:06,India,Unknown
+Swappie,Helsinki,Retail,250.0,0.17,6/15/2022,swappie,169.0,Series C,6/15/2022 23:03,Finland,Unknown
+Wealthsimple,Toronto,Finance,159.0,0.13,6/15/2022,piquenewsmagazine,900.0,Unknown,6/15/2022 16:52,Canada,Unknown
+Weee!,SF Bay Area,Food,150.0,0.1,6/15/2022,businessinsider,863.0,Series E,6/19/2022 17:18,United States,Unknown
+Notarize,Boston,Legal,110.0,0.25,6/15/2022,bizjournals,213.0,Series D,6/16/2022 2:44,United States,Unknown
+Elementor,Tel Aviv,Media,60.0,0.15,6/15/2022,en,65.0,Unknown,6/15/2022 22:59,Israel,Unknown
+Tonkean,SF Bay Area,Other,23.0,0.23,6/15/2022,themarker,83.0,Series B,6/15/2022 23:19,United States,Unknown
+Airtame,Copenhagen,Consumer,15.0,,6/15/2022,,7.0,Unknown,6/16/2022 4:08,Denmark,Unknown
+OpenWeb,Tel Aviv,Media,14.0,0.05,6/15/2022,en,223.0,Series E,6/15/2022 22:17,Israel,Unknown
+Swyft,Toronto,Logistics,10.0,0.3,6/15/2022,theglobeandmail,20.0,Series A,6/15/2022 15:15,Canada,Unknown
+Coinbase,SF Bay Area,Crypto,1100.0,0.18,6/14/2022,cnbc,549.0,Post-IPO,6/14/2022 14:26,United States,Unknown
+Redfin,Seattle,Real Estate,470.0,0.08,6/14/2022,streetinsider,319.0,Post-IPO,6/14/2022 16:40,United States,Unknown
+Compass,New York City,Real Estate,450.0,0.1,6/14/2022,bloomberg,1600.0,Post-IPO,6/14/2022 16:41,United States,Unknown
+Sami,Sao Paulo,Healthcare,75.0,0.15,6/14/2022,braziljournal,36.0,Unknown,6/14/2022 21:58,Brazil,Unknown
+Breathe,New Delhi,Healthcare,50.0,0.33,6/14/2022,inc42,6.0,Series A,6/16/2022 2:53,India,Unknown
+Hunty,Bogota,HR,30.0,,6/14/2022,bloomberglinea,6.0,Seed,6/15/2022 14:27,Colombia,Unknown
+TIFIN,Boulder,Crypto,24.0,0.1,6/14/2022,axios,204.0,Series D,6/15/2022 14:46,United States,Unknown
+BlockFi,New York City,Crypto,250.0,0.2,6/13/2022,blockfi,1000.0,Series E,6/13/2022 16:19,United States,Unknown
+Wave Sports and Entertainment,Los Angeles,Media,56.0,0.33,6/13/2022,dot,65.0,Series B,6/16/2022 2:55,United States,Unknown
+Studio,SF Bay Area,Education,33.0,0.4,6/13/2022,,50.0,Series B,6/14/2022 14:48,United States,Unknown
+Crypto.com,Singapore,Crypto,260.0,0.05,6/10/2022,blockworks,156.0,Unknown,6/11/2022 16:06,Singapore,Unknown
+FarEye,New Delhi,Logistics,250.0,0.3,6/10/2022,inc42,150.0,Series E,6/10/2022 18:55,India,Unknown
+Berlin Brands Group,Berlin,Retail,100.0,0.1,6/10/2022,startbase,1000.0,Unknown,6/21/2022 3:15,Germany,Unknown
+Sanar,Sao Paulo,Healthcare,60.0,0.2,6/10/2022,terra,11.0,Unknown,6/11/2022 15:52,Brazil,Unknown
+Freetrade,London,Finance,45.0,0.15,6/10/2022,altfi,133.0,Unknown,6/10/2022 14:27,United Kingdom,Unknown
+Albert,Los Angeles,Finance,20.0,0.08,6/10/2022,dot,175.0,Series C,6/11/2022 16:05,United States,Unknown
+OneTrust,Atlanta,Security,950.0,0.25,6/9/2022,onetrust,926.0,Series C,6/10/2022 4:14,United States,Unknown
+Stitch Fix,SF Bay Area,Retail,330.0,0.15,6/9/2022,cnbc,79.0,Post-IPO,6/9/2022 19:49,United States,Unknown
+Daniel Wellington,Stockholm,Retail,200.0,0.15,6/9/2022,breakit,,Unknown,7/25/2022 4:27,Sweden,Unknown
+Convoy,Seattle,Logistics,90.0,0.07,6/9/2022,geekwire,1100.0,Series E,6/10/2022 4:13,United States,Unknown
+Hologram,Chicago,Infrastructure,80.0,0.4,6/9/2022,,82.0,Series B,6/9/2022 15:24,United States,Unknown
+Boozt,Malmo,Retail,70.0,0.05,6/9/2022,breakit,56.0,Post-IPO,7/25/2022 4:26,Sweden,Unknown
+The Grommet,Boston,Retail,40.0,1.0,6/9/2022,bizjournals,5.0,Acquired,6/10/2022 18:59,United States,Unknown
+Stashaway,Singapore,Finance,31.0,0.14,6/9/2022,techinasia,61.0,Series D,6/9/2022 19:57,Singapore,Unknown
+Preply,Boston,Education,26.0,0.05,6/9/2022,,100.0,Series C,6/10/2022 4:21,United States,Unknown
+Sonder,SF Bay Area,Travel,250.0,0.21,6/8/2022,,839.0,Post-IPO,6/9/2022 3:25,United States,Unknown
+Kavak,Sao Paulo,Transportation,150.0,,6/8/2022,terra,1600.0,Series E,6/9/2022 19:00,Brazil,Unknown
+Truepill,SF Bay Area,Healthcare,150.0,0.15,6/8/2022,medium,255.0,Series D,6/10/2022 4:24,United States,Unknown
+iPrice Group,Kuala Lumpur,Retail,50.0,0.2,6/8/2022,techinasia,26.0,Unknown,6/30/2022 3:04,Malaysia,Unknown
+Cazoo,London,Transportation,750.0,0.15,6/7/2022,news,2000.0,Post-IPO,6/7/2022 15:27,United Kingdom,Unknown
+Cazoo,London,Transportation,750.0,0.15,6/7/2022,sifted,2000.0,Post-IPO,9/9/2022 1:46,United Kingdom,Unknown
+Rupeek,Bengaluru,Finance,180.0,0.15,6/7/2022,moneycontrol,172.0,Unknown,6/7/2022 15:23,India,Unknown
+Lummo,Jakarta,Marketing,150.0,,6/7/2022,moneycontrol,149.0,Series C,6/10/2022 4:31,Indonesia,Unknown
+Bird,Los Angeles,Transportation,138.0,0.23,6/7/2022,,783.0,Post-IPO,6/7/2022 16:49,United States,Unknown
+ID.me,Washington D.C.,Security,130.0,,6/7/2022,businessinsider,275.0,Unknown,6/8/2022 2:24,United States,Unknown
+KiwiCo,SF Bay Area,Retail,40.0,,6/7/2022,,11.0,Unknown,6/17/2022 3:04,United States,Unknown
+Clearco,Toronto,Finance,60.0,,6/6/2022,techcrunch,681.0,Series C,8/30/2022 22:47,Canada,Unknown
+Dutchie,Bend,Other,50.0,0.07,6/6/2022,geekwire,603.0,Series D,6/7/2022 0:40,United States,Unknown
+Eruditus,Mumbai,Education,40.0,,6/4/2022,inc42,1200.0,Series E,6/6/2022 0:46,India,Unknown
+Afterverse,Brasilia,Consumer,60.0,0.2,6/3/2022,neofeed,,Unknown,1/21/2023 0:45,Brazil,Unknown
+Superhuman,SF Bay Area,Consumer,23.0,0.22,6/3/2022,businessinsider,108.0,Series C,6/3/2022 21:55,United States,Unknown
+Food52,New York City,Food,21.0,0.15,6/3/2022,adweek,176.0,Acquired,6/7/2022 0:46,United States,Unknown
+Carbon Health,SF Bay Area,Healthcare,250.0,0.08,6/2/2022,forbes,522.0,Series D,6/2/2022 16:32,United States,Unknown
+Favo,Sao Paulo,Food,170.0,,6/2/2022,exame,31.0,Series A,6/2/2022 23:44,Brazil,Unknown
+PolicyGenius,New York City,Finance,170.0,0.25,6/2/2022,techcrunch,286.0,Series E,6/2/2022 19:58,United States,Unknown
+Yojak,Gurugram,Construction,140.0,0.5,6/2/2022,inc42,3.0,Seed,6/5/2022 21:38,India,Unknown
+Envato,Melbourne,Marketing,100.0,,6/2/2022,smartcompany,,Unknown,6/2/2022 20:30,Australia,Unknown
+Gemini,New York City,Crypto,100.0,0.1,6/2/2022,bloomberg,423.0,Unknown,6/2/2022 16:45,United States,Unknown
+Stord,Atlanta,Logistics,59.0,0.08,6/2/2022,businessinsider,325.0,Series D,6/3/2022 17:55,United States,Unknown
+Gather,SF Bay Area,Consumer,30.0,0.33,6/2/2022,forbes,76.0,Series B,6/16/2022 2:47,United States,Unknown
+Shef,SF Bay Area,Food,29.0,,6/2/2022,,28.0,Series A,6/3/2022 22:21,United States,Unknown
+IRL,SF Bay Area,Consumer,25.0,0.25,6/2/2022,techcrunch,197.0,Series C,6/2/2022 20:29,United States,Unknown
+TomTom,Amsterdam,Transportation,500.0,0.1,6/1/2022,businessinsider,,Post-IPO,1/24/2023 23:00,Netherlands,Unknown
+Cybereason,Boston,Security,100.0,0.06,6/1/2022,calcalistech,750.0,Series F,6/1/2022 15:45,United States,Unknown
+Udayy,Gurugram,Education,100.0,1.0,6/1/2022,moneycontrol,2.0,Seed,6/1/2022 15:41,India,Unknown
+2TM,Sao Paulo,Crypto,90.0,0.12,6/1/2022,terra,250.0,Unknown,6/2/2022 3:21,Brazil,Unknown
+Curve,London,Finance,65.0,0.1,6/1/2022,altfi,182.0,Series C,6/2/2022 18:07,United Kingdom,Unknown
+Loom,SF Bay Area,Product,34.0,0.14,6/1/2022,techcrunch,203.0,Series C,6/1/2022 23:34,United States,Unknown
+Skillshare,New York City,Education,31.0,,6/1/2022,,136.0,Unknown,6/9/2022 19:53,United States,Unknown
+Impala,London,Travel,30.0,0.35,6/1/2022,newsletter,32.0,Series B,6/10/2022 19:14,United Kingdom,Unknown
+Eaze,SF Bay Area,Consumer,25.0,,6/1/2022,businessinsider,202.0,Series D,6/2/2022 21:37,United States,Unknown
+Playtika,Tel Aviv,Consumer,250.0,0.06,5/31/2022,en,,Post-IPO,5/31/2022 15:22,Israel,Unknown
+Replicated,Los Angeles,Infrastructure,50.0,,5/31/2022,replicated,85.0,Series C,6/1/2022 15:49,United States,Unknown
+Tomo,Stamford,Finance,44.0,0.33,5/31/2022,businessinsider,110.0,Series A,6/1/2022 0:56,United States,Unknown
+Getta,Tel Aviv,Transportation,30.0,,5/31/2022,themarker,49.0,Series A,6/1/2022 1:03,Israel,Unknown
+BookClub,Salt Lake City,Education,12.0,0.25,5/31/2022,,26.0,Series A,6/6/2022 21:00,United States,Unknown
+SWVL,Dubai,Transportation,400.0,0.32,5/30/2022,techcrunch,132.0,Post-IPO,5/31/2022 2:08,United Arab Emirates,Unknown
+Mobile Premier League,Bengaluru,Consumer,100.0,0.1,5/30/2022,moneycontrol,375.0,Series E,5/31/2022 15:17,India,Unknown
+SumUp,Sao Paulo,Finance,100.0,0.03,5/30/2022,financefwd,50.0,Unknown,5/31/2022 15:20,Brazil,Unknown
+FrontRow,Bengaluru,Education,145.0,0.3,5/27/2022,inc42,17.0,Series A,5/31/2022 2:05,India,Unknown
+Daloopa,New Delhi,Data,40.0,,5/27/2022,moneycontrol,23.0,Series A,6/2/2022 3:23,India,Unknown
+Uncapped,London,Finance,29.0,0.26,5/27/2022,sifted,118.0,Unknown,5/28/2022 0:11,United Kingdom,Unknown
+VTEX,Sao Paulo,Retail,200.0,0.13,5/26/2022,bloomberglinea,365.0,Post-IPO,5/27/2022 3:23,Brazil,Unknown
+Bitso,Mexico City,Crypto,80.0,0.11,5/26/2022,coindesk,378.0,Series C,5/27/2022 3:27,Mexico,Unknown
+Foodpanda,Bucharest,Food,80.0,,5/26/2022,sifted,749.0,Acquired,5/28/2022 0:12,Romania,Unknown
+Dazn,London,Consumer,50.0,0.02,5/26/2022,deadline,,Unknown,6/11/2022 4:02,United Kingdom,Unknown
+Lacework,SF Bay Area,Security,300.0,0.2,5/25/2022,twitter,1900.0,Series D,5/25/2022 23:03,United States,Unknown
+Bolt,SF Bay Area,Finance,240.0,0.27,5/25/2022,forbes,1300.0,Series E,5/25/2022 17:57,United States,Unknown
+PeerStreet,Los Angeles,Finance,75.0,,5/25/2022,,121.0,Series C,5/28/2022 15:59,United States,Unknown
+Kontist,Berlin,Finance,50.0,0.25,5/25/2022,financefwd,53.0,Series B,5/25/2022 13:51,Germany,Unknown
+Nuri,Berlin,Finance,45.0,0.2,5/25/2022,handelsblatt,42.0,Series B,5/25/2022 13:50,Germany,Unknown
+Coterie Insurance,Cincinnati,Finance,30.0,0.2,5/25/2022,bizjournals,70.0,Series B,5/27/2022 3:49,United States,Unknown
+Gorillas,Berlin,Food,300.0,0.5,5/24/2022,theverge,1300.0,Series C,5/24/2022 15:00,Germany,Unknown
+Zenius,Jakarta,Education,200.0,,5/24/2022,cnnindonesia,20.0,Series B,5/25/2022 3:28,Indonesia,Unknown
+The Zebra,Austin,Finance,40.0,,5/24/2022,coverager,256.0,Series D,5/25/2022 3:33,United States,Unknown
+Klarna,Stockholm,Finance,700.0,0.1,5/23/2022,di,3700.0,Unknown,5/23/2022 15:56,Sweden,Unknown
+PayPal,SF Bay Area,Finance,83.0,,5/23/2022,bizjournals,216.0,Post-IPO,5/26/2022 3:02,United States,Unknown
+Buenbit,Buenos Aires,Crypto,80.0,0.45,5/23/2022,coindesk,11.0,Series A,5/25/2022 13:53,Argentina,Unknown
+BeyondMinds,Tel Aviv,Data,65.0,1.0,5/23/2022,en,16.0,Series A,5/23/2022 16:02,Israel,Unknown
+ClickUp,San Diego,Other,60.0,0.07,5/23/2022,protocol,537.0,Series C,5/25/2022 3:21,United States,Unknown
+Airtime,New York City,Consumer,30.0,0.2,5/23/2022,,33.0,Series B,8/17/2022 18:42,United States,Unknown
+MFine,Bengaluru,Healthcare,600.0,0.75,5/21/2022,inc42,97.0,Series C,5/22/2022 1:06,India,Unknown
+Latch,New York City,Security,130.0,0.28,5/20/2022,globenewswire,342.0,Post-IPO,5/21/2022 21:28,United States,Unknown
+Outside,Boulder,Media,87.0,0.15,5/20/2022,adweek,174.0,Series B,5/22/2022 1:47,United States,Unknown
+Skillz,SF Bay Area,Consumer,70.0,0.1,5/20/2022,techcrunch,287.0,Post-IPO,5/21/2022 21:16,United States,Unknown
+Cars24,Gurugram,Transportation,600.0,0.06,5/19/2022,entrackr,1300.0,Series G,5/19/2022 14:39,India,Unknown
+Vedantu,Bengaluru,Education,424.0,0.07,5/18/2022,economictimes,292.0,Series E,5/18/2022 15:48,India,Unknown
+Netflix,SF Bay Area,Media,150.0,0.01,5/17/2022,cnbc,121900.0,Post-IPO,5/17/2022 18:58,United States,Unknown
+Kry,Stockholm,Healthcare,100.0,0.1,5/17/2022,di,568.0,Series D,5/17/2022 14:22,Sweden,Unknown
+Picsart,Miami,Consumer,90.0,0.08,5/17/2022,theinformation,195.0,Series C,5/17/2022 22:26,United States,Unknown
+Zak,Sao Paulo,Food,100.0,0.4,5/16/2022,baguete,29.0,Series A,5/17/2022 19:49,United States,Unknown
+AliExpress Russia,Moscow,Retail,400.0,0.4,5/14/2022,asia,60.0,Acquired,5/14/2022 1:12,Russia,Unknown
+Thirty Madison,New York City,Healthcare,24.0,,5/14/2022,usanewsweb,209.0,Acquired,5/16/2022 5:01,United States,Unknown
+CommonBond,New York City,Finance,22.0,,5/13/2022,linkedin,130.0,Series D,5/25/2022 20:55,United States,Unknown
+Zwift,Los Angeles,Fitness,150.0,,5/12/2022,dcrainmaker,619.0,Series C,5/12/2022 14:35,United States,Unknown
+Section4,New York City,Education,32.0,,5/12/2022,techcrunch,37.0,Series A,5/12/2022 23:29,United States,Unknown
+DataRobot,Boston,Data,70.0,0.07,5/11/2022,theinformation,1000.0,Series G,5/11/2022 17:48,United States,Unknown
+Carvana,Phoenix,Transportation,2500.0,0.12,5/10/2022,techcrunch,1600.0,Post-IPO,5/10/2022 15:35,United States,Unknown
+Doma,SF Bay Area,Finance,310.0,0.15,5/10/2022,housingwire,679.0,Post-IPO,5/12/2022 17:23,United States,Unknown
+Pollen,London,Travel,200.0,0.33,5/10/2022,newsletter,238.0,Series C,5/20/2022 0:32,United Kingdom,Unknown
+Latch,New York City,Security,30.0,0.06,5/10/2022,techcrunch,342.0,Post-IPO,5/12/2022 1:19,United States,Unknown
+Meero,Paris,Other,350.0,0.5,5/9/2022,challenges,293.0,Series C,3/4/2023 0:53,France,Unknown
+Vroom,New York City,Transportation,270.0,0.14,5/9/2022,marketwatch,1300.0,Post-IPO,5/10/2022 2:49,United States,Unknown
+Reef,Miami,Transportation,750.0,0.05,5/6/2022,restaurantbusinessonline,1500.0,Unknown,5/6/2022 21:36,United States,Unknown
+divvyDOSE,Davenport,Healthcare,62.0,,5/6/2022,qctimes,0.0,Acquired,5/14/2022 1:17,United States,Unknown
+Vedantu,Bengaluru,Education,200.0,0.03,5/5/2022,economictimes,292.0,Series E,5/7/2022 13:51,India,Unknown
+Mural,SF Bay Area,Product,90.0,0.1,5/5/2022,,192.0,Series C,5/6/2022 17:01,United States,Unknown
+On Deck,SF Bay Area,Education,72.0,0.25,5/5/2022,techcrunch,20.0,Series A,5/5/2022 18:40,United States,Unknown
+SEND,Sydney,Food,300.0,1.0,5/4/2022,smartcompany,3.0,Seed,5/9/2022 2:01,Australia,Unknown
+Colossus,Boston,Energy,97.0,,5/4/2022,,41.0,Series A,5/12/2022 1:16,United States,Unknown
+Cameo,Chicago,Consumer,87.0,0.25,5/4/2022,theinformation,165.0,Unknown,5/4/2022 23:34,United States,Unknown
+Mainstreet,SF Bay Area,Finance,45.0,0.3,5/4/2022,businessinsider,64.0,Series A,5/5/2022 14:43,United States,Unknown
+Ideoclick,Seattle,Retail,40.0,,5/4/2022,bizjournals,7.0,Series A,5/9/2022 1:57,United States,Unknown
+Vise,New York City,Finance,25.0,,5/4/2022,citywireusa,128.0,Series C,5/4/2022 23:38,United States,Unknown
+Avo,Tel Aviv,Food,500.0,0.67,5/1/2022,en,45.0,Series B,5/2/2022 23:33,Israel,Unknown
+Noom,New York City,Healthcare,495.0,,4/29/2022,engadget,657.0,Series F,5/2/2022 23:56,United States,Unknown
+Domestika,SF Bay Area,Education,150.0,0.19,4/28/2022,epe,130.0,Series D,7/25/2022 4:25,United States,Unknown
+Netflix,SF Bay Area,Media,25.0,,4/28/2022,thewrap,121900.0,Post-IPO,5/12/2022 1:21,United States,Unknown
+Wahoo Fitness,Atlanta,Fitness,50.0,,4/27/2022,road,,Unknown,6/19/2022 17:08,United States,Unknown
+Robinhood,SF Bay Area,Finance,340.0,0.09,4/26/2022,cnbc,5600.0,Post-IPO,4/26/2022 20:57,United States,Unknown
+Bonsai,Toronto,Retail,29.0,0.34,4/26/2022,betakit,27.0,Series A,6/21/2022 3:27,Canada,Unknown
+Sigfox,Toulouse,Other,64.0,,4/25/2022,lightreading,277.0,Acquired,2/23/2023 22:33,France,Unknown
+Clyde,New York City,Marketing,22.0,,4/25/2022,docs,58.0,Series B,5/11/2022 3:08,United States,Unknown
+Xiaohongshu,Shanghai,Consumer,180.0,0.09,4/21/2022,reuters,917.0,Series E,4/23/2022 2:47,China,Unknown
+Facily,Sao Paulo,Retail,260.0,0.3,4/20/2022,startups,502.0,Series D,4/27/2022 23:14,Brazil,Unknown
+Lemonade,New York City,Finance,52.0,,4/20/2022,coverager,481.0,Post-IPO,5/28/2022 0:15,United States,Unknown
+Blend,SF Bay Area,Finance,200.0,0.1,4/19/2022,housingwire,665.0,Post-IPO,4/20/2022 3:20,United States,Unknown
+QuintoAndar,Sao Paulo,Real Estate,160.0,0.04,4/19/2022,aimgroup,755.0,Series E,4/24/2022 3:25,Brazil,Unknown
+Loft,Sao Paulo,Real Estate,159.0,,4/19/2022,thegoaspotlight,788.0,Unknown,4/24/2022 3:27,Brazil,Unknown
+Humble,SF Bay Area,Media,10.0,,4/15/2022,gamedeveloper,4.0,Acquired,6/14/2022 14:59,United States,Unknown
+Ahead,SF Bay Area,Healthcare,44.0,1.0,4/14/2022,bloomberg,9.0,Unknown,4/15/2022 22:56,United States,Unknown
+Rad Power Bikes,Seattle,Transportation,100.0,0.14,4/12/2022,geekwire,329.0,Series D,5/5/2022 23:38,United States,Unknown
+Meesho,Bengaluru,Retail,150.0,,4/11/2022,inc42,1100.0,Series F,4/15/2022 22:53,India,Unknown
+Food52,New York City,Food,20.0,0.1,4/8/2022,businessinsider,176.0,Acquired,5/7/2022 23:29,United States,Unknown
+Unacademy,Bengaluru,Education,1000.0,0.17,4/7/2022,economictimes,838.0,Series H,4/7/2022 15:30,India,Unknown
+Goodfood,Calgary,Food,70.0,,4/7/2022,thelogic,16.0,Post-IPO,8/11/2022 13:34,Canada,Unknown
+Workrise,Austin,Energy,450.0,,4/5/2022,techcrunch,752.0,Series E,3/25/2022 18:50,United States,Unknown
+BitMEX,Non-U.S.,Crypto,75.0,0.25,4/4/2022,theblockcrypto,0.0,Seed,4/5/2022 0:02,Seychelles,Unknown
+Legible,Vancouver,Media,23.0,0.38,4/4/2022,betakit,3.0,Post-IPO,4/15/2022 23:02,Canada,Unknown
+Lightico,Tel Aviv,Finance,20.0,,3/31/2022,calcalistech,42.0,Series B,2/7/2023 4:09,Israel,Unknown
+Sea,Bengaluru,Retail,350.0,,3/30/2022,techinasia,8600.0,Post-IPO,3/30/2022 22:01,India,Unknown
+Rasa,Berlin,Data,59.0,0.4,3/30/2022,businessinsider,40.0,Series B,3/30/2022 22:05,Germany,Unknown
+Gopuff,Philadelphia,Food,450.0,0.03,3/29/2022,theinformation,3400.0,Series H,3/30/2022 15:13,United States,Unknown
+Thinkific,Vancouver,Education,100.0,0.2,3/29/2022,betakit,22.0,Post-IPO,3/30/2022 3:34,Canada,Unknown
+Furlenco,Bengaluru,Retail,180.0,,3/26/2022,inc42,228.0,Series D,3/28/2022 3:21,India,Unknown
+Storytel,Stockholm,Media,100.0,0.1,3/17/2022,svt,275.0,Post-IPO,5/17/2022 14:26,Sweden,Unknown
+Curology,SF Bay Area,Healthcare,150.0,,3/16/2022,bizjournals,19.0,Series D,3/18/2022 2:55,United States,Unknown
+Trell,Bengaluru,Retail,300.0,0.5,3/15/2022,businesstoday,62.0,Series B,5/7/2022 13:47,India,Unknown
+Knock,New York City,Real Estate,115.0,0.46,3/15/2022,bloomberg,654.0,Unknown,3/17/2022 15:04,United States,Unknown
+Better.com,New York City,Real Estate,3000.0,0.33,3/8/2022,nytimes,905.0,Unknown,3/9/2022 0:46,United States,Unknown
+Adaptive Biotechnologies,Seattle,Healthcare,100.0,0.12,3/8/2022,geekwire,406.0,Post-IPO,5/29/2022 17:59,United States,Unknown
+Hyperscience,New York City,Data,100.0,0.25,3/3/2022,theinformation,289.0,Series E,3/4/2022 0:14,United States,Unknown
+WeDoctor,Non-U.S.,Healthcare,500.0,,3/2/2022,bloomberg,1400.0,Series F,3/5/2022 17:03,China,Unknown
+Wish,SF Bay Area,Retail,190.0,0.15,3/1/2022,marketwatch,1600.0,Post-IPO,5/14/2022 1:20,United States,Unknown
+OKCredit,New Delhi,Finance,30.0,,2/24/2022,inc42,85.0,Series B,2/26/2022 15:42,India,Unknown
+Lido,Mumbai,Education,150.0,,2/21/2022,inc42,24.0,Series A,2/22/2022 2:46,India,Unknown
+Virgin Hyperloop,Los Angeles,Transportation,111.0,0.5,2/21/2022,ft,368.0,Unknown,2/22/2022 15:59,United States,Unknown
+Trustly,Stockholm,Finance,120.0,,2/17/2022,igamingbusiness,28.0,Acquired,5/17/2022 14:25,Sweden,Unknown
+Liv Up,Sao Paulo,Food,100.0,0.15,2/16/2022,startups,118.0,Series D,4/27/2022 23:17,Brazil,Unknown
+Homie,Salt Lake City,Real Estate,119.0,0.29,2/14/2022,deseret,35.0,Series B,2/11/2022 21:07,United States,Unknown
+Hopin,London,Other,138.0,0.12,2/10/2022,techcrunch,1000.0,Series D,2/11/2022 1:18,United States,Unknown
+Daily Harvest,New York City,Food,60.0,0.2,2/10/2022,bloomberg,120.0,Series D,2/10/2023 23:53,United States,Unknown
+Peloton,New York City,Fitness,2800.0,0.2,2/8/2022,techcrunch,1900.0,Post-IPO,2/8/2022 17:08,United States,Unknown
+Rhino,New York City,Real Estate,57.0,0.2,2/3/2022,therealdeal,133.0,Unknown,2/4/2022 23:08,United States,Unknown
+Gopuff,Philadelphia,Food,100.0,,1/26/2022,businessinsider,3400.0,Series H,2/4/2022 16:58,United States,Unknown
+Glossier,New York City,Consumer,80.0,0.33,1/26/2022,techcrunch,266.0,Series E,1/26/2022 21:48,United States,Unknown
+Root Insurance,Columbus,Finance,330.0,,1/20/2022,coverager,527.0,Post-IPO,1/23/2022 22:09,United States,Unknown
+Delivery Hero,Berlin,Food,300.0,,12/22/2021,businessinsider,8300.0,Post-IPO,12/30/2021 21:33,Germany,Unknown
+Better.com,New York City,Real Estate,900.0,0.09,12/1/2021,techcrunch,905.0,Unknown,12/1/2021 23:06,United States,Unknown
+BitTitan,Seattle,Data,70.0,0.27,11/18/2021,seattletimes,46.0,Acquired,11/20/2021 16:32,United States,Unknown
+Zillow,Seattle,Real Estate,2000.0,0.25,11/2/2021,geekwire,97.0,Post-IPO,11/2/2021 21:18,United States,Unknown
+InVision,New York City,Product,22.0,,10/5/2021,,356.0,Unknown,5/7/2022 21:49,United States,Unknown
+Zymergen,SF Bay Area,Other,120.0,,9/23/2021,bizjournals,974.0,Post-IPO,9/25/2021 18:10,United States,Unknown
+Treehouse,Portland,Education,41.0,0.9,9/14/2021,oregonlive,12.0,Series B,10/27/2021 15:12,United States,Unknown
+Tanium,Seattle,Security,30.0,,8/30/2021,businessinsider,1000.0,Unknown,6/7/2022 2:42,United States,Unknown
+Flockjay,SF Bay Area,Education,37.0,0.5,8/24/2021,techcrunch,14.0,Series A,8/24/2021 20:41,United States,Unknown
+Bytedance,Shanghai,Consumer,1800.0,,8/5/2021,reuters,9400.0,Unknown,8/5/2021 19:34,China,Unknown
+Pagarbook,Bengaluru,HR,80.0,,7/26/2021,inc42,17.0,Series A,7/29/2021 23:27,India,Unknown
+Katerra,SF Bay Area,Construction,2434.0,1.0,6/1/2021,therealdeal,1600.0,Unknown,6/1/2021 19:36,United States,Unknown
+Lambda School,SF Bay Area,Education,65.0,,4/29/2021,techcrunch,122.0,Series C,4/30/2021 4:52,United States,Unknown
+Patreon,SF Bay Area,Media,36.0,,4/26/2021,youtube,165.0,Series D,4/29/2021 16:27,United States,Unknown
+New Relic,SF Bay Area,Infrastructure,160.0,0.07,4/6/2021,siliconangle,214.5,Post-IPO,4/7/2021 2:19,United States,Unknown
+HuffPo,New York City,Media,47.0,,3/9/2021,huffpost,37.0,Acquired,3/9/2021 18:46,United States,Unknown
+Ninjacart,Bengaluru,Food,200.0,,2/23/2021,inc42,194.0,Unknown,2/23/2021 23:14,India,Unknown
+Bounce,Bengaluru,Transportation,200.0,0.4,2/22/2021,economictimes,214.2,Series D,2/22/2021 23:38,India,Unknown
+ThredUp,Chicago,Retail,243.0,,2/9/2021,chicagotribune,305.0,Series F,2/9/2021 23:15,United States,Unknown
+Indigo,Boston,Other,80.0,,2/9/2021,bizjournals,1200.0,Series F,2/11/2021 22:42,United States,Unknown
+Limelight,New York City,Recruiting,13.0,1.0,2/4/2021,,,Unknown,2/5/2021 16:50,United States,Unknown
+Quandoo,Berlin,Food,87.0,0.2,2/3/2021,berliner-zeitung,39.0,Acquired,2/18/2021 1:02,Germany,Unknown
+Hubba,Toronto,Retail,45.0,1.0,2/1/2021,betakit,61.0,Series B,2/3/2021 18:03,Canada,Unknown
+Bytedance,Mumbai,Consumer,1800.0,,1/27/2021,entrackr,7400.0,Unknown,1/28/2021 0:27,India,Unknown
+Privitar,London,Data,20.0,,1/27/2021,bizjournals,150.0,Series C,1/28/2021 18:15,United Kingdom,Unknown
+Shutterfly,SF Bay Area,Retail,800.0,,1/25/2021,thedeadpixelssociety,50.0,Acquired,1/26/2023 21:07,United States,Unknown
+Postmates,SF Bay Area,Food,180.0,0.15,1/23/2021,nytimes,763.0,Acquired,1/25/2021 0:21,United States,Unknown
+Instacart,SF Bay Area,Food,1877.0,,1/21/2021,bloomberg,2400.0,Unknown,1/21/2021 22:15,United States,Unknown
+Pocketmath,Singapore,Marketing,21.0,1.0,1/20/2021,businessinsider,20.0,Unknown,1/21/2021 22:17,Singapore,Unknown
+Dropbox,SF Bay Area,Other,315.0,0.15,1/13/2021,cnbc,1700.0,Post-IPO,1/13/2021 17:21,United States,Unknown
+WhiteHat Jr,Mumbai,Education,1800.0,,1/6/2021,inc42,11.0,Acquired,1/11/2021 16:19,India,Unknown
+Pulse Secure,SF Bay Area,Security,78.0,,12/23/2020,bizjournals,,Acquired,12/28/2020 20:03,United States,Unknown
+Breather,Montreal,Real Estate,120.0,0.8,12/16/2020,theglobeandmail,131.0,Series D,12/17/2020 17:19,Canada,Unknown
+Actifio,Boston,Data,54.0,,12/16/2020,bizjournals,352.0,Acquired,12/17/2020 23:04,United States,Unknown
+OYO,Gurugram,Travel,600.0,,12/8/2020,forbesindia,3200.0,Series F,12/9/2020 5:22,India,Unknown
+Aya,Toronto,Finance,5.0,0.25,11/19/2020,betakit,3.0,Seed,11/19/2020 23:11,United States,Unknown
+Bridge Connector,Nashville,Healthcare,154.0,1.0,11/17/2020,nashvillepost,45.0,Series B,11/19/2020 23:19,United States,Unknown
+Tidepool,SF Bay Area,Healthcare,18.0,0.4,11/17/2020,linkedin,,Unknown,1/9/2021 5:20,United States,Unknown
+Worksmith,Austin,Retail,30.0,0.5,11/9/2020,bizjournals,3.8,Unknown,11/12/2020 20:04,United States,Unknown
+LivePerson,New York City,Support,30.0,,11/1/2020,en,42.0,Post-IPO,1/21/2023 22:51,United States,Unknown
+Remedy,Austin,Healthcare,82.0,,10/29/2020,bizjournals,12.5,Series A,11/3/2020 16:11,United States,Unknown
+Knotel,New York City,Real Estate,20.0,0.08,10/29/2020,businessinsider,560.0,Series C,11/3/2020 16:13,United States,Unknown
+CodeCombat,SF Bay Area,Education,8.0,,10/23/2020,layoffs,8.0,Series A,10/23/2020 16:33,United States,Unknown
+GetYourGuide,Berlin,Travel,90.0,0.17,10/14/2020,reuters,656.0,Series E,10/16/2020 19:52,Germany,Unknown
+OLX India,New Delhi,Marketing,250.0,,10/10/2020,inc42,28.0,Acquired,10/12/2020 17:12,India,Unknown
+Alto Pharmacy,SF Bay Area,Healthcare,47.0,0.06,9/29/2020,layoffs,356.0,Series D,10/7/2020 19:46,United States,Unknown
+NS8,Las Vegas,Data,240.0,0.95,9/11/2020,twitter,157.9,Series A,9/11/2020 15:08,United States,Unknown
+Bleacher Report,London,Media,20.0,,9/11/2020,awfulannouncing,40.5,Acquired,9/12/2020 1:52,United Kingdom,Unknown
+Waze,SF Bay Area,Transportation,30.0,0.054,9/9/2020,theverge,67.0,Acquired,9/10/2020 14:30,United States,Unknown
+Big Fish Games,Seattle,Media,250.0,,9/1/2020,venturebeat,95.2,Acquired,9/2/2020 18:43,United States,Unknown
+GoBear,Singapore,Finance,22.0,0.11,9/1/2020,layoffs,97.0,Unknown,9/2/2020 17:45,Singapore,Unknown
+MakeMyTrip,New Delhi,Travel,350.0,0.1,8/31/2020,yourstory,548.0,Post-IPO,9/2/2020 17:45,India,Unknown
+Salesforce,SF Bay Area,Sales,1000.0,0.0185,8/26/2020,bloomberg,65.4,Post-IPO,8/26/2020 20:28,United States,Unknown
+Superloop,Brisbane,Infrastructure,30.0,,8/24/2020,arnnet,36.0,Post-IPO,6/26/2022 23:50,Australia,Unknown
+Docly,London,Healthcare,8.0,0.8,8/19/2020,sifted,15.5,Seed,8/20/2020 17:02,United Kingdom,Unknown
+Shopify,Ottawa,Retail,30.0,,8/14/2020,betakit,122.3,Post-IPO,8/14/2020 16:28,Canada,Unknown
+Mozilla,SF Bay Area,Consumer,250.0,0.25,8/11/2020,layoffs,2.3,Unknown,8/11/2020 15:32,United States,Unknown
+Eatsy,Singapore,Food,20.0,1.0,8/8/2020,businesstimes,0.9755,Seed,8/10/2020 18:04,Singapore,Unknown
+Glossier,New York City,Retail,150.0,0.38,8/7/2020,glossier,186.4,Series D,8/19/2020 17:43,United States,Unknown
+Thriver,Toronto,Food,75.0,0.5,8/6/2020,betakit,53.0,Series B,8/7/2020 17:41,Canada,Unknown
+Vesta,Atlanta,Sales,56.0,,8/5/2020,americaninno,20.0,Unknown,8/6/2020 21:47,United States,Unknown
+Booking.com,Amsterdam,Travel,4375.0,0.25,7/30/2020,skift,,Acquired,8/4/2020 15:02,Netherlands,Unknown
+Buy.com / Rakuten,SF Bay Area,Retail,87.0,1.0,7/30/2020,techcrunch,42.4,Acquired,7/31/2020 16:36,United States,Unknown
+Procore,Los Angeles,Construction,180.0,0.09,7/28/2020,bloomberg,649.0,Unknown,7/28/2020 23:43,United States,Unknown
+Swiggy,Bengaluru,Food,350.0,0.05,7/27/2020,livemint,1600.0,Series I,7/28/2020 20:25,India,Unknown
+Zeitgold,Berlin,Finance,75.0,0.72,7/27/2020,layoffs,60.18,Series B,8/3/2020 17:27,Germany,Unknown
+Checkr,SF Bay Area,HR,64.0,0.12,7/23/2020,layoffs,309.0,Series D,7/24/2020 15:51,United States,Unknown
+LinkedIn,SF Bay Area,Recruiting,960.0,0.06,7/21/2020,layoffs,154.0,Acquired,7/21/2020 14:44,United States,Unknown
+Lighter Capital,Seattle,Finance,22.0,0.49,7/20/2020,geekwire,15.0,Series B,7/20/2020 15:15,United States,Unknown
+Curefit,Bengaluru,Fitness,120.0,,7/17/2020,tech,404.6,Series D,7/17/2020 22:01,India,Unknown
+Optimizely,SF Bay Area,Marketing,60.0,0.15,7/15/2020,techcrunch,251.2,Series D,7/16/2020 15:38,United States,Unknown
+Skyscanner,Edinburgh,Travel,300.0,0.2,7/14/2020,layoffs,197.2,Acquired,7/14/2020 22:41,United Kingdom,Unknown
+Yelp,SF Bay Area,Consumer,63.0,,7/13/2020,cnbc,56.0,Post-IPO,7/13/2020 21:02,United States,Unknown
+Bizongo,Mumbai,Logistics,140.0,,7/10/2020,startupnews,70.0,Series C,7/13/2020 16:54,India,Unknown
+Zilingo,Singapore,Retail,100.0,0.12,7/9/2020,zilingotrade,307.0,Series D,7/9/2020 19:25,Singapore,Unknown
+PaySense,Mumbai,Finance,40.0,,7/9/2020,tech,25.6,Acquired,7/10/2020 2:00,India,Unknown
+Funding Circle,SF Bay Area,Finance,85.0,,7/8/2020,altfi,746.0,Post-IPO,7/9/2020 17:27,United States,Unknown
+The Wing,New York City,Real Estate,56.0,,7/1/2020,commercialobserver,117.0,Series C,7/9/2020 17:33,United States,Unknown
+Sharethrough,SF Bay Area,Marketing,18.0,,7/1/2020,blog,38.0,Series D,7/2/2020 3:34,United States,Unknown
+Kongregate,SF Bay Area,Media,12.0,,7/1/2020,forbes,19.0,Series C,7/3/2020 1:22,United States,Unknown
+Havenly,Denver,Consumer,5.0,,7/1/2020,businessden,57.8,Series C,7/2/2020 3:38,United States,Unknown
+G2,Chicago,Marketing,17.0,0.05,6/30/2020,americaninno,100.8,Series C,7/1/2020 20:00,United States,Unknown
+Katerra,SF Bay Area,Construction,400.0,0.07,6/29/2020,theinformation,1300.0,Series E,6/30/2020 15:49,United States,Unknown
+Bounce,Bengaluru,Transportation,130.0,0.22,6/29/2020,inc42,214.2,Series D,6/30/2020 15:56,India,Unknown
+Argo AI,Munich,Transportation,100.0,,6/29/2020,theinformation,3600.0,Unknown,6/29/2020 18:01,Germany,Unknown
+Bossa Nova,SF Bay Area,Retail,61.0,,6/29/2020,post-gazette,101.6,Unknown,6/30/2020 15:44,United States,Unknown
+New Relic,Portland,Infrastructure,20.0,,6/29/2020,bizjournals,214.5,Post-IPO,6/30/2020 16:00,United States,Unknown
+GoDaddy,Austin,Marketing,451.0,0.06,6/24/2020,domainnamewire,,Post-IPO,6/25/2020 5:21,United States,Unknown
+Sonos,New York City,Consumer,174.0,0.12,6/24/2020,cnbc,455.2,Post-IPO,6/25/2020 4:51,United States,Unknown
+Gojek,Jakarta,Transportation,430.0,0.09,6/23/2020,layoffs,4800.0,Series F,6/23/2020 22:28,Indonesia,Unknown
+ScaleFactor,Austin,Finance,90.0,0.9,6/23/2020,forbes,103.0,Series C,6/23/2020 23:45,United States,Unknown
+Dark,SF Bay Area,Product,6.0,1.0,6/23/2020,layoffs,3.0,Seed,6/29/2020 14:46,United States,Unknown
+Intuit,SF Bay Area,Finance,715.0,0.07,6/22/2020,intuitblog,18.0,Post-IPO,6/22/2020 22:14,United States,Unknown
+WeWork,London,Real Estate,200.0,,6/19/2020,wired,19500.0,Series H,6/27/2020 18:14,United Kingdom,Unknown
+Atlas Obscura ,New York City,Media,15.0,,6/18/2020,poynter,32.0,Series B,6/23/2020 20:46,United States,Unknown
+Navi,Bengaluru,Finance,40.0,0.25,6/17/2020,inc42,582.0,Private Equity,6/20/2020 22:24,India,Unknown
+PaisaBazaar,Gurugram,Finance,1500.0,0.5,6/16/2020,thetechportal,496.0,Series G,6/16/2020 23:16,India,Unknown
+Grab,Singapore,Transportation,360.0,0.05,6/16/2020,layoffs,9900.0,Series I,6/16/2020 13:43,Singapore,Unknown
+Splunk,SF Bay Area,Data,70.0,0.01,6/16/2020,bloomberg,40.0,Post-IPO,6/18/2020 22:48,United States,Unknown
+Redox,Madison,Healthcare,44.0,0.25,6/16/2020,theredoxpodcast,50.0,Series C,6/23/2020 13:59,United States,Unknown
+Uber,Amsterdam,Transportation,225.0,0.25,6/12/2020,dutchnews,24700.0,Post-IPO,6/27/2020 18:25,Netherlands,Unknown
+SynapseFI,SF Bay Area,Finance,63.0,0.48,6/12/2020,forbes,50.0,Series B,6/13/2020 3:44,United States,Unknown
+ScaleFocus,Sofia,Infrastructure,120.0,0.1,6/11/2020,seenews,,Unknown,6/11/2020 23:23,Bulgaria,Unknown
+Branch,New York City,Retail,3.0,0.27,6/11/2020,techcrunch,2.0,Seed,6/11/2020 23:18,United States,Unknown
+Her Campus Media,Boston,Media,10.0,0.18,6/10/2020,weny,,Unknown,6/10/2020 23:13,United States,Unknown
+Integrate.ai,Toronto,Support,26.0,,6/9/2020,integrate,39.6,Unknown,6/30/2020 16:09,Canada,Unknown
+The Athletic,SF Bay Area,Media,46.0,0.08,6/5/2020,axios,139.0,Series D,6/5/2020 21:06,United States,Unknown
+Ethos Life,SF Bay Area,Finance,18.0,0.14,6/5/2020,coverager,106.0,Series C,6/6/2020 3:14,United States,Unknown
+Lastline,SF Bay Area,Security,50.0,0.4,6/4/2020,techcrunch,52.0,Series C,6/4/2020 22:28,United States,Unknown
+Builder,Los Angeles,Product,39.0,0.14,6/4/2020,businessinsider,29.0,Series A,6/4/2020 22:26,United States,Unknown
+Monzo,London,Finance,120.0,0.08,6/3/2020,layoffs,324.0,Series F,6/3/2020 21:53,United Kingdom,Unknown
+Kitty Hawk,SF Bay Area,Aerospace,70.0,,6/3/2020,techcrunch,1.0,Unknown,6/3/2020 23:28,United States,Unknown
+SpotHero,Chicago,Transportation,40.0,0.21,6/3/2020,americaninno,117.0,Series D,6/3/2020 23:23,United States,Unknown
+Credit Sesame,SF Bay Area,Finance,22.0,0.14,6/3/2020,businessinsider,120.0,Series F,6/4/2020 17:45,United States,Unknown
+Circ,Berlin,Transportation,100.0,,6/2/2020,techcrunch,55.0,Acquired,6/3/2020 23:27,Germany,Unknown
+Rivian,Detroit,Transportation,40.0,0.02,6/2/2020,theverge,3100.0,Private Equity,6/3/2020 13:19,United States,Unknown
+Fundbox,SF Bay Area,Finance,14.0,0.15,6/2/2020,geektime,453.0,Series C,6/2/2020 22:42,United States,Unknown
+Descartes Labs,Santa Fe,Data,12.0,0.16,6/2/2020,santafenewmexican,58.0,Series B,6/3/2020 23:25,United States,Unknown
+MakerBot,New York City,Consumer,12.0,,6/2/2020,,10.0,Acquired,6/2/2020 17:25,United States,Unknown
+Stitch Fix,SF Bay Area,Retail,1400.0,0.18,6/1/2020,cnbc,79.0,Post-IPO,6/2/2020 3:59,United States,Unknown
+MakeMyTrip,Gurugram,Travel,350.0,0.1,6/1/2020,livemint,548.0,Post-IPO,6/3/2020 13:15,India,Unknown
+CrowdStreet,Portland,Real Estate,24.0,0.22,6/1/2020,oregonlive,24.0,Series C,6/2/2020 3:55,United States,Unknown
+Brex,SF Bay Area,Finance,62.0,0.15,5/29/2020,layoffs,732.0,Series C,5/29/2020 21:16,United States,Unknown
+Loftium,Seattle,Real Estate,32.0,0.6,5/29/2020,seattletimes,17.0,Series A,5/29/2020 22:39,United States,Unknown
+BookMyShow,Mumbai,Consumer,270.0,0.18,5/28/2020,cnbctv18,224.0,Unknown,5/28/2020 17:49,India,Unknown
+TrueCar,Los Angeles,Transportation,219.0,0.3,5/28/2020,labusinessjournal,340.0,Post-IPO,5/29/2020 1:55,United States,Unknown
+StubHub,SF Bay Area,Consumer,200.0,,5/28/2020,layoffs,19.0,Acquired,6/18/2020 15:31,United States,Unknown
+Culture Amp,Melbourne,HR,36.0,0.08,5/28/2020,smh,157.0,Series E,5/28/2020 22:38,Australia,Unknown
+The Sill,New York City,Retail,20.0,0.25,5/28/2020,inc,7.0,Series A,5/29/2020 2:05,United States,Unknown
+Instructure,Salt Lake City,Education,150.0,0.12,5/27/2020,philonedtech,89.0,Acquired,5/27/2020 21:54,United States,Unknown
+Ebanx,Curitiba,Finance,62.0,0.08,5/27/2020,exame,30.0,Unknown,6/1/2020 3:39,Brazil,Unknown
+Uber,Bengaluru,Transportation,600.0,0.23,5/26/2020,reuters,24700.0,Post-IPO,5/26/2020 13:56,India,Unknown
+Bluprint,Denver,Education,137.0,1.0,5/26/2020,businessden,108.0,Acquired,5/27/2020 17:07,United States,Unknown
+Acorns,Portland,Finance,50.0,,5/26/2020,techcrunch,207.0,Unknown,5/30/2020 3:45,United States,Unknown
+CarDekho,Gurugram,Transportation,200.0,,5/25/2020,entrackr,247.0,Series D,5/26/2020 22:13,India,Unknown
+Teamwork,Cork,Other,21.0,,5/22/2020,thecurrency,,Unknown,5/24/2020 17:04,Ireland,Unknown
+Cvent,Washington D.C.,Marketing,400.0,0.1,5/21/2020,eventmanagerblog,146.0,Acquired,5/22/2020 15:16,United States,Unknown
+PickYourTrail,Chennai,Travel,70.0,0.35,5/21/2020,cnbctv18,3.0,Series A,9/14/2020 16:26,India,Unknown
+Glitch,New York City,Product,18.0,0.36,5/21/2020,theverge,30.0,Series A,5/22/2020 23:41,United States,Unknown
+Ola,Bengaluru,Transportation,1400.0,0.35,5/20/2020,techcrunch,3800.0,Series J,5/20/2020 13:48,India,Unknown
+Samsara,SF Bay Area,Logistics,300.0,0.18,5/20/2020,layoffs,530.0,Series F,5/20/2020 17:51,United States,Unknown
+Stay Alfred,Spokane,Travel,221.0,1.0,5/20/2020,spokanejournal,62.0,Series B,5/21/2020 22:42,United States,Unknown
+SoFi,SF Bay Area,Finance,112.0,0.07,5/20/2020,businessinsider,2500.0,Private Equity,5/20/2020 21:23,United States,Unknown
+ShareChat,Bengaluru,Marketing,101.0,0.25,5/20/2020,economictimes,222.0,Series D,5/20/2020 13:52,India,Unknown
+Intercom,SF Bay Area,Support,39.0,0.06,5/20/2020,layoffs,240.0,Series D,5/20/2020 23:34,United States,Unknown
+Livspace,Bengaluru,Retail,450.0,0.15,5/19/2020,tech,157.0,Series D,5/19/2020 14:40,India,Unknown
+Pollen,London,Travel,69.0,0.31,5/19/2020,techcrunch,88.0,Series B,5/19/2020 23:18,United Kingdom,Unknown
+Dotscience,London,Product,10.0,1.0,5/19/2020,layoffs,,Unknown,5/20/2020 17:54,United Kingdom,Unknown
+Uber,SF Bay Area,Transportation,3000.0,0.13,5/18/2020,layoffs,24700.0,Post-IPO,5/18/2020 15:28,United States,Unknown
+Agoda,Singapore,Travel,1500.0,0.25,5/18/2020,layoffs,,Acquired,5/19/2020 1:16,Singapore,Unknown
+Swiggy,Bengaluru,Food,1100.0,0.14,5/18/2020,nytimes,1600.0,Series I,5/18/2020 14:15,India,Unknown
+WeWork,New Delhi,Real Estate,100.0,0.2,5/18/2020,newindianexpress,19500.0,Series H,5/19/2020 4:25,India,Unknown
+Rubrik,SF Bay Area,Infrastructure,57.0,,5/18/2020,bizjournals,553.0,Series E,6/25/2020 2:31,United States,Unknown
+Intapp,SF Bay Area,Legal,45.0,0.05,5/18/2020,news,,Private Equity,5/19/2020 4:27,United States,Unknown
+Magicbricks,Noida,Real Estate,250.0,,5/17/2020,livemint,300.0,Unknown,5/19/2020 14:44,India,Unknown
+Zomato,Gurugram,Food,520.0,0.13,5/15/2020,layoffs,914.0,Series J,5/15/2020 14:34,India,Unknown
+Lendingkart,Ahmedabad,Finance,500.0,0.5,5/15/2020,officechai,200.0,Unknown,5/15/2020 15:37,India,Unknown
+Lattice,SF Bay Area,HR,16.0,0.1,5/15/2020,,49.0,Series C,5/29/2020 22:26,United States,Unknown
+Cruise,SF Bay Area,Transportation,150.0,0.08,5/14/2020,theverge,5300.0,Acquired,5/14/2020 19:22,United States,Unknown
+Quartz,New York City,Media,80.0,0.4,5/14/2020,nytimes,,Acquired,5/14/2020 20:19,United States,Unknown
+Integral Ad Science,New York City,Marketing,70.0,0.1,5/14/2020,wsj,116.0,Acquired,5/14/2020 22:15,United States,Unknown
+Ridecell,SF Bay Area,Transportation,35.0,0.15,5/14/2020,layoffs,73.0,Series B,5/19/2020 6:04,United States,Unknown
+Veem,SF Bay Area,Finance,30.0,,5/14/2020,economist,69.0,Unknown,5/15/2020 4:00,United States,Unknown
+Deliv,SF Bay Area,Retail,669.0,1.0,5/13/2020,mercurynews,80.0,Series C,5/7/2020 23:15,United States,Unknown
+Mercos,Joinville,Sales,51.0,0.4,5/13/2020,linkedin,2.0,Unknown,5/13/2020 21:39,Brazil,Unknown
+Kickstarter,New York City,Finance,25.0,0.18,5/13/2020,theverge,10.0,Unknown,5/13/2020 21:38,United States,Unknown
+Intersect,Toronto,Product,19.0,0.11,5/13/2020,betakit,,Acquired,5/13/2020 21:17,Canada,Unknown
+Mode Analytics,SF Bay Area,Data,17.0,,5/13/2020,linkedin,46.0,Series C,5/13/2020 21:09,United States,Unknown
+Stone,Sao Paulo,Finance,1300.0,0.2,5/12/2020,reuters,,Post-IPO,5/13/2020 21:12,Brazil,Unknown
+Zeus Living,SF Bay Area,Real Estate,73.0,0.5,5/12/2020,businessinsider,79.0,Series B,5/12/2020 23:27,United States,Unknown
+Mixpanel,SF Bay Area,Data,65.0,0.19,5/12/2020,bizjournals,77.0,Series B,5/13/2020 21:01,United States,Unknown
+Hireology,Chicago,Recruiting,36.0,0.17,5/12/2020,americaninno,52.0,Series D,5/13/2020 17:08,United States,Unknown
+Top Hat,Toronto,Education,16.0,0.03,5/12/2020,betakit,104.0,Series D,5/12/2020 22:45,Canada,Unknown
+Revolut,London,Finance,60.0,0.03,5/11/2020,fnlondon,837.0,Series D,5/20/2020 3:27,United Kingdom,Unknown
+Cadre,New York City,Real Estate,28.0,0.25,5/11/2020,layoffs,133.0,Series C,5/11/2020 22:21,United States,Unknown
+N26,New York City,Finance,9.0,0.01,5/8/2020,financefwd,782.0,Series D,5/12/2020 15:00,United States,Unknown
+Jump,New York City,Transportation,500.0,1.0,5/7/2020,nytimes,11.0,Acquired,5/8/2020 14:37,United States,Unknown
+Glassdoor,SF Bay Area,Recruiting,300.0,0.3,5/7/2020,businessinsider,204.0,Acquired,5/7/2020 21:09,United States,Unknown
+Numbrs,Zurich,Finance,62.0,0.5,5/7/2020,financefwd,78.0,Series B,5/8/2020 14:05,Switzerland,Unknown
+Flywire,Boston,Finance,60.0,0.12,5/7/2020,americaninno,263.0,Series E,5/7/2020 22:51,United States,Unknown
+SalesLoft,Atlanta,Sales,55.0,,5/7/2020,protocol,145.0,Series D,5/8/2020 14:03,United States,Unknown
+Tally,SF Bay Area,Finance,28.0,0.23,5/7/2020,layoffs,92.0,Series C,5/11/2020 14:02,United States,Unknown
+Uber,SF Bay Area,Transportation,3700.0,0.14,5/6/2020,layoffs,24700.0,Post-IPO,5/6/2020 13:49,United States,Unknown
+Validity,Boston,Data,130.0,0.33,5/6/2020,americaninno,,Private Equity,5/7/2020 0:30,United States,Unknown
+Flatiron School,New York City,Education,100.0,,5/6/2020,businessinsider,15.0,Acquired,5/7/2020 4:07,United States,Unknown
+Rubicon Project,Los Angeles,Marketing,50.0,0.08,5/6/2020,adexchanger,60.0,Post-IPO,5/7/2020 3:51,United States,Unknown
+Segment,SF Bay Area,Data,50.0,0.1,5/6/2020,businessinsider,283.0,Series D,5/7/2020 22:45,United States,Unknown
+Airbnb,SF Bay Area,Travel,1900.0,0.25,5/5/2020,layoffs,5400.0,Private Equity,5/5/2020 19:32,United States,Unknown
+Juul,SF Bay Area,Consumer,900.0,0.3,5/5/2020,layoffs,1500.0,Unknown,5/6/2020 15:23,United States,Unknown
+Andela,New York City,Recruiting,135.0,0.1,5/5/2020,layoffs,181.0,Series D,5/6/2020 15:03,United States,Unknown
+Stack Overflow,New York City,Recruiting,40.0,0.15,5/5/2020,businessinsider,68.0,Series D,5/7/2020 3:54,United States,Unknown
+Pipedrive,Tallinn,Sales,31.0,,5/5/2020,news,90.0,Series C,5/7/2020 22:42,Estonia,Unknown
+Workable,Boston,Recruiting,25.0,0.1,5/5/2020,insider,84.0,Series C,5/6/2020 13:56,United States,Unknown
+CureFit,Bengaluru,Fitness,800.0,0.16,5/4/2020,reuters,404.0,Series D,5/4/2020 14:34,India,Unknown
+Careem,Dubai,Transportation,536.0,0.31,5/4/2020,thenational,771.0,Acquired,5/4/2020 14:36,United Arab Emirates,Unknown
+Oriente,Hong Kong,Finance,400.0,0.2,5/4/2020,dealstreetasia,175.0,Series B,5/5/2020 23:48,Hong Kong,Unknown
+Veriff,Tallinn,Security,63.0,0.21,5/4/2020,news,7.0,Series A,5/5/2020 14:36,Estonia,Unknown
+Element AI,Montreal,Other,62.0,0.15,5/4/2020,theglobeandmail,257.0,Series B,5/6/2020 22:57,Canada,Unknown
+Deputy,Sydney,HR,60.0,0.3,5/4/2020,afr,106.0,Series B,5/18/2020 14:26,Australia,Unknown
+Loopio,Toronto,Sales,11.0,0.08,5/4/2020,betakit,11.0,Series A,5/7/2020 3:57,Canada,Unknown
+Trax,Tel Aviv,Retail,120.0,0.1,5/3/2020,calcalistech,386.0,Series D,5/17/2020 14:18,Israel,Unknown
+LiveTiles,New York City,Other,50.0,,5/3/2020,medium,46.0,Post-IPO,5/9/2020 3:48,United States,Unknown
+OYO,London,Travel,150.0,,5/1/2020,yahoo,2400.0,Series F,5/4/2020 23:56,United Kingdom,Unknown
+Namely,New York City,HR,110.0,0.4,5/1/2020,layoffs,217.0,Series E,5/2/2020 14:14,United States,Unknown
+Culture Trip,London,Media,95.0,0.32,5/1/2020,businessinsider,102.0,Series B,5/1/2020 21:01,United Kingdom,Unknown
+Sandbox VR,SF Bay Area,Consumer,80.0,0.8,5/1/2020,layoffs,82.0,Series A,5/1/2020 22:19,United States,Unknown
+Virtudent,Boston,Healthcare,70.0,,5/1/2020,americaninno,10.0,Series A,5/1/2020 23:22,United States,Unknown
+Monese,Lisbon,Finance,35.0,,5/1/2020,altfi,80.0,Unknown,6/1/2020 13:11,Portugal,Unknown
+TheSkimm,New York City,Media,26.0,0.2,5/1/2020,wsj,28.0,Series C,5/2/2020 3:21,United States,Unknown
+Bullhorn,Boston,Sales,100.0,,4/30/2020,layoffs,32.0,Acquired,5/2/2020 18:13,United States,Unknown
+Care.com,Boston,Consumer,81.0,,4/30/2020,bloomberg,156.0,Acquired,5/1/2020 3:40,United States,Unknown
+Lyft,SF Bay Area,Transportation,982.0,0.17,4/29/2020,layoffs,4900.0,Post-IPO,4/29/2020 16:16,United States,Unknown
+WeWork,SF Bay Area,Real Estate,300.0,,4/29/2020,news,2250.0,Series H,4/28/2020 14:35,United States,Unknown
+Kayak / OpenTable,Stamford,Travel,160.0,0.08,4/29/2020,skift,229.0,Acquired,4/30/2020 4:07,United States,Unknown
+Kitopi,New York City,Food,124.0,,4/29/2020,commercialobserver,89.0,Series B,4/29/2020 23:00,United States,Unknown
+Lime,SF Bay Area,Transportation,80.0,0.13,4/29/2020,layoffs,765.0,Series D,4/29/2020 22:26,United States,Unknown
+Transfix,New York City,Logistics,24.0,0.1,4/29/2020,freightwaves,128.0,Series D,4/29/2020 22:58,United States,Unknown
+TripAdvisor,Boston,Travel,900.0,0.25,4/28/2020,layoffs,3.0,Post-IPO,4/28/2020 15:28,United States,Unknown
+Renmoney,Lagos,Finance,391.0,0.5,4/28/2020,techcabal,,Unknown,5/15/2020 4:06,Nigeria,Unknown
+Deliveroo,London,Food,367.0,0.15,4/28/2020,layoffs,1500.0,Series G,4/28/2020 17:46,United Kingdom,Unknown
+App Annie,SF Bay Area,Data,80.0,0.18,4/28/2020,gamesindustry,156.0,Unknown,4/28/2020 14:36,United States,Unknown
+OpenX,Los Angeles,Marketing,35.0,0.15,4/28/2020,adexchanger,70.0,Unknown,4/29/2020 14:20,United States,Unknown
+PayJoy,SF Bay Area,Finance,27.0,0.25,4/28/2020,layoffs,71.0,Series B,5/27/2020 22:09,United States,Unknown
+Shipsi,Los Angeles,Retail,20.0,0.5,4/28/2020,dot,2.0,Seed,4/28/2020 22:17,United States,Unknown
+Automation Anywhere,SF Bay Area,Other,260.0,0.1,4/27/2020,siliconangle,840.0,Series B,4/27/2020 17:38,United States,Unknown
+JetClosing,Seattle,Real Estate,20.0,0.2,4/27/2020,nytimes,24.0,Series A,4/28/2020 3:55,United States,Unknown
+OYO,Sao Paulo,Travel,500.0,,4/25/2020,headtopics,2400.0,Series F,5/11/2020 14:13,Brazil,Unknown
+Stoqo,Jakarta,Food,250.0,1.0,4/25/2020,bloomberg,,Series A,4/26/2020 14:40,Indonesia,Unknown
+Submittable,Missoula,Other,30.0,0.2,4/25/2020,layoffs,17.0,Series B,5/14/2020 22:12,United States,Unknown
+Divergent 3D,Los Angeles,Transportation,57.0,0.36,4/24/2020,techcrunch,88.0,Series B,4/24/2020 21:48,United States,Unknown
+Ada Support,Toronto,Support,36.0,0.23,4/24/2020,betakit,60.0,Series B,4/24/2020 21:34,Canada,Unknown
+UPshow,Chicago,Marketing,19.0,0.3,4/24/2020,chicagobusiness,7.0,Series A,4/25/2020 5:59,United States,Unknown
+Lighter Capital,Seattle,Finance,18.0,0.22,4/24/2020,geekwire,15.0,Series B,4/27/2020 14:22,United States,Unknown
+Horizn Studios,Berlin,Travel,15.0,0.25,4/24/2020,deutsche-startups,30.0,Series B,4/27/2020 14:26,Germany,Unknown
+Welkin Health,SF Bay Area,Healthcare,10.0,0.33,4/24/2020,nypost,29.0,Series B,9/16/2020 18:30,United States,Unknown
+Jiobit,Chicago,Consumer,6.0,0.21,4/24/2020,chicagobusiness,12.0,Unknown,4/25/2020 5:58,United States,Unknown
+TutorMundi,Sao Paulo,Education,4.0,1.0,4/24/2020,,2.0,Series A,5/3/2020 4:35,Brazil,Unknown
+StockX,Detroit,Retail,100.0,0.12,4/23/2020,inputmag,160.0,Series C,4/24/2020 4:29,United States,Unknown
+Zenefits,SF Bay Area,HR,87.0,0.15,4/23/2020,businessinsider,583.0,Series C,4/24/2020 0:53,United States,Unknown
+Sisense,New York City,Data,80.0,0.09,4/23/2020,calcalistech,274.0,Series F,4/23/2020 22:09,United States,Unknown
+Oscar Health,New York City,Healthcare,70.0,0.05,4/23/2020,bloomberg,1300.0,Unknown,4/24/2020 0:29,United States,Unknown
+Simon Data,New York City,Marketing,6.0,,4/23/2020,,68.0,Series C,5/15/2020 22:59,United States,Unknown
+Magic Leap,Miami,Consumer,1000.0,0.5,4/22/2020,layoffs,2600.0,Series E,4/22/2020 16:59,United States,Unknown
+When I Work,Minneapolis,HR,55.0,0.35,4/22/2020,americaninno,24.0,Series B,4/23/2020 14:34,United States,Unknown
+Ike,SF Bay Area,Transportation,10.0,0.14,4/22/2020,theinformation,52.0,Series A,4/22/2020 22:53,United States,Unknown
+Swiggy,Bengaluru,Food,800.0,,4/21/2020,entrackr,1600.0,Series I,4/22/2020 4:14,India,Unknown
+Paytm,New Delhi,Finance,500.0,,4/21/2020,hrnxt,2200.0,Unknown,4/22/2020 4:15,India,Unknown
+Lending Club,SF Bay Area,Finance,460.0,0.3,4/21/2020,cnbc,392.0,Post-IPO,4/21/2020 21:55,United States,Unknown
+Houzz,SF Bay Area,Consumer,155.0,0.1,4/21/2020,techcrunch,613.0,Series E,4/21/2020 19:34,United States,Unknown
+Casper,New York City,Retail,78.0,0.21,4/21/2020,fastcompany,339.0,Post-IPO,4/21/2020 20:59,United States,Unknown
+RealSelf,Seattle,Healthcare,40.0,0.13,4/21/2020,geekwire,42.0,Series B,4/22/2020 0:09,United States,Unknown
+Freshbooks,Toronto,Finance,38.0,0.09,4/21/2020,betakit,75.0,Series B,4/22/2020 17:05,Canada,Unknown
+Patreon,SF Bay Area,Media,30.0,0.13,4/21/2020,techcrunch,165.0,Series D,4/21/2020 21:58,United States,Unknown
+Lambda School,SF Bay Area,Education,19.0,,4/21/2020,techcrunch,48.0,Series B,4/22/2020 4:19,United States,Unknown
+Politico / Protocol,Washington D.C.,Media,13.0,,4/21/2020,niemanlab,,Unknown,4/22/2020 0:38,United States,Unknown
+Bringg,Tel Aviv,Logistics,10.0,0.1,4/21/2020,calcalistech,84.0,Series D,4/23/2020 22:11,Israel,Unknown
+Klook,Hong Kong,Travel,300.0,0.15,4/20/2020,layoffs,521.0,Series D,5/6/2020 3:43,Hong Kong,Unknown
+ConsenSys,New York City,Crypto,91.0,0.14,4/20/2020,coindesk,10.0,Unknown,4/21/2020 1:48,United States,Unknown
+GumGum,Los Angeles,Marketing,90.0,0.25,4/20/2020,businessinsider,58.0,Series D,4/24/2020 7:13,United States,Unknown
+Kueski,Guadalajara,Finance,90.0,0.3,4/20/2020,elceo,38.0,Series B,4/21/2020 2:21,Mexico,Unknown
+Movidesk,Blumenau,Support,33.0,0.25,4/20/2020,scinova,1.0,Seed,4/27/2020 22:02,Brazil,Unknown
+Zum,SF Bay Area,Transportation,28.0,,4/20/2020,layoffs,71.0,Series C,4/23/2020 15:25,United States,Unknown
+Komodo Health,SF Bay Area,Healthcare,23.0,0.09,4/20/2020,businessinsider,50.0,Series C,4/21/2020 1:53,United States,Unknown
+Forward,SF Bay Area,Healthcare,10.0,0.03,4/20/2020,businessinsider,100.0,Series C,4/21/2020 1:52,United States,Unknown
+BlackBuck,Bengaluru,Logistics,200.0,,4/17/2020,cnbctv18,293.0,Series D,4/19/2020 4:41,India,Unknown
+ContaAzul,Joinville,Education,140.0,0.35,4/17/2020,contxto,37.0,Series D,4/27/2020 21:59,Brazil,Unknown
+Greenhouse Software,New York City,Recruiting,120.0,0.28,4/17/2020,layoffs,110.0,Series D,4/17/2020 16:31,United States,Unknown
+QuintoAndar,Sao Paulo,Real Estate,88.0,0.08,4/17/2020,labs,335.0,Series D,4/18/2020 13:37,Brazil,Unknown
+Loft,Sao Paulo,Real Estate,47.0,0.1,4/17/2020,link,263.0,Series C,4/18/2020 13:41,Brazil,Unknown
+Zilingo,Singapore,Retail,44.0,0.05,4/17/2020,bloomberg,307.0,Series D,4/19/2020 4:43,Singapore,Unknown
+Labster,Copenhagen,Education,40.0,,4/17/2020,,34.0,Series B,4/27/2020 4:21,Denmark,Unknown
+Sweetgreen,Los Angeles,Food,35.0,0.1,4/17/2020,dot,478.0,Series I,4/17/2020 23:26,United States,Unknown
+People.ai,SF Bay Area,Marketing,30.0,0.18,4/17/2020,techcrunch,100.0,Series C,4/17/2020 21:18,United States,Unknown
+Tor,Boston,Security,13.0,0.37,4/17/2020,blog,1.0,Unknown,4/18/2020 16:55,United States,Unknown
+CarGurus,Boston,Transportation,130.0,0.13,4/16/2020,layoffs,1.0,Post-IPO,4/16/2020 23:46,United States,Unknown
+Funding Societies,Singapore,Finance,65.0,0.18,4/16/2020,techinasia,42.0,Series B,4/19/2020 5:16,Singapore,Unknown
+CleverTap,Mumbai,Marketing,60.0,0.2,4/16/2020,inc42,76.0,Series C,4/21/2020 15:07,India,Unknown
+Opendoor,SF Bay Area,Real Estate,600.0,0.35,4/15/2020,layoffs,1500.0,Series E,4/15/2020 19:27,United States,Unknown
+GoPro,SF Bay Area,Consumer,200.0,0.2,4/15/2020,techcrunch,288.0,Post-IPO,4/15/2020 23:42,United States,Unknown
+Shop101,Mumbai,Retail,200.0,0.4,4/15/2020,inc42,19.0,Series C,4/21/2020 6:10,India,Unknown
+Zume,SF Bay Area,Food,200.0,0.67,4/15/2020,businessinsider,423.0,Unknown,4/15/2020 20:52,United States,Unknown
+Carta,SF Bay Area,Finance,161.0,0.16,4/15/2020,layoffs,447.0,Series E,4/15/2020 17:32,United States,Unknown
+Akulaku,Jakarta,Finance,100.0,,4/15/2020,techinasia,160.0,Series D,4/20/2020 15:15,Indonesia,Unknown
+Parsable,SF Bay Area,HR,40.0,0.25,4/15/2020,,72.0,Series C,4/28/2020 17:43,United States,Unknown
+Kodiak Robotics,SF Bay Area,Transportation,15.0,0.2,4/15/2020,freightwaves,40.0,Series A,4/16/2020 22:41,United States,Unknown
+Tulip Retail,Toronto,Retail,14.0,,4/15/2020,linkedin,51.0,Series B,4/16/2020 6:30,Canada,Unknown
+Trove Recommerce,SF Bay Area,Retail,13.0,,4/15/2020,layoffs,34.0,Series C,4/22/2020 6:24,United States,Unknown
+The RealReal,SF Bay Area,Retail,235.0,0.1,4/14/2020,techcrunch,358.0,Post-IPO,4/15/2020 4:11,United States,Unknown
+TouchBistro,Toronto,Food,131.0,0.23,4/14/2020,betakit,224.0,Series E,4/14/2020 21:58,Canada,Unknown
+Envoy,SF Bay Area,HR,58.0,0.3,4/14/2020,forbes,59.0,Series B,4/15/2020 23:16,United States,Unknown
+VSCO,SF Bay Area,Consumer,45.0,0.35,4/14/2020,layoffs,90.0,Series B,4/14/2020 22:26,United States,Unknown
+Skillz,SF Bay Area,Consumer,21.0,,4/14/2020,fortune,132.0,Series D,4/24/2020 4:25,United States,Unknown
+DataStax,SF Bay Area,Data,15.0,,4/14/2020,businessinsider,190.0,Series E,4/15/2020 23:55,United States,Unknown
+Xerpa,Sao Paulo,HR,10.0,,4/14/2020,linkedin,5.0,Unknown,4/14/2020 22:00,Brazil,Unknown
+Groupon,Chicago,Retail,2800.0,0.44,4/13/2020,layoffs,1400.0,Post-IPO,4/13/2020 21:14,United States,Unknown
+Zoox,SF Bay Area,Transportation,100.0,0.1,4/13/2020,theinformation,955.0,Series B,4/14/2020 4:07,United States,Unknown
+Neon,Sao Paulo,Finance,70.0,0.1,4/13/2020,link,120.0,Series B,4/14/2020 21:51,Brazil,Unknown
+EasyPost,SF Bay Area,Logistics,50.0,0.25,4/13/2020,,12.0,Series A,4/14/2020 14:31,United States,Unknown
+Clearbanc,Toronto,Finance,17.0,0.08,4/13/2020,techcrunch,119.0,Series B,4/13/2020 21:21,Canada,Unknown
+Meow Wolf,Santa Fe,Media,201.0,,4/10/2020,sfreporter,185.0,Unknown,4/12/2020 5:45,United States,Unknown
+Frontdesk,Milwaukee,Travel,35.0,0.16,4/10/2020,linkedin,3.0,Unknown,4/11/2020 4:59,United States,Unknown
+BeeTech,Sao Paulo,Finance,30.0,,4/10/2020,valorinveste,14.0,Series B,4/29/2020 21:56,Brazil,Unknown
+Built In,Chicago,Recruiting,28.0,,4/10/2020,americaninno,29.0,Series C,5/14/2020 23:13,United States,Unknown
+NuoDB,Boston,Data,20.0,0.29,4/10/2020,americaninno,85.0,Unknown,4/11/2020 15:33,United States,Unknown
+Rhumbix,SF Bay Area,Construction,16.0,0.27,4/10/2020,,35.0,Series B,4/13/2020 21:19,United States,Unknown
+Atsu,Seattle,Infrastructure,6.0,1.0,4/10/2020,,1.0,Unknown,4/17/2020 17:55,United States,Unknown
+Geekwire,Seattle,Media,5.0,0.31,4/10/2020,geekwire,,Unknown,4/12/2020 7:49,United States,Unknown
+Yelp,SF Bay Area,Consumer,1000.0,0.17,4/9/2020,layoffs,56.0,Post-IPO,4/9/2020 13:20,United States,Unknown
+Monzo,Las Vegas,Finance,165.0,,4/9/2020,techcrunch,324.0,Series F,4/9/2020 21:56,United States,Unknown
+OneTrust,Atlanta,Legal,150.0,0.1,4/9/2020,americaninno,410.0,Series B,4/10/2020 4:43,United States,Unknown
+Omie,Sao Paulo,Finance,136.0,0.31,4/9/2020,link,26.0,Series B,4/9/2020 21:59,Brazil,Unknown
+Domo,Salt Lake City,Data,90.0,0.1,4/9/2020,ksl,689.0,Post-IPO,4/11/2020 4:56,United States,Unknown
+Matterport,SF Bay Area,Data,90.0,0.34,4/9/2020,layoffs,114.0,Series D,4/14/2020 22:16,United States,Unknown
+Clinc,Ann Arbor,Support,40.0,0.32,4/9/2020,mlive,59.0,Series B,4/2/2020 21:11,United States,Unknown
+Mejuri,Toronto,Retail,36.0,0.15,4/9/2020,betakit,28.0,Series B,4/10/2020 4:15,Canada,Unknown
+Code42,Minneapolis,Data,25.0,0.05,4/9/2020,bizjournals,137.5,Series B,9/8/2020 17:47,United States,Unknown
+Lighthouse Labs,Toronto,Education,14.0,0.07,4/9/2020,betakit,,Unknown,4/10/2020 4:17,Canada,Unknown
+LoopMe,London,Marketing,8.0,0.04,4/9/2020,adweek,32.0,Unknown,4/10/2020 6:08,United Kingdom,Unknown
+Eventbrite,SF Bay Area,Consumer,500.0,0.45,4/8/2020,layoffs,332.0,Post-IPO,4/8/2020 20:36,United States,Unknown
+Meesho,Bengaluru,Retail,200.0,0.28,4/8/2020,entrackr,215.0,Series D,4/10/2020 4:54,India,Unknown
+Scoop,SF Bay Area,Transportation,92.0,0.33,4/8/2020,layoffs,95.0,Series C,4/9/2020 4:48,United States,Unknown
+Unison,SF Bay Area,Finance,89.0,0.45,4/8/2020,bizjournals,40.0,Series B,4/4/2020 4:34,United States,Unknown
+Lever,SF Bay Area,Recruiting,86.0,0.4,4/8/2020,layoffs,72.0,Series C,4/9/2020 0:03,United States,Unknown
+Unbabel,Lisbon,Support,80.0,0.35,4/8/2020,time24,91.0,Series C,4/9/2020 21:39,Portugal,Unknown
+Button,New York City,Marketing,48.0,0.35,4/8/2020,,64.0,Series C,4/10/2020 14:31,United States,Unknown
+Eden / Managed By Q,New York City,Real Estate,40.0,0.4,4/8/2020,layoffs,40.0,Series B,4/8/2020 17:15,United States,Unknown
+Quantcast,SF Bay Area,Marketing,30.0,0.05,4/8/2020,adexchanger,65.0,Series C,4/8/2020 15:33,United States,Unknown
+BVAccel,San Diego,Marketing,25.0,0.25,4/8/2020,businessinsider,,Unknown,4/12/2020 6:35,United States,Unknown
+VideoAmp,Los Angeles,Marketing,21.0,0.1,4/8/2020,businessinsider,106.0,Series C,4/10/2020 4:28,United States,Unknown
+Kenoby,Sao Paulo,Recruiting,18.0,0.16,4/8/2020,link,23.0,Unknown,4/12/2020 6:37,Brazil,Unknown
+Connected,Toronto,Product,17.0,0.1,4/8/2020,layoffs,,Unknown,4/11/2020 6:09,Canada,Unknown
+GetNinjas,Sao Paulo,Consumer,11.0,0.1,4/8/2020,link,16.0,Series B,4/12/2020 6:41,Brazil,Unknown
+Spyce,Boston,Food,4.0,0.12,4/8/2020,americaninno,26.0,Series A,4/8/2020 23:49,United States,Unknown
+Toast,Boston,Food,1300.0,0.5,4/7/2020,layoffs,902.0,Series F,4/7/2020 21:23,United States,Unknown
+ezCater,Boston,Food,400.0,0.44,4/7/2020,axios,319.0,Series D,4/7/2020 22:55,United States,Unknown
+Sage Therapeutics,Boston,Healthcare,340.0,0.53,4/7/2020,,438.0,Post-IPO,4/8/2020 22:22,United States,Unknown
+Redfin,Seattle,Real Estate,236.0,0.07,4/7/2020,geekwire,319.0,Post-IPO,4/7/2020 21:49,United States,Unknown
+Branch Metrics,SF Bay Area,Marketing,100.0,0.2,4/7/2020,news,367.0,Series E,4/9/2020 21:50,United States,Unknown
+Newfront Insurance,SF Bay Area,Finance,94.0,,4/7/2020,layoffs,,Unknown,4/8/2020 5:54,United States,Unknown
+Ibotta,Denver,Retail,87.0,0.15,4/7/2020,businessden,85.0,Series D,4/12/2020 6:44,United States,Unknown
+Virta Health,SF Bay Area,Healthcare,65.0,,4/7/2020,statnews,175.0,Series C,4/7/2020 23:40,United States,Unknown
+Away,New York City,Retail,60.0,0.1,4/7/2020,techcrunch,181.0,Series D,4/7/2020 21:05,United States,Unknown
+MediaMath,New York City,Marketing,53.0,0.08,4/7/2020,adexchanger,607.0,Private Equity,4/8/2020 4:37,United States,Unknown
+Group Nine Media,New York City,Media,50.0,0.07,4/7/2020,axios,190.0,Unknown,4/7/2020 23:38,United States,Unknown
+Payfactors,Boston,HR,46.0,,4/7/2020,,,Unknown,4/9/2020 5:03,United States,Unknown
+Nav,Salt Lake City,Finance,30.0,,4/7/2020,layoffs,99.0,Series C,4/19/2020 18:10,United States,Unknown
+Metromile,SF Bay Area,Finance,100.0,0.33,4/6/2020,layoffs,293.0,Series E,4/7/2020 4:50,United States,Unknown
+Rock Content,Belo Horizonte,Marketing,100.0,0.2,4/6/2020,link,0.7,Series A,4/6/2020 21:18,Brazil,Unknown
+BounceX,New York City,Marketing,77.0,0.2,4/6/2020,adweek,75.0,Series B,4/6/2020 23:03,United States,Unknown
+C6 Bank,Sao Paulo,Finance,60.0,0.06,4/6/2020,link,,Unknown,4/6/2020 21:17,Brazil,Unknown
+Wordstream,Boston,Marketing,26.0,0.1,4/6/2020,linkedin,28.0,Acquired,4/9/2020 5:31,United States,Unknown
+Cogito,Boston,Support,24.0,0.14,4/6/2020,americaninno,92.0,Series C,4/6/2020 22:01,United States,Unknown
+BusBud,Montreal,Transportation,23.0,0.32,4/6/2020,journaldemontreal,21.0,Series B,4/28/2020 3:56,Canada,Unknown
+Borrowell,Toronto,Finance,15.0,0.2,4/6/2020,betakit,72.0,Series B,4/6/2020 23:55,Canada,Unknown
+PerkSpot,Chicago,HR,10.0,0.1,4/6/2020,americaninno,50.0,Private Equity,4/10/2020 4:44,United States,Unknown
+Astra,SF Bay Area,Aerospace,40.0,0.25,4/5/2020,cnbc,100.0,Unknown,4/5/2020 17:55,United States,Unknown
+Iflix,Kuala Lumpur,Consumer,50.0,0.12,4/4/2020,technode,348.0,Unknown,6/11/2020 23:20,Malaysia,Unknown
+Gympass,Sao Paulo,Fitness,467.0,0.33,4/3/2020,forbes,300.0,Series D,4/5/2020 21:25,Brazil,Unknown
+Sojern,SF Bay Area,Marketing,300.0,0.5,4/3/2020,adweek,162.0,Series D,4/3/2020 22:12,United States,Unknown
+MaxMilhas,Belo Horizonte,Travel,167.0,0.42,4/3/2020,revistapegn,,Unknown,4/6/2020 5:08,Brazil,Unknown
+Minted,SF Bay Area,Retail,147.0,0.37,4/3/2020,theinformation,297.0,Series E,4/5/2020 17:53,United States,Unknown
+Velodyne Lidar,SF Bay Area,Transportation,140.0,,4/3/2020,bloomberg,225.0,Unknown,4/5/2020 4:34,United States,Unknown
+Zoox,SF Bay Area,Transportation,120.0,,4/3/2020,theverge,955.0,Series B,4/7/2020 0:03,United States,Unknown
+Traveloka,Jakarta,Travel,100.0,0.1,4/3/2020,asia,,Unknown,4/7/2020 14:51,Indonesia,Unknown
+Arrive Logistics,Austin,Logistics,75.0,0.07,4/3/2020,freightwaves,35.0,Series B,4/5/2020 4:41,United States,Unknown
+Salsify,Boston,Retail,60.0,0.13,4/3/2020,americaninno,97.0,Series D,4/4/2020 2:02,United States,Unknown
+Jetty,New York City,Finance,35.0,0.4,4/3/2020,layoffs,40.0,Series B,4/6/2020 21:21,United States,Unknown
+D2iQ,SF Bay Area,Infrastructure,34.0,0.13,4/3/2020,businessinsider,247.0,Series D,4/22/2020 23:02,United States,Unknown
+Bustle Digital Group,New York City,Media,24.0,0.08,4/3/2020,digiday,80.0,Series E,4/3/2020 21:51,United States,Unknown
+Bustle Digital Group,New York City,Media,19.0,,4/3/2020,adweek,80.0,Series E,9/21/2022 4:06,United States,Unknown
+Opencare,Toronto,Healthcare,18.0,0.25,4/3/2020,betakit,24.0,Series A,4/4/2020 4:32,Canada,Unknown
+Anagram,Los Angeles,Healthcare,17.0,,4/3/2020,statnews,14.0,Series A,4/5/2020 5:21,United States,Unknown
+G/O Media Group,New York City,Media,14.0,0.05,4/3/2020,digiday,,Unknown,4/8/2020 4:48,United States,Unknown
+DSCO,Salt Lake City,Retail,12.0,,4/3/2020,linkedin,4.0,Series A,4/7/2020 0:36,United States,Unknown
+Tripbam,Dallas,Travel,10.0,0.25,4/3/2020,bizjournals,,Unknown,4/4/2020 4:37,United States,Unknown
+Avantage Entertainment,Minneapolis,Media,5.0,0.2,4/3/2020,bizjournals,,Unknown,4/4/2020 4:45,United States,Unknown
+MindBody,San Luis Obispo,Fitness,700.0,0.35,4/2/2020,sanluisobispo,114.0,Post-IPO,4/2/2020 22:47,United States,Unknown
+Katerra,SF Bay Area,Construction,240.0,0.03,4/2/2020,constructiondive,1200.0,Series D,4/4/2020 16:11,United States,Unknown
+Ritual,Toronto,Food,196.0,0.54,4/2/2020,layoffs,112.0,Series C,4/2/2020 17:07,Canada,Unknown
+ClassPass,New York City,Fitness,154.0,0.22,4/2/2020,layoffs,549.0,Series E,4/2/2020 22:29,United States,Unknown
+eGym,Munich,Fitness,100.0,0.25,4/2/2020,tz,109.0,Series D,4/20/2020 14:43,Germany,Unknown
+Voi,Stockholm,Transportation,100.0,,4/2/2020,businessinsider,167.0,Series B,4/2/2020 22:49,Sweden,Unknown
+Industrious,New York City,Real Estate,90.0,0.2,4/2/2020,commercialobserver,222.0,Series D,4/3/2020 14:21,United States,Unknown
+1stdibs,New York City,Retail,70.0,0.17,4/2/2020,twitter,253.0,Series D,4/8/2020 5:51,United States,Unknown
+ThirdLove,SF Bay Area,Retail,65.0,0.3,4/2/2020,businessinsider,68.0,Series B,4/2/2020 22:24,United States,Unknown
+Latch,New York City,Security,60.0,,4/2/2020,,152.0,Series B,4/4/2020 4:54,United States,Unknown
+The Predictive Index,Boston,HR,59.0,0.25,4/2/2020,layoffs,65.0,Acquired,4/3/2020 21:49,United States,Unknown
+Shuttl,New Delhi,Transportation,40.0,,4/2/2020,inc42,122.0,Series C,4/10/2020 5:00,India,Unknown
+Jobcase,Boston,Recruiting,39.0,0.2,4/2/2020,,118.0,Private Equity,4/2/2020 17:11,United States,Unknown
+Copper,SF Bay Area,Marketing,35.0,,4/2/2020,,102.0,Series C,4/7/2020 0:53,United States,Unknown
+Dynamic Signal,SF Bay Area,HR,35.0,0.19,4/2/2020,,114.0,Series E,4/10/2020 4:21,United States,Unknown
+FiscalNote,Washington D.C.,Media,30.0,,4/2/2020,adweek,50.0,Series D,4/15/2020 17:39,United States,Unknown
+Sauce Labs,SF Bay Area,Infrastructure,30.0,0.15,4/2/2020,,151.0,Unknown,4/14/2020 21:56,United States,Unknown
+Humu,SF Bay Area,HR,26.0,,4/2/2020,bloomberg,40.0,Series B,4/3/2020 15:02,United States,Unknown
+TripleLift,New York City,Marketing,23.0,0.07,4/2/2020,adweek,16.0,Series B,4/10/2020 21:09,United States,Unknown
+Coding Dojo,Seattle,Education,7.0,0.07,4/2/2020,geekwire,2.0,Unknown,4/12/2020 21:17,United States,Unknown
+Instamojo,Bengaluru,Finance,6.0,0.06,4/2/2020,business-standard,8.0,Unknown,4/12/2020 5:58,India,Unknown
+Synergysuite,Salt Lake City,Food,5.0,0.07,4/2/2020,linkedin,6.0,Series A,4/3/2020 13:29,United States,Unknown
+Booksy,SF Bay Area,Consumer,200.0,,4/1/2020,,48.0,Series B,4/7/2020 14:32,United States,Unknown
+Flymya,Yangon,Travel,200.0,0.33,4/1/2020,techinasia,,Unknown,5/6/2020 3:47,Myanmar,Unknown
+PatientPop,Los Angeles,Healthcare,100.0,0.2,4/1/2020,,75.0,Series B,4/1/2020 21:43,United States,Unknown
+Showpad,Chicago,Marketing,52.0,0.12,4/1/2020,americaninno,159.0,Series D,4/1/2020 21:33,United States,Unknown
+Highsnobiety,Berlin,Media,51.0,0.25,4/1/2020,digiday,8.5,Series A,4/8/2020 4:49,Germany,Unknown
+Earnin,SF Bay Area,Finance,50.0,0.2,4/1/2020,,190.0,Series C,4/3/2020 13:56,United States,Unknown
+Wonolo,SF Bay Area,Recruiting,46.0,0.13,4/1/2020,bizjournals,52.0,Series C,3/28/2020 20:52,United States,Unknown
+Acko,Mumbai,Finance,45.0,0.09,4/1/2020,entrackr,143.0,Unknown,4/8/2020 5:56,India,Unknown
+Moovel,Portland,Transportation,28.0,0.37,4/1/2020,oregonlive,,Unknown,4/2/2020 22:08,United States,Unknown
+Aqua Security,Tel Aviv,Security,24.0,0.09,4/1/2020,bizjournals,100.0,Series C,4/4/2020 2:15,Israel,Unknown
+Crayon,Boston,Marketing,20.0,0.2,4/1/2020,,16.0,Series A,4/7/2020 13:57,United States,Unknown
+Pana,Denver,Travel,18.0,,4/1/2020,businessden,11.0,Series A,4/2/2020 4:00,United States,Unknown
+Sensibill,Toronto,Finance,17.0,0.2,4/1/2020,betakit,50.0,Series B,5/22/2020 23:39,Canada,Unknown
+Usermind,Seattle,Marketing,15.0,0.25,4/1/2020,geekwire,46.0,Series C,4/2/2020 4:01,United States,Unknown
+Incredible Health,SF Bay Area,Healthcare,9.0,0.4,4/1/2020,statnews,15.0,Series A,4/7/2020 14:18,United States,Unknown
+KeepTruckin,SF Bay Area,Logistics,349.0,0.18,3/31/2020,layoffs,227.0,Series D,4/1/2020 4:11,United States,Unknown
+AdRoll,Salt Lake City,Marketing,210.0,0.3,3/31/2020,adexchanger,89.0,Series C,4/1/2020 5:33,United States,Unknown
+Rover,Seattle,Consumer,194.0,0.41,3/31/2020,geekwire,310.0,Series G,3/31/2020 20:59,United States,Unknown
+Turo,SF Bay Area,Transportation,108.0,0.3,3/31/2020,layoffs,467.0,Series E,4/1/2020 5:44,United States,Unknown
+uShip,Austin,Logistics,65.0,0.37,3/31/2020,bizjournals,69.0,Series D,4/1/2020 0:51,United States,Unknown
+SkySlope,Sacramento,Real Estate,50.0,0.25,3/31/2020,bizjournals,,Acquired,5/14/2020 0:15,United States,Unknown
+Siteimprove,Minneapolis,Marketing,40.0,,3/31/2020,bizjournals,55.0,Unknown,4/4/2020 4:44,United States,Unknown
+AngelList,SF Bay Area,Recruiting,20.0,,3/31/2020,techcrunch,26.0,Series B,4/6/2020 15:00,United States,Unknown
+Zenoti,Seattle,Fitness,17.0,0.04,3/31/2020,geekwire,91.0,Series C,3/31/2020 21:10,United States,Unknown
+DialSource,Sacramento,Marketing,5.0,0.14,3/31/2020,,26.0,Series B,4/7/2020 17:25,United States,Unknown
+Thumbtack,SF Bay Area,Consumer,250.0,0.3,3/30/2020,layoffs,423.0,Series F,3/30/2020 21:20,United States,Unknown
+RigUp,Austin,Energy,120.0,0.25,3/30/2020,americaninno,423.0,Series D,3/31/2020 21:00,United States,Unknown
+FabHotels,New Delhi,Travel,80.0,0.2,3/30/2020,entrackr,48.0,Series B,4/10/2020 5:04,India,Unknown
+Hibob,Tel Aviv,HR,70.0,0.3,3/30/2020,teamblind,45.0,Series A,3/31/2020 3:54,Israel,Unknown
+PeerStreet,Los Angeles,Finance,51.0,0.3,3/30/2020,layoffs,110.0,Series C,3/31/2020 21:41,United States,Unknown
+Maven,Seattle,Media,31.0,0.09,3/30/2020,businesswire,77.0,Post-IPO,4/8/2020 4:50,United States,Unknown
+Blume Global,SF Bay Area,Logistics,30.0,0.1,3/30/2020,,,Unknown,4/1/2020 5:29,United States,Unknown
+Catalant,Boston,Other,30.0,,3/30/2020,americaninno,110.0,Series E,3/31/2020 21:09,United States,Unknown
+Starship Technologies,Tallinn,Transportation,30.0,,3/30/2020,digi,82.0,Series A,4/8/2020 4:33,Estonia,Unknown
+Loftsmart,New York City,Real Estate,25.0,0.75,3/30/2020,linkedin,18.0,Series A,4/6/2020 14:35,United States,Unknown
+Caliva,SF Bay Area,Retail,20.0,,3/30/2020,businessinsider,75.0,Series A,5/29/2020 22:37,United States,Unknown
+Iris Nova,New York City,Food,9.0,0.5,3/30/2020,businessinsider,15.0,Seed,4/1/2020 0:45,United States,Unknown
+ZipRecruiter,Los Angeles,Recruiting,400.0,0.39,3/29/2020,wsj,219.0,Series B,3/29/2020 22:32,United States,Unknown
+Amplero,Seattle,Marketing,17.0,1.0,3/29/2020,geekwire,25.0,Series B,4/1/2020 0:44,United States,Unknown
+Polarr,SF Bay Area,Consumer,10.0,,3/29/2020,medium,13.0,Series A,4/8/2020 5:53,United States,Unknown
+TravelTriangle,Gurugram,Travel,250.0,0.5,3/28/2020,entrackr,47.0,Series D,4/1/2020 0:58,India,Unknown
+WeWork,New York City,Real Estate,250.0,,3/28/2020,reuters,2250.0,Series H,3/29/2020 22:30,United States,Unknown
+OneWeb,London,Aerospace,451.0,0.85,3/27/2020,spacenews,3000.0,Unknown,3/28/2020 20:52,United Kingdom,Unknown
+Bird,Los Angeles,Transportation,406.0,0.3,3/27/2020,layoffs,623.0,Series D,3/28/2020 20:52,United States,Unknown
+HOOQ,Singapore,Consumer,250.0,1.0,3/27/2020,techcrunch,95.0,Unknown,4/18/2020 13:33,Singapore,Unknown
+Everlane,SF Bay Area,Retail,227.0,,3/27/2020,vice,18.0,Unknown,3/29/2020 22:31,United States,Unknown
+DataRobot,Boston,Data,200.0,,3/27/2020,americaninno,430.0,Series E,3/28/2020 20:52,United States,Unknown
+Restaurant365,Los Angeles,Food,175.0,,3/27/2020,news,127.0,Series C,3/28/2020 20:52,United States,Unknown
+Blueground,New York City,Real Estate,130.0,0.25,3/27/2020,layoffs,77.0,Series B,3/30/2020 14:19,United States,Unknown
+Knotel,New York City,Real Estate,127.0,0.3,3/27/2020,commercialobserver,560.0,Series C,3/28/2020 20:52,United States,Unknown
+Getaround,SF Bay Area,Transportation,100.0,0.25,3/27/2020,bizjournals,403.0,Series D,3/29/2020 22:30,United States,Unknown
+Zipcar,Boston,Transportation,100.0,0.2,3/27/2020,layoffs,107.0,Acquired,3/28/2020 20:52,United States,Unknown
+Mogo,Vancouver,Finance,78.0,0.3,3/27/2020,betakit,201.0,Post-IPO,4/3/2020 14:40,Canada,Unknown
+DISCO,Austin,Legal,75.0,,3/27/2020,americaninno,133.0,Series E,3/28/2020 20:52,United States,Unknown
+Raken,San Diego,Construction,60.0,,3/27/2020,,12.0,Series A,4/5/2020 21:21,United States,Unknown
+Bench,Vancouver,Finance,47.0,0.1,3/27/2020,betakit,49.0,Series B,6/23/2020 1:22,Canada,Unknown
+Loft,Sao Paulo,Real Estate,47.0,,3/27/2020,br,263.0,Series C,4/8/2020 20:43,Brazil,Unknown
+Oh My Green,SF Bay Area,Food,40.0,,3/27/2020,finance,20.0,Seed,3/29/2020 23:31,United States,Unknown
+Bevi,Boston,Food,30.0,0.2,3/27/2020,americaninno,60.0,Series C,3/28/2020 20:52,United States,Unknown
+Textio,Seattle,Recruiting,30.0,0.2,3/27/2020,geekwire,41.0,Unknown,3/28/2020 20:52,United States,Unknown
+Opal,Portland,Marketing,20.0,,3/27/2020,oregonlive,25.0,Series B,3/28/2020 20:52,United States,Unknown
+ThirdLove,New York City,Retail,10.0,,3/27/2020,vox,68.0,Series B,4/2/2020 4:05,United States,Unknown
+B8ta,SF Bay Area,Retail,250.0,0.5,3/26/2020,retaildive,88.0,Series C,3/29/2020 22:31,United States,Unknown
+Fareportal,Gurugram,Travel,200.0,,3/26/2020,hrnxt,,Unknown,3/30/2020 14:02,India,Unknown
+Puppet,Portland,Infrastructure,50.0,0.1,3/26/2020,oregonlive,149.0,Series F,3/28/2020 20:52,United States,Unknown
+Ecobee,Toronto,Energy,47.0,0.1,3/26/2020,layoffs,149.0,Series C,3/28/2020 20:52,Canada,Unknown
+Passport,Charlotte,Transportation,44.0,,3/26/2020,layoffs,123.0,Series D,3/28/2020 20:52,United States,Unknown
+Peerspace,SF Bay Area,Real Estate,41.0,0.75,3/26/2020,peerspace,34.0,Series B,3/31/2020 13:33,United States,Unknown
+GoSpotCheck,Denver,Retail,23.0,0.2,3/26/2020,businessden,47.0,Series B,3/28/2020 20:52,United States,Unknown
+Consider.co,SF Bay Area,Other,13.0,1.0,3/26/2020,consider,5.0,Seed,3/28/2020 20:52,United States,Unknown
+TripActions,SF Bay Area,Travel,300.0,0.25,3/25/2020,layoffs,981.0,Series D,3/28/2020 20:52,United States,Unknown
+Lyric,SF Bay Area,Real Estate,100.0,,3/25/2020,therealdeal,179.1,Series B,7/4/2020 3:10,United States,Unknown
+Rangle,Toronto,Product,78.0,0.3,3/25/2020,betakit,,Unknown,3/28/2020 20:52,Canada,Unknown
+O'Reilly Media,SF Bay Area,Media,75.0,0.15,3/25/2020,businessinsider,,Unknown,3/30/2020 14:03,United States,Unknown
+WanderJaunt,SF Bay Area,Travel,56.0,0.23,3/25/2020,nytimes,26.0,Series B,4/1/2020 21:08,United States,Unknown
+OutboundEngine,Austin,Marketing,52.0,0.28,3/25/2020,bizjournals,48.0,Series C,3/28/2020 20:52,United States,Unknown
+Wonderschool,SF Bay Area,Education,50.0,0.75,3/25/2020,layoffs,24.0,Series A,3/28/2020 20:52,United States,Unknown
+Overtime,New York City,Media,30.0,0.23,3/25/2020,frntofficesport,35.0,Series B,4/2/2020 22:27,United States,Unknown
+Jama,Portland,Product,12.0,0.05,3/25/2020,oregonlive,233.0,Unknown,3/28/2020 20:52,United States,Unknown
+Element Analytics,SF Bay Area,Data,10.0,,3/25/2020,,22.0,Series A,4/18/2020 18:20,United States,Unknown
+Sonder,SF Bay Area,Travel,400.0,0.33,3/24/2020,layoffs,359.0,Series D,3/28/2020 20:52,United States,Unknown
+Takl,Nashville,Consumer,130.0,,3/24/2020,bizjournals,,Unknown,4/2/2020 21:07,United States,Unknown
+Foodsby,Minneapolis,Food,87.0,0.67,3/24/2020,americaninno,20.0,Series B,3/28/2020 20:52,United States,Unknown
+Zeus Living,SF Bay Area,Real Estate,80.0,0.3,3/24/2020,layoffs,79.0,Series B,3/28/2020 20:52,United States,Unknown
+TravelBank,SF Bay Area,Travel,20.0,,3/24/2020,teamblind,35.0,Series B,4/1/2020 17:24,United States,Unknown
+Compass,New York City,Real Estate,375.0,0.15,3/23/2020,layoffs,1600.0,Series G,3/28/2020 20:52,United States,Unknown
+Convene,New York City,Real Estate,150.0,0.18,3/23/2020,layoffs,280.0,Series D,3/28/2020 20:52,United States,Unknown
+Leafly,Seattle,Retail,91.0,0.5,3/23/2020,geekwire,2.0,Acquired,3/28/2020 20:52,United States,Unknown
+The Guild,Austin,Travel,38.0,0.22,3/23/2020,americaninno,36.0,Series B,3/28/2020 20:52,United States,Unknown
+Drip,Salt Lake City,Marketing,20.0,,3/23/2020,,0.0,Acquired,4/1/2020 21:32,United States,Unknown
+GrayMeta,Los Angeles,Data,20.0,0.4,3/23/2020,,7.0,Unknown,4/1/2020 5:31,United States,Unknown
+Triplebyte,SF Bay Area,Recruiting,15.0,0.17,3/23/2020,layoffs,48.0,Series B,3/28/2020 20:52,United States,Unknown
+Ladder Life,SF Bay Area,Finance,13.0,0.25,3/23/2020,,94.0,Series C,4/7/2020 13:49,United States,Unknown
+Flywheel Sports,New York City,Fitness,784.0,0.98,3/20/2020,stayfit305,120.0,Acquired,4/9/2020 21:45,United States,Unknown
+Peek,Salt Lake City,Travel,45.0,,3/20/2020,layoffs,39.0,Series B,4/3/2020 14:42,United States,Unknown
+CTO.ai,Vancouver,Infrastructure,30.0,0.5,3/20/2020,,7.0,Seed,4/2/2020 4:13,Canada,Unknown
+Yonder,Austin,Media,18.0,,3/20/2020,americaninno,16.0,Series A,3/28/2020 20:52,United States,Unknown
+Bounce,Bengaluru,Transportation,120.0,,3/19/2020,cqai520,214.0,Series D,3/28/2020 20:52,India,Unknown
+Ejento,SF Bay Area,Recruiting,84.0,1.0,3/19/2020,layoffs,,Unknown,3/28/2020 20:52,United States,Unknown
+Remote Year,Chicago,Travel,50.0,0.5,3/19/2020,techcrunch,17.0,Series B,3/28/2020 20:52,United States,Unknown
+Lola,Boston,Travel,34.0,,3/19/2020,layoffs,81.0,Series C,3/28/2020 20:52,United States,Unknown
+Flytedesk,Boulder,Marketing,4.0,0.2,3/18/2020,businessden,4.0,Seed,4/1/2020 0:56,United States,Unknown
+Inspirato,Denver,Travel,130.0,0.22,3/16/2020,businessden,79.0,Series C,3/31/2020 14:45,United States,Unknown
+Help.com,Austin,Support,16.0,1.0,3/16/2020,,6.0,Seed,4/16/2020 6:36,United States,Unknown
+HopSkipDrive,Los Angeles,Transportation,8.0,0.1,3/13/2020,layoffs,45.0,Unknown,4/3/2020 4:47,United States,Unknown
+Panda Squad,SF Bay Area,Consumer,6.0,0.75,3/13/2020,twitter,1.0,Seed,4/17/2020 0:12,United States,Unknown
+Tamara Mellon,Los Angeles,Retail,20.0,0.4,3/12/2020,layoffs,90.0,Series C,3/31/2020 16:04,United States,Unknown
+EasyPost,Salt Lake City,Logistics,75.0,,3/11/2020,bizjournals,12.0,Series A,3/31/2020 13:21,United States,Unknown
+Blackbaud,Charleston,Other,500.0,0.14,,postandcourier,,Post-IPO,2/15/2023 19:06,United States,Unknown
